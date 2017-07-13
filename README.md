@@ -4,7 +4,7 @@ The Open Source Geospatial Foundation is not-for-profit organization to empower 
 
 This repository contains official branding, documents and correspondence. Access is limited to volunteers working with our foundation committees.
 
-![OSGeo](logo/osgeo-logo-rgb.png)
+![OSGeo](osgeo-logo.png)
 
 ## License
 
