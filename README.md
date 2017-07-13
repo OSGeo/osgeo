@@ -4,6 +4,8 @@ The Open Source Geospatial Foundation is not-for-profit organization to empower 
 
 This repository contains official branding, documents and correspondence. Access is limited to volunteers working with our foundation committees.
 
+![OSGeo](logo/osgeo-logo-cmyk.svg | width=300)
+
 ## License
 
 All work here is copyright The Open Source Geospatial Foundation, unless otherwise stated it is made available to you under an appropriate [Creative Commons](https://creativecommons.org) license.
@@ -19,3 +21,9 @@ Document licenses for software developers:
 Not all of our content is licensed for modification:
 
 * [CCBYND](https://creativecommons.org/licenses/by-nd/4.0/) - some documents are not useful to share in modified form: our organization charter, memorandums of understanding with partners, official legal documents, letters of recommendation, letters of support. In these cases we allow free distribution, but not modification, of said content. Authors may still quote or cite these materials, and this github repository provides a stable URL. Be sure to include the revision when citing as these documents change over time.
+
+## Copyright
+
+The Open Source Geospatial Foundation maintains copyright on all materials in the repository (except otherwise noted). This material was produced by our volunteers on behalf of our organization, or donated via pull request to our foundation in accordance with our contributor license agreement.
+
+> What does "except otherwise noted" mean? Some CCBYSA photos are used in our presentation templates and branding guide. We have included these photos in our repository, appropriately crediting the original authors in the initial commit message and in the directory README.md file.
