@@ -2,7 +2,7 @@
 
 Marketing committee responsible for supporting advocacy and outreach. The committee user-outreach offers assistance for events, projects, and local chapters.
 
-![OSGeo marketing](osgeo-marketing.svg)
+![OSGeo marketing](osgeo-marketing.png)
 
 ## Repository Contents
 
