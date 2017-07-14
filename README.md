@@ -2,9 +2,11 @@
 
 The Open Source Geospatial Foundation is not-for-profit organization to empower everyone with open source geospatial. The software foundation directly supports projects serving as an outreach and advocacy organization providing financial, organizational and legal support for the open source geospatial community. OSGeo works with our sponsors and partners to foster an open approach to software, standards, data and education.
 
+> OSGeo has US 501(c)(4) legal status as a not-for-profit organization
+
 This repository contains official branding, documents and correspondence. Access is limited to volunteers working with our foundation committees.
 
-![OSGeo](osgeo-logo.png)
+![OSGeo marketing](osgeo-marketing.png)
 
 ## License
 
