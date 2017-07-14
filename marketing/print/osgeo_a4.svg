@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="595px" height="842px" viewBox="0 0 595 842" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>osgeo_a4</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="osgeo_a4">
+            <polygon id="Fill-1" fill="#EAEAEA" points="0 841.593814 595.2746 741.5159 595.2746 740.0779 0 640"></polygon>
+            <polygon id="Fill-3" fill="#CFD1D0" points="0 841.077914 0 842.409913 595.2746 842.409913 595.2746 741"></polygon>
+            <text id="Title" font-family="MiriamLibre-Bold, Miriam Libre" font-size="35" font-weight="bold" line-spacing="40" letter-spacing="0.001" fill="#4AB969">
+                <tspan x="56" y="45">Open Source</tspan>
+                <tspan x="56" y="85">Geospatial Foundation</tspan>
+            </text>
+            <text id="Subtitle" font-family="MiriamLibre-Bold, Miriam Libre" font-size="14" font-weight="bold" line-spacing="18" letter-spacing="-0.00350000011" fill="#00393F">
+                <tspan x="57" y="123">Empower everyone with open source geospatial</tspan>
+            </text>
+            <g id="OSGeo" transform="translate(56.000000, 146.000000)">
+                <text id="About" font-family="Sintony-Bold, Sintony" font-size="8.5" font-weight="bold" line-spacing="13" fill="#0B3033">
+                    <tspan x="1" y="35">The Open Source Geospatial Foundation is a software </tspan>
+                    <tspan x="1" y="48">foundation promoting the global adoption of open </tspan>
+                    <tspan x="1" y="61">source geospatial technology. The foundation directly </tspan>
+                    <tspan x="1" y="74">supports projects serving our community.</tspan>
+                </text>
+                <text id="About-Copy" font-family="Sintony" font-size="8.5" font-weight="normal" line-spacing="13" fill="#0B3033">
+                    <tspan x="1" y="204">OSGeo is a volunteer driven not-for-profit organization </tspan>
+                    <tspan x="1" y="217">drawing together a wide membership of individuals </tspan>
+                    <tspan x="1" y="230">from around the world. We are pleased to work with our </tspan>
+                    <tspan x="1" y="243">sponsors and partners to foster an open approach to </tspan>
+                    <tspan x="1" y="256">software, standards, data and education.</tspan>
+                </text>
+                <text id="Iniatives" font-family="Sintony-Bold, Sintony" font-size="8.5" font-weight="bold" line-spacing="13" fill="#0B3033">
+                    <tspan x="15" y="103">OSGeo Projects:</tspan>
+                    <tspan x="79.549" y="103" font-family="Sintony" font-weight="normal"> Powerful open source software for </tspan>
+                    <tspan x="15" y="116" font-family="Sintony" font-weight="normal">gis professionals and technologist.</tspan>
+                    <tspan x="159.3725" y="116"></tspan>
+                    <tspan x="15" y="129">GeoForAll:</tspan>
+                    <tspan x="56.1485" y="129" font-family="Sintony" font-weight="normal"> Over 100 educational labs from around </tspan>
+                    <tspan x="15" y="142" font-family="Sintony" font-weight="normal">the world who work with partners to make geospatial </tspan>
+                    <tspan x="15" y="155" font-family="Sintony" font-weight="normal">education and opportunities accessible to all.</tspan>
+                    <tspan x="204.38" y="155"></tspan>
+                    <tspan x="15" y="168">FOSS4G:</tspan>
+                    <tspan x="49.017" y="168" font-family="Sintony" font-weight="normal"> Annual, international conference for Free </tspan>
+                    <tspan x="15" y="181" font-family="Sintony" font-weight="normal">and Open Source Software for Geospatial.</tspan>
+                </text>
+                <text id="Welcome" font-family="MiriamLibre-Bold, Miriam Libre" font-size="14" font-weight="bold" letter-spacing="-0.00350000011" fill="#4AB969">
+                    <tspan x="1" y="14">Welcome</tspan>
+                </text>
+                <polygon id="Fill-4" fill="#4AB969" points="4.91746 100.9033 0.69246 98.4633 0.69246 103.3463"></polygon>
+                <polygon id="Fill-5" fill="#4AB969" points="4.91746 126.9033 0.69246 124.4633 0.69246 129.3463"></polygon>
+                <polygon id="Fill-6" fill="#4AB969" points="4.91746 165.9033 0.69246 163.4633 0.69246 168.3463"></polygon>
+            </g>
+            <g id="Open-Geospatial" transform="translate(304.000000, 387.000000)">
+                <text font-family="MiriamLibre-Bold, Miriam Libre" font-size="14" font-weight="bold" letter-spacing="-0.00350000011" fill="#4AB969">
+                    <tspan x="1" y="14">Open Geospatial</tspan>
+                </text>
+                <g id="Group-2" transform="translate(0.000000, 33.000000)">
+                    <text id="OSGeo-is-pleased-to" font-family="Sintony-Bold, Sintony" font-size="8.5" font-weight="bold" line-spacing="13" fill="#0B3033">
+                        <tspan x="1" y="8">OSGeo is pleased to be at the forefront of the shift </tspan>
+                        <tspan x="1" y="21">towards open geospatial:</tspan>
+                    </text>
+                    <g id="Group-3" transform="translate(0.000000, 41.000000)">
+                        <text id="•-Open-Source:-secur" font-family="Sintony-Bold, Sintony" font-size="8.5" font-weight="bold" line-spacing="13" fill="#0B3033">
+                            <tspan x="10" y="8">Open Source:</tspan>
+                            <tspan x="64.7145" y="8" font-family="Sintony" font-weight="normal"> securing a collaborative approach to </tspan>
+                            <tspan x="10" y="21" font-family="Sintony" font-weight="normal">software development.</tspan>
+                            <tspan x="103.959" y="21"></tspan>
+                            <tspan x="10" y="34">Open Data:</tspan>
+                            <tspan x="55.254" y="34" font-family="Sintony" font-weight="normal"> providing freely available information to </tspan>
+                            <tspan x="10" y="47" font-family="Sintony" font-weight="normal">use as you wish.</tspan>
+                            <tspan x="78.187" y="47"></tspan>
+                            <tspan x="10" y="60">Open Standards:</tspan>
+                            <tspan x="78.8585" y="60" font-family="Sintony" font-weight="normal"> enabling interoperable software to </tspan>
+                            <tspan x="10" y="73" font-family="Sintony" font-weight="normal">avoid lock-in.</tspan>
+                            <tspan x="66.1" y="73"></tspan>
+                            <tspan x="10" y="86">Open Education:</tspan>
+                            <tspan x="77.949" y="86" font-family="Sintony" font-weight="normal"> removing the barriers to learning </tspan>
+                            <tspan x="10" y="99" font-family="Sintony" font-weight="normal">and teaching.</tspan>
+                        </text>
+                        <polygon id="Fill-10" fill="#4AB969" points="4.9488 6.9032 0.7238 4.4632 0.7238 9.3462"></polygon>
+                        <polygon id="Fill-11" fill="#4AB969" points="4.9488 32.9032 0.7238 30.4632 0.7238 35.3462"></polygon>
+                        <polygon id="Fill-12" fill="#4AB969" points="4.9488 58.9031 0.7238 56.4631 0.7238 61.3461"></polygon>
+                        <polygon id="Fill-13" fill="#4AB969" points="4.9488 84.9031 0.7238 82.4631 0.7238 87.3461"></polygon>
+                    </g>
+                    <text id="Together-these-appro" font-family="Sintony" font-size="8.5" font-weight="normal" line-spacing="13" fill="#0B3033">
+                        <tspan x="1" y="164">Together these approaches define a new way of </tspan>
+                        <tspan x="1" y="177">addressing the world's needs. OSGeo is pleased to </tspan>
+                        <tspan x="1" y="190">celebrate our partners and friends shaping this future.</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Open-Geospatial-Copy" transform="translate(56.000000, 458.964477)" fill="#0B3033">
+                <g id="Group-2">
+                    <text id="Starting-out-with-an" font-family="Sintony-Bold, Sintony" font-size="8.5" font-weight="bold" line-spacing="13">
+                        <tspan x="1" y="8">Starting out with any new technology can be </tspan>
+                        <tspan x="1" y="21">intimidating. OSGeo offers worldwide access to </tspan>
+                        <tspan x="1" y="34">“local chapter” groups to help you get started:</tspan>
+                    </text>
+                    <text id="Local-Chapters" font-family="Sintony" font-size="8.5" font-weight="normal" line-spacing="13">
+                        <tspan x="11" y="62">Local Chapters formed for a region hold events, offer </tspan>
+                        <tspan x="11" y="75">support, training and explore advocacy opportunities </tspan>
+                        <tspan x="11" y="88">with (non-)governmental agencies and industry </tspan>
+                        <tspan x="11" y="101">sectors.</tspan>
+                        <tspan x="11" y="114">Local Chapters formed across regions, around a </tspan>
+                        <tspan x="11" y="127">specific language or industry, provide an opportunity </tspan>
+                        <tspan x="11" y="140">to connect, network and share.</tspan>
+                        <tspan x="11" y="153">Each local chapter has a mix of GIS professionals, </tspan>
+                        <tspan x="11" y="166">academic champions, software developers and </tspan>
+                        <tspan x="11" y="179">service providers eager to share their stories and </tspan>
+                        <tspan x="11" y="192">help you start your open source journey.</tspan>
+                    </text>
+                    <text id="To-discover-a-group" font-family="Sintony" font-size="9" font-weight="normal">
+                        <tspan x="0" y="217">To discover a group near you please visit our website, </tspan>
+                        <tspan x="0" y="229">we cannot wait to meet you.</tspan>
+                    </text>
+                </g>
+            </g>
+            <polygon id="Fill-7" fill="#4AB969" points="60.91746 519.9031 56.69246 517.4631 56.69246 522.3461"></polygon>
+            <polygon id="Fill-8" fill="#4AB969" points="60.91746 571.9031 56.69246 569.4631 56.69246 574.3461"></polygon>
+            <polygon id="Fill-9" fill="#4AB969" points="60.91746 610.9031 56.69246 608.4631 56.69246 613.3461"></polygon>
+            <g id="Open-Source" transform="translate(304.000000, 146.000000)" font-weight="bold">
+                <text id="Open-Source-Software" font-family="MiriamLibre-Bold, Miriam Libre" font-size="14" letter-spacing="-0.00350000011" fill="#4AB969">
+                    <tspan x="0" y="14">Open Source Software</tspan>
+                </text>
+                <text id="OSGeo-holds-a-passio" font-family="Sintony-Bold, Sintony" font-size="8.5" line-spacing="13" fill="#0B3033">
+                    <tspan x="0" y="35">OSGeo holds a passionate belief in open source as the </tspan>
+                    <tspan x="0" y="48">best way to build software.</tspan>
+                    <tspan x="110.653" y="48" font-family="Sintony" font-weight="normal"> </tspan>
+                    <tspan x="113.118" y="48">Open source starts off with </tspan>
+                    <tspan x="0" y="61">a license that provides royalty free (re)use of software. </tspan>
+                    <tspan x="0" y="74">Next, open source guarantees access to the source </tspan>
+                    <tspan x="0" y="87">code for audit and modification and the ability to </tspan>
+                    <tspan x="0" y="100">redistribute the software with no additional costs.</tspan>
+                    <tspan x="207.2555" y="100" font-family="Sintony" font-weight="normal"></tspan>
+                    <tspan x="0" y="113" font-family="Sintony" font-weight="normal"></tspan>
+                    <tspan x="0" y="126" font-family="Sintony" font-weight="normal">This approach provides greater control than </tspan>
+                    <tspan x="0" y="139" font-family="Sintony" font-weight="normal">proprietary (closed) software. You are no longer tied to </tspan>
+                    <tspan x="0" y="152" font-family="Sintony" font-weight="normal">per-seat licensing or to a single software vendor. </tspan>
+                    <tspan x="0" y="165" font-family="Sintony" font-weight="normal">Support is available from an ecosystem of service </tspan>
+                    <tspan x="0" y="178" font-family="Sintony" font-weight="normal">providers and through community participation.</tspan>
+                    <tspan x="0" y="191" font-family="Sintony" font-weight="normal"></tspan>
+                    <tspan x="0" y="204" font-family="Sintony" font-weight="normal">OSGeo projects are freely available under OSI certified </tspan>
+                    <tspan x="0" y="217" font-family="Sintony" font-weight="normal">open source licenses.</tspan>
+                </text>
+            </g>
+            <g id="Software-Foundation" transform="translate(304.000000, 634.000000)">
+                <text font-family="MiriamLibre-Bold, Miriam Libre" font-size="14" font-weight="bold" letter-spacing="-0.00350000011" fill="#4AB969">
+                    <tspan x="0" y="14">Software Foundation</tspan>
+                </text>
+                <text id="OSGeo-is-responsible" font-family="Sintony" font-size="8.5" font-weight="normal" line-spacing="13" fill="#0B3033">
+                    <tspan x="2" y="40">OSGeo is responsible for supporting our great collection </tspan>
+                    <tspan x="2" y="53">of projects, and fostering new talent and innovation. </tspan>
+                    <tspan x="2" y="66">OSGeo assists projects technically with a community of </tspan>
+                    <tspan x="2" y="79">their peers, socially with community building, and </tspan>
+                    <tspan x="2" y="92">professionally ensuring projects are managed in a fair </tspan>
+                    <tspan x="2" y="105">and sustainable manner.</tspan>
+                </text>
+            </g>
+            <text id="Local-Chapters" font-family="MiriamLibre-Bold, Miriam Libre" font-size="14" font-weight="bold" letter-spacing="-0.00350000011" fill="#4AB969">
+                <tspan x="56.6929" y="439.964477">Local Chapters</tspan>
+            </text>
+            <g id="Group-31" transform="translate(49.000000, 739.889800)">
+                <g id="Group-30">
+                    <path d="M96.8063,47.94105 C97.8823,47.28505 98.7383,46.40205 99.3743,45.28605 C100.0093,44.17005 100.3283,42.97406 100.3283,41.69306 L100.3283,31.21906 C100.3283,29.93806 100.0093,28.74207 99.3743,27.62707 C98.7383,26.51407 97.8823,25.62607 96.8063,24.97107 C95.7303,24.31507 94.5713,23.98807 93.3333,23.98807 C92.0923,23.98807 90.9353,24.31507 89.8593,24.97107 C88.7833,25.62607 87.9273,26.51407 87.2893,27.62707 C86.6543,28.74207 86.3363,29.93806 86.3363,31.21906 L86.3363,41.69306 C86.3363,42.97406 86.6543,44.17005 87.2893,45.28605 C87.9273,46.40205 88.7833,47.28505 89.8593,47.94105 C90.9353,48.59705 92.0923,48.92505 93.3333,48.92505 C94.5713,48.92505 95.7303,48.59705 96.8063,47.94105 M86.8263,52.93505 C84.8363,51.76905 83.2623,50.19605 82.1043,48.21305 C80.9473,46.22905 80.3673,44.05405 80.3673,41.69306 L80.3673,31.21906 C80.3673,28.85907 80.9473,26.68607 82.1043,24.70307 C83.2623,22.71607 84.8363,21.14307 86.8263,19.98107 C88.8143,18.81507 90.9833,18.23307 93.3333,18.23307 C95.6803,18.23307 97.8493,18.81507 99.8393,19.98107 C101.8283,21.14307 103.4023,22.71607 104.5593,24.70307 C105.7173,26.68607 106.2963,28.85907 106.2963,31.21906 L106.2963,41.69306 C106.2963,44.05405 105.7173,46.22905 104.5593,48.21305 C103.4023,50.19605 101.8283,51.76905 99.8393,52.93505 C97.8493,54.09705 95.6803,54.67905 93.3333,54.67905 C90.9833,54.67905 88.8143,54.09705 86.8263,52.93505" id="Fill-17" fill="#4AB969"></path>
+                    <path d="M115.7808,53.76885 C114.0688,53.19585 112.4778,52.40085 111.0108,51.38485 C110.8468,51.28485 110.7328,51.11385 110.6678,50.86885 C110.6018,50.61985 110.6198,50.40185 110.7178,50.20285 L112.4298,47.10285 C112.6248,46.71285 112.9348,46.51385 113.3578,46.51385 C113.6198,46.51385 113.8648,46.57985 114.0938,46.71285 C116.5388,48.25285 118.8218,49.02385 120.9428,49.02385 C122.6698,49.02385 124.0318,48.60385 125.0278,47.76885 C126.0228,46.93085 126.5188,45.84185 126.5188,44.49685 C126.5188,43.61286 126.2738,42.86886 125.7858,42.25886 C125.2958,41.65286 124.6428,41.13686 123.8288,40.70986 C123.0128,40.28586 121.8218,39.75886 120.2568,39.13686 L118.8388,38.54686 C116.6198,37.59686 114.7538,36.38186 113.2378,34.90786 C111.7198,33.43086 110.9608,31.26586 110.9608,28.41487 C110.9608,26.41487 111.4098,24.64287 112.3068,23.10387 C113.2048,21.56087 114.4508,20.36487 116.0508,19.51087 C117.6478,18.65987 119.4908,18.23287 121.5788,18.23287 C123.3078,18.23287 125.0278,18.52087 126.7398,19.09387 C128.4508,19.66987 129.9928,20.46487 131.3628,21.48087 C131.5248,21.57687 131.6398,21.74887 131.7048,21.99787 C131.7708,22.24287 131.7548,22.46487 131.6568,22.65987 L130.0418,25.75887 C129.8468,26.15287 129.5358,26.34787 129.1118,26.34787 C128.8498,26.34787 128.6068,26.28187 128.3778,26.15287 C127.1068,25.33187 125.8918,24.74287 124.7348,24.38187 C123.5748,24.02087 122.5408,23.84187 121.6268,23.84187 C120.1598,23.84187 119.0008,24.24287 118.1528,25.04387 C117.3048,25.84887 116.8818,26.87487 116.8818,28.11987 C116.8818,29.39787 117.3468,30.45486 118.2758,31.29186 C119.2058,32.12686 120.6978,32.97086 122.7528,33.82586 C123.0458,33.92486 124.1628,34.37486 126.1038,35.17586 C128.0438,35.98086 129.5858,37.15286 130.7258,38.69286 C131.8688,40.23586 132.4398,42.05686 132.4398,44.15285 C132.4398,46.18685 131.9578,47.99785 130.9958,49.58685 C130.0338,51.17985 128.6878,52.41785 126.9598,53.30185 C125.2308,54.18585 123.2408,54.62985 120.9908,54.62985 C119.2298,54.62985 117.4928,54.34185 115.7808,53.76885" id="Fill-19" fill="#4AB969"></path>
+                    <path d="M143.4935,52.93465 C141.5185,51.76865 139.9535,50.19665 138.7965,48.21265 C137.6375,46.22965 137.0605,44.05365 137.0605,41.69266 L137.0605,31.21966 C137.0605,28.85867 137.6375,26.68567 138.7965,24.70267 C139.9535,22.71667 141.5185,21.14367 143.4935,19.98067 C145.4655,18.81567 147.6255,18.23267 149.9755,18.23267 C152.0295,18.23267 153.9375,18.60367 155.6995,19.33867 C157.4605,20.07667 158.9605,21.15367 160.2005,22.56067 C160.3955,22.79267 160.4934,23.07067 160.4934,23.39867 C160.4934,23.72567 160.3625,24.05367 160.1025,24.38167 L157.9485,26.64267 C157.6875,26.90767 157.4275,27.03767 157.1675,27.03767 C156.8395,27.03767 156.5465,26.89167 156.2865,26.59367 C154.6545,24.85867 152.5685,23.98767 150.0235,23.98767 C148.7835,23.98767 147.6255,24.31567 146.5495,24.97067 C145.4735,25.62667 144.6175,26.51467 143.9815,27.62667 C143.3465,28.74267 143.0285,29.93766 143.0285,31.21966 L143.0285,41.69266 C143.0285,42.97466 143.3465,44.16965 143.9815,45.28565 C144.6175,46.40165 145.4735,47.28565 146.5495,47.94065 C147.6255,48.59665 148.7835,48.92465 150.0235,48.92465 C151.2635,48.92465 152.4215,48.61365 153.4965,47.99065 C154.5725,47.36865 155.4205,46.51365 156.0415,45.43165 C156.6605,44.35165 156.9705,43.16966 156.9705,41.89166 L156.9705,39.48066 L150.4165,39.48066 C150.1215,39.48066 149.8775,39.38166 149.6805,39.18566 C149.4855,38.99066 149.3875,38.74266 149.3875,38.44766 L149.3875,34.90766 C149.3875,34.61366 149.4855,34.36566 149.6805,34.16966 C149.8775,33.97066 150.1215,33.87466 150.4165,33.87466 L160.7384,33.87466 C161.3244,33.87466 161.8214,34.07966 162.2304,34.48766 C162.6374,34.89866 162.8414,35.39766 162.8414,35.98766 L162.8414,41.69266 C162.8414,44.05365 162.2614,46.22965 161.1044,48.21265 C159.9475,50.19665 158.3805,51.76865 156.4095,52.93465 C154.4335,54.09665 152.2895,54.67965 149.9755,54.67965 C147.6255,54.67965 145.4655,54.09665 143.4935,52.93465" id="Fill-20" fill="#00393F"></path>
+                    <path d="M185.2664,37.07026 L185.2664,36.63026 C185.2664,35.02026 184.7034,33.65326 183.5794,32.52026 C182.4534,31.39126 181.0904,30.82526 179.4934,30.82526 C177.8954,30.82526 176.5344,31.39126 175.4084,32.52026 C174.2834,33.65326 173.7204,35.02026 173.7204,36.63026 L173.7204,37.07026 L185.2664,37.07026 Z M173.6474,52.46425 C171.8694,51.41825 170.4584,49.99025 169.4154,48.18625 C168.3704,46.38525 167.8504,44.41825 167.8504,42.28526 L167.8504,36.97426 C167.8504,34.84226 168.3704,32.87526 169.4154,31.07026 C170.4584,29.26927 171.8694,27.84227 173.6474,26.79227 C175.4254,25.74227 177.3734,25.21627 179.4934,25.21627 C181.6144,25.21627 183.5624,25.74227 185.3394,26.79227 C187.1174,27.84227 188.5274,29.26927 189.5714,31.07026 C190.6154,32.87526 191.1374,34.84226 191.1374,36.97426 L191.1374,40.26926 C191.1374,40.85826 190.9334,41.35826 190.5264,41.76926 C190.1174,42.18026 189.6204,42.38126 189.0324,42.38126 L173.7204,42.38126 L173.7204,42.63026 C173.7204,44.23625 174.2834,45.60325 175.4084,46.73625 C176.5344,47.86825 177.8954,48.43125 179.4934,48.43125 L187.2734,48.43125 C187.5654,48.43125 187.8104,48.53025 188.0064,48.72925 C188.2014,48.92425 188.2994,49.16925 188.2994,49.46425 L188.2994,53.00725 C188.2994,53.30225 188.2014,53.54725 188.0064,53.74625 C187.8104,53.94125 187.5654,54.04025 187.2734,54.04025 L179.4934,54.04025 C177.3734,54.04025 175.4254,53.51425 173.6474,52.46425 L173.6474,52.46425 Z" id="Fill-21" fill="#00393F"></path>
+                    <path d="M211.2906,47.27575 C212.4156,46.14675 212.9786,44.77575 212.9786,43.16976 L212.9786,36.72576 C212.9786,35.12076 212.4156,33.75276 211.2906,32.61976 C210.1666,31.48776 208.8036,30.92476 207.2056,30.92476 C205.6066,30.92476 204.2456,31.48776 203.1196,32.61976 C201.9956,33.75276 201.4326,35.12076 201.4326,36.72576 L201.4326,43.16976 C201.4326,44.77575 201.9956,46.14675 203.1196,47.27575 C204.2456,48.40775 205.6066,48.97475 207.2056,48.97475 C208.8036,48.97475 210.1666,48.40775 211.2906,47.27575 M201.3606,53.12975 C199.5826,52.09675 198.1716,50.69575 197.1286,48.92475 C196.0836,47.15275 195.5626,45.23575 195.5626,43.16976 L195.5626,36.72576 C195.5626,34.65976 196.0836,32.74276 197.1286,30.97076 C198.1716,29.20277 199.5826,27.79877 201.3606,26.76577 C203.1366,25.73277 205.0856,25.21577 207.2056,25.21577 C209.3256,25.21577 211.2736,25.73277 213.0516,26.76577 C214.8286,27.79877 216.2396,29.20277 217.2836,30.97076 C218.3266,32.74276 218.8506,34.65976 218.8506,36.72576 L218.8506,43.16976 C218.8506,45.23575 218.3266,47.15275 217.2836,48.92475 C216.2396,50.69575 214.8286,52.09675 213.0516,53.12975 C211.2736,54.16275 209.3256,54.67975 207.2056,54.67975 C205.0856,54.67975 203.1366,54.16275 201.3606,53.12975" id="Fill-22" fill="#00393F"></path>
+                    <path d="M34.12084,15.14508 L34.12084,7.99608 L34.12084,0.8051 L29.64884,8.63208 C17.46885,11.35908 8.23486,21.87007 7.44386,34.67406 L14.59085,34.67406 C15.44885,24.28307 23.72985,16.00307 34.12084,15.14508" id="Fill-23" fill="#4AB969"></path>
+                    <path d="M14.59105,38.23866 L7.44406,38.23866 L0.25206,38.23866 L8.07906,42.71066 C10.80606,54.89065 21.31805,64.12464 34.12104,64.91564 L34.12104,57.76664 C23.73005,56.90865 15.44905,48.62865 14.59105,38.23866" id="Fill-24" fill="#00393F"></path>
+                    <path d="M57.2156,34.67346 L64.3636,34.67346 L71.5546,34.67346 L63.7276,30.20146 C61.0016,18.02147 50.48863,8.78748 37.68564,7.99648 L37.68564,15.14448 C48.07663,16.00347 56.3576,24.28347 57.2156,34.67346" id="Fill-25" fill="#00393F"></path>
+                    <path d="M37.68584,57.76694 L37.68584,64.91594 L37.68584,72.10693 L42.15783,64.27994 C54.3378,61.55394 63.5718,51.04195 64.3628,38.23896 L57.2158,38.23896 C56.3578,48.62895 48.07683,56.90895 37.68584,57.76694" id="Fill-26" fill="#4AB969"></path>
+                    <path d="M35.88124,37.98306 C35.02024,37.98306 34.32124,37.28506 34.32124,36.42306 C34.32124,35.56206 35.02024,34.86406 35.88124,34.86406 C36.74224,34.86406 37.44124,35.56206 37.44124,36.42306 C37.44124,37.28506 36.74224,37.98306 35.88124,37.98306 L35.88124,37.98306 Z M38.10924,34.25006 L24.87425,25.42707 L33.69724,38.66206 L46.93223,47.48505 L38.10924,34.25006 Z" id="Fill-27" fill="#00393F"></path>
+                    <polygon id="Fill-28" fill="#4AB969" points="33.69754 38.66196 30.72354 34.19996 17.18655 36.45596 30.72354 38.71196 24.87455 47.48495 33.64754 41.63596 35.90354 55.17295 38.15954 41.63596"></polygon>
+                    <polygon id="Fill-29" fill="#4AB969" points="41.08364 34.19996 46.93263 25.42697 38.15964 31.27596 35.90364 17.73897 33.64764 31.27596 38.10964 34.24996 41.08364 38.71196 54.6196 36.45596"></polygon>
+                </g>
+            </g>
+            <text id="url" font-family="MiriamLibre-Bold, Miriam Libre" font-size="14" font-weight="bold" letter-spacing="0.42" fill="#00393F">
+                <tspan x="429.2794" y="785.8898">ww</tspan>
+                <tspan x="455.9914" y="785.8898" letter-spacing="-1.26">w</tspan>
+                <tspan x="465.9874" y="785.8898">.</tspan>
+                <tspan x="469.7954" y="785.8898" letter-spacing="-0.14">o</tspan>
+                <tspan x="477.8034" y="785.8898" letter-spacing="-0.07">sg</tspan>
+                <tspan x="492.8954" y="785.8898" letter-spacing="0.0686">e</tspan>
+                <tspan x="501.224" y="785.8898" letter-spacing="-0.14">o</tspan>
+                <tspan x="509.232" y="785.8898">.</tspan>
+                <tspan x="513.04" y="785.8898" letter-spacing="-0.21">o</tspan>
+                <tspan x="520.908" y="785.8898" letter-spacing="-0.14">r</tspan>
+                <tspan x="527.628" y="785.8898">g</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
