@@ -495,7 +495,7 @@
             <tspan
                x="0"
                y="229"
-               id="tspan156">website, we cannot wait to meet you.</tspan>
+               id="tspan156">website, <tspan style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony">we cannot wait to meet you</tspan> .</tspan>
           </text>
         </g>
       </g>
