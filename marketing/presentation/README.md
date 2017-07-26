@@ -4,7 +4,7 @@ The following presentation templates are available:
 
 * Keynote: The master slides include a image placeholder with a default image. To customize the title and closing slides with your own drone photography or cartographic example.
 * Powerpoint: The master slides include baked in imagery. To customize the title and closing slides please copy the presentation and use the provided shapes with your own done photography or cartographic example.
-* Libre Office: We need a volunteer to create an open document format presentation template.
+* Libre Office: We need a volunteer to test (and if necessary tweak) the open document format presentation template.
 * Template: Design backgrounds or use in the creation of html presentations. 
 
 # Colors and Fonts
