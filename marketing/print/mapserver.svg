@@ -1,0 +1,863 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="595px"
+   height="842px"
+   viewBox="0 0 595 842"
+   version="1.1"
+   id="svg247"
+   sodipodi:docname="mapserver.svg"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata251">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1136"
+     id="namedview249"
+     showgrid="false"
+     inkscape:zoom="2"
+     inkscape:cx="450.91757"
+     inkscape:cy="671.08016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="osgeo_a4" />
+  <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title2">osgeo_a4</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <defs
+     id="defs6" />
+  <g
+     id="Page-1"
+     stroke="none"
+     stroke-width="1"
+     fill="none"
+     fill-rule="evenodd">
+    <g
+       id="osgeo_a4">
+      <polygon
+         id="Fill-1"
+         fill="#EAEAEA"
+         points="0 841.593814 595.2746 741.5159 595.2746 740.0779 0 640" />
+      <polygon
+         id="Fill-3"
+         fill="#CFD1D0"
+         points="0 841.077914 0 842.409913 595.2746 842.409913 595.2746 741" />
+      <text
+         id="Title"
+         font-size="35"
+         font-weight="bold"
+         line-spacing="40"
+         letter-spacing="0.001"
+         x="-1.9900017"
+         style="font-weight:bold;font-size:35px;font-family:MiriamLibre-Bold, 'Miriam Libre';letter-spacing:0.001;fill:#4ab969">
+        <tspan
+           x="54.009998"
+           y="45"
+           id="tspan10">MapServer</tspan>
+      </text>
+      <text
+         id="Subtitle"
+         font-size="14"
+         font-weight="bold"
+         line-spacing="18"
+         letter-spacing="-0.00350000011"
+         x="-1.5600009"
+         style="font-weight:bold;font-size:14px;font-family:MiriamLibre-Bold, 'Miriam Libre';letter-spacing:-0.0035;fill:#00393f"
+         y="-50">
+        <tspan
+           x="55.439999"
+           y="73"
+           id="tspan15">The open source web mapping</tspan>
+      </text>
+      <text
+         style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033"
+         x="57.016998"
+         line-spacing="13"
+         font-weight="bold"
+         font-size="8.5"
+         id="About"
+         y="122">
+        <tspan
+           id="tspan18"
+           y="157"
+           x="58.016998">MapServer is an Open Source platform for publishing</tspan>
+        <tspan
+           id="tspan20"
+           y="170"
+           x="58.016998">spatial data and interactive mapping applications to</tspan>
+        <tspan
+           id="tspan22"
+           y="183"
+           x="58.016998">the web. Originally developed in the mid-1990’s at the</tspan>
+        <tspan
+           id="tspan16"
+           y="196"
+           x="58.016998">University of Minnesota, MapServer is released under</tspan>
+        <tspan
+           id="tspan24"
+           y="209"
+           x="58.016998">an MIT-style license, and runs on all major platforms.</tspan>
+      </text>
+      <text
+         y="24.158104"
+         x="57.568584"
+         style="font-weight:normal;font-size:8.42363644px;font-family:Sintony;fill:#0b3033;stroke-width:0.99101603"
+         line-spacing="13"
+         font-weight="normal"
+         font-size="8.5"
+         id="About-Copy">
+        <tspan
+           id="tspan27"
+           y="226.32536"
+           x="58.559601"
+           style="stroke-width:0.99101603">It is written in C and it is maintained by a growing</tspan>
+        <tspan
+           id="tspan29"
+           y="239.20859"
+           x="58.559601"
+           style="stroke-width:0.99101603">number of developers from around the world.</tspan>
+        <tspan
+           id="tspan31"
+           y="252.0918"
+           x="58.559601"
+           style="stroke-width:0.99101603">It is supported by a diverse group of organizations</tspan>
+        <tspan
+           id="tspan33"
+           y="264.97498"
+           x="58.559601"
+           style="stroke-width:0.99101603">that fund enhancements and maintenance, and</tspan>
+        <tspan
+           id="tspan35"
+           y="277.85818"
+           x="58.559601"
+           style="stroke-width:0.99101603">administered within OSGeo by the MapServer Project</tspan>
+        <tspan
+           id="tspan23"
+           y="290.74139"
+           x="58.559601"
+           style="stroke-width:0.99101603">Steering Committee made up of developers and other</tspan>
+        <tspan
+           id="tspan25"
+           y="303.6246"
+           x="58.559601"
+           style="stroke-width:0.99101603">contributors.software, standards, data and education.</tspan>
+      </text>
+      <text
+         style="font-weight:bold;font-size:14px;font-family:MiriamLibre-Bold, 'Miriam Libre';letter-spacing:-0.0035;fill:#4ab969"
+         x="56.439999"
+         letter-spacing="-0.00350000011"
+         font-weight="bold"
+         font-size="14"
+         id="Welcome"
+         y="122">
+        <tspan
+           id="tspan63"
+           y="136"
+           x="57.439999">Welcome</tspan>
+      </text>
+      <g
+         id="Open-Geospatial"
+         transform="translate(304.000000, 387.000000)">
+        <text
+           font-size="14"
+           font-weight="bold"
+           letter-spacing="-0.00350000011"
+           id="text72"
+           x="-0.85399997"
+           style="font-weight:bold;font-size:14px;font-family:MiriamLibre-Bold, 'Miriam Libre';letter-spacing:-0.0035;fill:#4ab969">
+          <tspan
+             x="0.146"
+             y="14"
+             id="tspan70">Open Geospatial</tspan>
+        </text>
+        <g
+           id="Group-2"
+           transform="translate(0.000000, 33.000000)">
+          <text
+             id="OSGeo-is-pleased-to"
+             font-size="8.5"
+             font-weight="bold"
+             line-spacing="13"
+             x="-0.076499999"
+             style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033">
+            <tspan
+               x="0.9235"
+               y="8"
+               id="tspan74">OSGeo is pleased to be at the forefront of the shift</tspan>
+            <tspan
+               x="0.9235"
+               y="21"
+               id="tspan76">towards open geospatial:</tspan>
+          </text>
+          <g
+             id="Group-3"
+             transform="translate(0.2762,41)">
+            <text
+               id="•-Open-Source:-secur"
+               font-size="8.5"
+               font-weight="bold"
+               line-spacing="13"
+               style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033">
+              <tspan
+                 x="15"
+                 y="8"
+                 id="tspan79">Open Source:</tspan>
+              <tspan
+                 x="73"
+                 y="8"
+                 font-weight="normal"
+                 id="tspan81"
+                 style="font-weight:normal;font-family:Sintony">securing a collaborative approach to</tspan>
+              <tspan
+                 x="15"
+                 y="21"
+                 font-weight="normal"
+                 id="tspan83"
+                 style="font-weight:normal;font-family:Sintony">software development.</tspan>
+              <tspan
+                 x="108.959"
+                 y="21"
+                 id="tspan85" />
+              <tspan
+                 x="15"
+                 y="34"
+                 id="tspan87">Open Data:</tspan>
+              <tspan
+                 x="63"
+                 y="34"
+                 font-weight="normal"
+                 id="tspan89"
+                 style="font-weight:normal;font-family:Sintony">providing freely available information to</tspan>
+              <tspan
+                 x="15"
+                 y="47"
+                 font-weight="normal"
+                 id="tspan91"
+                 style="font-weight:normal;font-family:Sintony">use as you wish.</tspan>
+              <tspan
+                 x="83.186996"
+                 y="47"
+                 id="tspan93" />
+              <tspan
+                 x="15"
+                 y="60"
+                 id="tspan95">Open Standards:</tspan>
+              <tspan
+                 x="87"
+                 y="60"
+                 font-weight="normal"
+                 id="tspan97"
+                 style="font-weight:normal;font-family:Sintony">enabling interoperable software to</tspan>
+              <tspan
+                 x="15"
+                 y="73"
+                 font-weight="normal"
+                 id="tspan99"
+                 style="font-weight:normal;font-family:Sintony">avoid lock-in.</tspan>
+              <tspan
+                 x="66.099998"
+                 y="73"
+                 id="tspan101" />
+              <tspan
+                 x="15"
+                 y="86"
+                 id="tspan103">Open Education:</tspan>
+              <tspan
+                 x="86"
+                 y="86"
+                 font-weight="normal"
+                 id="tspan105"
+                 style="font-weight:normal;font-family:Sintony">removing the barriers to learning</tspan>
+              <tspan
+                 x="15"
+                 y="99"
+                 font-weight="normal"
+                 id="tspan107"
+                 style="font-weight:normal;font-family:Sintony">and teaching.</tspan>
+            </text>
+            <polygon
+               id="Fill-10"
+               points="0.7238,4.4632 0.7238,9.3462 4.9488,6.9032 "
+               style="fill:#4ab969" />
+            <polygon
+               id="Fill-11"
+               points="0.7238,30.4632 0.7238,35.3462 4.9488,32.9032 "
+               style="fill:#4ab969" />
+            <polygon
+               id="Fill-12"
+               points="0.7238,56.4631 0.7238,61.3461 4.9488,58.9031 "
+               style="fill:#4ab969" />
+            <polygon
+               id="Fill-13"
+               points="0.7238,82.4631 0.7238,87.3461 4.9488,84.9031 "
+               style="fill:#4ab969" />
+          </g>
+          <text
+             id="Together-these-appro"
+             font-size="8.5"
+             font-weight="normal"
+             line-spacing="13"
+             x="-0.059500001"
+             style="font-weight:normal;font-size:8.5px;font-family:Sintony;fill:#0b3033">
+            <tspan
+               x="0.94050002"
+               y="164"
+               id="tspan115">Together these approaches define a new way of</tspan>
+            <tspan
+               x="0.94050002"
+               y="177"
+               id="tspan117">addressing the world's needs. OSGeo is pleased to</tspan>
+            <tspan
+               x="0.94050002"
+               y="190"
+               id="tspan119">celebrate our partners and friends shaping this future.</tspan>
+          </text>
+        </g>
+      </g>
+      <g
+         id="Open-Source"
+         transform="translate(304,124)"
+         font-weight="bold"
+         style="font-weight:bold">
+        <text
+           id="Open-Source-Software"
+           font-size="14"
+           letter-spacing="-0.00350000011"
+           x="0.146"
+           style="font-size:14px;font-family:MiriamLibre-Bold, 'Miriam Libre';letter-spacing:-0.0035;fill:#4ab969">
+          <tspan
+             x="0.146"
+             y="14"
+             id="tspan165">Where is it used</tspan>
+        </text>
+        <text
+           id="OSGeo-holds-a-passio"
+           font-size="8.5"
+           line-spacing="13"
+           x="0.94050002"
+           style="font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033">
+          <tspan
+             x="0.94050002"
+             y="35"
+             id="tspan168">OSGeo holds a passionate belief in open source as the</tspan>
+          <tspan
+             x="0.94050002"
+             y="48"
+             id="tspan170">best way to build software.</tspan>
+          <tspan
+             x="111.5935"
+             y="48"
+             font-weight="normal"
+             id="tspan172"
+             style="font-weight:normal;font-family:Sintony" />
+          <tspan
+             x="114.05849"
+             y="48"
+             id="tspan174">Open source starts off with</tspan>
+          <tspan
+             x="0.94050002"
+             y="61"
+             id="tspan176">a license that provides royalty free (re)use of software.</tspan>
+          <tspan
+             x="0.94050002"
+             y="74"
+             id="tspan178">Next, open source guarantees access to the source</tspan>
+          <tspan
+             x="0.94050002"
+             y="87"
+             id="tspan180">code for audit and modification and the ability to</tspan>
+          <tspan
+             x="0.94050002"
+             y="100"
+             id="tspan182">redistribute the software with no additional costs.</tspan>
+          <tspan
+             x="208.196"
+             y="100"
+             font-weight="normal"
+             id="tspan184"
+             style="font-weight:normal;font-family:Sintony" />
+          <tspan
+             x="0.94050002"
+             y="113"
+             font-weight="normal"
+             id="tspan186"
+             style="font-weight:normal;font-family:Sintony" />
+          <tspan
+             x="0.94050002"
+             y="126"
+             font-weight="normal"
+             id="tspan188"
+             style="font-weight:normal;font-family:Sintony">This approach provides greater control than</tspan>
+          <tspan
+             x="0.94050002"
+             y="139"
+             font-weight="normal"
+             id="tspan190"
+             style="font-weight:normal;font-family:Sintony">proprietary (closed) software. You are no longer tied to</tspan>
+          <tspan
+             x="0.94050002"
+             y="152"
+             font-weight="normal"
+             id="tspan192"
+             style="font-weight:normal;font-family:Sintony">per-seat licensing or to a single software vendor.</tspan>
+          <tspan
+             x="0.94050002"
+             y="165"
+             font-weight="normal"
+             id="tspan194"
+             style="font-weight:normal;font-family:Sintony">Support is available from an ecosystem of service</tspan>
+          <tspan
+             x="0.94050002"
+             y="178"
+             font-weight="normal"
+             id="tspan196"
+             style="font-weight:normal;font-family:Sintony">providers and through community participation.</tspan>
+          <tspan
+             x="0.94050002"
+             y="191"
+             font-weight="normal"
+             id="tspan198"
+             style="font-weight:normal;font-family:Sintony" />
+          <tspan
+             x="0.94050002"
+             y="204"
+             font-weight="normal"
+             id="tspan200"
+             style="font-weight:normal;font-family:Sintony">OSGeo projects are freely available under OSI certified</tspan>
+          <tspan
+             x="0.94050002"
+             y="217"
+             font-weight="normal"
+             id="tspan202"
+             style="font-weight:normal;font-family:Sintony">open source licenses.</tspan>
+        </text>
+      </g>
+      <text
+         id="url"
+         font-size="14"
+         font-weight="bold"
+         letter-spacing="0.42"
+         x="-56"
+         style="font-weight:bold;font-size:14px;font-family:MiriamLibre-Bold, 'Miriam Libre';letter-spacing:0.41999999;fill:#00393f">
+        <tspan
+           x="373.27939"
+           y="785.88977"
+           id="tspan242">www.mapserver.org</tspan>
+      </text>
+      <g
+         id="g4781"
+         transform="matrix(0.19540791,0,0,0.19540791,448.35,17.85)">
+        <g
+           id="g4724"
+           class="st0"
+           style="enable-background:new">
+          <path
+             id="path4710"
+             d="m 202.9,193.2 c -0.2,-0.2 -0.2,-0.3 -0.2,-0.6 v -37.4 c 0,-0.6 0.2,-1.1 0.6,-1.5 0.4,-0.4 0.9,-0.6 1.5,-0.6 h 9.7 c 2.3,0 4.4,0.6 6.4,1.7 1.9,1.1 3.5,2.6 4.6,4.5 1.1,1.9 1.7,4 1.7,6.3 0,2.3 -0.6,4.4 -1.7,6.3 -1.1,1.9 -2.6,3.4 -4.6,4.5 -1.9,1.1 -4.1,1.7 -6.4,1.7 h -7.1 v 14.6 c 0,0.2 -0.1,0.4 -0.2,0.6 -0.2,0.2 -0.3,0.2 -0.6,0.2 h -3.1 c -0.3,0 -0.5,-0.1 -0.6,-0.3 z m 11.3,-19.6 c 1.5,0 2.8,-0.4 4.1,-1.1 1.2,-0.7 2.2,-1.7 2.9,-2.9 0.7,-1.2 1.1,-2.6 1.1,-4 0,-1.4 -0.4,-2.8 -1.1,-4 -0.7,-1.2 -1.7,-2.2 -2.9,-2.9 -1.2,-0.7 -2.6,-1.1 -4.1,-1.1 h -6.8 v 16 z"
+             class="st1"
+             inkscape:connector-curvature="0"
+             style="fill:#0b3a42" />
+          <path
+             id="path4712"
+             d="m 233.4,193.2 c -0.2,-0.2 -0.2,-0.3 -0.2,-0.6 V 190 c 0,-0.2 0.1,-0.4 0.2,-0.6 0.2,-0.2 0.3,-0.2 0.6,-0.2 h 4.8 V 164.8 H 234 c -0.2,0 -0.4,-0.1 -0.6,-0.2 -0.2,-0.2 -0.2,-0.3 -0.2,-0.6 v -2.5 c 0,-0.2 0.1,-0.4 0.2,-0.6 0.2,-0.2 0.3,-0.2 0.6,-0.2 h 7.2 c 0.6,0 1.1,0.2 1.5,0.6 0.4,0.4 0.6,0.9 0.6,1.5 v 2.9 l 3.4,-2.6 c 1.4,-1.1 2.5,-1.8 3.4,-2.2 0.9,-0.4 1.8,-0.6 2.8,-0.6 h 1.7 c 0.3,0 0.5,0.1 0.6,0.2 0.1,0.2 0.2,0.3 0.2,0.6 v 2.8 c 0,0.2 -0.1,0.4 -0.2,0.6 -0.2,0.2 -0.3,0.2 -0.6,0.2 h -1.3 c -1,0 -1.9,0.2 -2.7,0.6 -0.9,0.4 -2.1,1.3 -3.8,2.6 l -3.4,2.7 V 189 h 6.7 c 0.2,0 0.4,0.1 0.6,0.2 0.2,0.2 0.2,0.3 0.2,0.6 v 2.7 c 0,0.2 -0.1,0.4 -0.2,0.6 -0.2,0.2 -0.3,0.2 -0.6,0.2 H 234 c -0.2,0.2 -0.4,0.1 -0.6,-0.1 z"
+             class="st1"
+             inkscape:connector-curvature="0"
+             style="fill:#0b3a42" />
+          <path
+             id="path4714"
+             d="m 266.3,192.5 c -1.9,-1.1 -3.5,-2.7 -4.6,-4.6 -1.1,-2 -1.7,-4.1 -1.7,-6.4 v -9 c 0,-2.3 0.6,-4.4 1.7,-6.4 1.1,-2 2.6,-3.5 4.6,-4.6 1.9,-1.1 4,-1.7 6.3,-1.7 2.3,0 4.4,0.6 6.3,1.7 1.9,1.1 3.5,2.7 4.6,4.6 1.1,2 1.7,4.1 1.7,6.4 v 9 c 0,2.3 -0.6,4.4 -1.7,6.4 -1.1,2 -2.6,3.5 -4.6,4.6 -2,1.1 -4,1.7 -6.3,1.7 -2.3,0 -4.4,-0.5 -6.3,-1.7 z m 10.4,-3.6 c 1.2,-0.7 2.2,-1.7 2.9,-2.9 0.7,-1.2 1.1,-2.6 1.1,-4.1 v -9.6 c 0,-1.5 -0.4,-2.8 -1.1,-4.1 -0.7,-1.2 -1.7,-2.2 -2.9,-2.9 -1.2,-0.7 -2.6,-1.1 -4.1,-1.1 -1.5,0 -2.8,0.4 -4.1,1.1 -1.2,0.7 -2.2,1.7 -2.9,2.9 -0.7,1.2 -1.1,2.6 -1.1,4.1 v 9.6 c 0,1.5 0.4,2.8 1.1,4.1 0.7,1.2 1.7,2.2 2.9,2.9 1.2,0.7 2.6,1.1 4.1,1.1 1.5,-0.1 2.9,-0.4 4.1,-1.1 z"
+             class="st1"
+             inkscape:connector-curvature="0"
+             style="fill:#0b3a42" />
+          <path
+             id="path4716"
+             d="m 291.2,204.4 c -0.2,-0.2 -0.2,-0.3 -0.2,-0.6 v -2.6 c 0,-0.2 0.1,-0.4 0.2,-0.6 0.2,-0.2 0.3,-0.2 0.6,-0.2 h 3.4 c 1.3,0 2.4,-0.4 3.2,-1.2 0.8,-0.8 1.2,-1.9 1.2,-3.3 v -31 h -7.7 c -0.2,0 -0.4,-0.1 -0.6,-0.2 -0.2,-0.2 -0.2,-0.3 -0.2,-0.6 v -2.7 c 0,-0.2 0.1,-0.4 0.2,-0.6 0.2,-0.2 0.3,-0.2 0.6,-0.2 H 302 c 0.6,0 1.1,0.2 1.5,0.6 0.4,0.4 0.6,0.9 0.6,1.5 V 196 c 0,2.4 -0.8,4.5 -2.3,6.2 -1.5,1.7 -3.5,2.5 -6.1,2.5 h -3.9 c -0.2,0 -0.4,-0.1 -0.6,-0.3 z m 8.6,-49.7 c -0.2,-0.2 -0.2,-0.3 -0.2,-0.6 v -5 c 0,-0.2 0.1,-0.4 0.2,-0.6 0.2,-0.2 0.3,-0.2 0.6,-0.2 h 2.8 c 0.2,0 0.4,0.1 0.6,0.2 0.2,0.2 0.2,0.3 0.2,0.6 v 5 c 0,0.2 -0.1,0.4 -0.2,0.6 -0.2,0.2 -0.3,0.2 -0.6,0.2 h -2.8 c -0.2,0.1 -0.4,0 -0.6,-0.2 z"
+             class="st1"
+             inkscape:connector-curvature="0"
+             style="fill:#0b3a42" />
+          <path
+             id="path4718"
+             d="m 319.6,191.8 c -1.9,-1.1 -3.5,-2.7 -4.6,-4.6 -1.1,-2 -1.7,-4.1 -1.7,-6.4 v -8.3 c 0,-2.3 0.6,-4.4 1.7,-6.4 1.1,-2 2.6,-3.5 4.6,-4.6 1.9,-1.1 4,-1.7 6.3,-1.7 2.3,0 4.4,0.6 6.3,1.7 1.9,1.1 3.5,2.7 4.6,4.6 1.1,2 1.7,4.1 1.7,6.4 v 3.9 c 0,0.6 -0.2,1.1 -0.6,1.5 -0.4,0.4 -0.9,0.6 -1.5,0.6 h -18.6 v 2.6 c 0,1.5 0.4,2.8 1.1,4.1 0.7,1.2 1.7,2.2 2.9,2.9 1.2,0.7 2.6,1.1 4.1,1.1 h 8.4 c 0.2,0 0.4,0.1 0.6,0.2 0.2,0.2 0.2,0.3 0.2,0.6 v 2.7 c 0,0.2 -0.1,0.4 -0.2,0.6 -0.2,0.2 -0.3,0.2 -0.6,0.2 h -8.4 c -2.3,0 -4.4,-0.6 -6.3,-1.7 z M 334,174.4 v -2.1 c 0,-1.5 -0.4,-2.8 -1.1,-4.1 -0.7,-1.2 -1.7,-2.2 -2.9,-2.9 -1.2,-0.7 -2.6,-1.1 -4.1,-1.1 -1.5,0 -2.8,0.4 -4.1,1.1 -1.2,0.7 -2.2,1.7 -2.9,2.9 -0.7,1.2 -1.1,2.6 -1.1,4.1 v 2.1 z"
+             class="st1"
+             inkscape:connector-curvature="0"
+             style="fill:#0b3a42" />
+          <path
+             id="path4720"
+             d="m 351.9,192.5 c -1.9,-1.1 -3.5,-2.7 -4.6,-4.6 -1.1,-2 -1.7,-4.1 -1.7,-6.4 v -9 c 0,-2.3 0.6,-4.4 1.7,-6.4 1.1,-2 2.6,-3.5 4.6,-4.6 1.9,-1.1 4,-1.7 6.3,-1.7 1.7,0 3.2,0.3 4.7,0.9 1.5,0.6 2.8,1.5 3.9,2.6 0.2,0.2 0.3,0.5 0.3,0.8 0,0.3 -0.1,0.6 -0.3,0.9 -0.4,0.4 -0.8,0.9 -1.3,1.3 -0.3,0.2 -0.6,0.3 -0.9,0.3 -0.3,0 -0.7,-0.1 -0.9,-0.4 -1.5,-1.4 -3.4,-2.1 -5.5,-2.1 -1.5,0 -2.8,0.4 -4.1,1.1 -1.2,0.7 -2.2,1.7 -2.9,2.9 -0.7,1.2 -1.1,2.6 -1.1,4.1 v 9.6 c 0,1.5 0.4,2.8 1.1,4.1 0.7,1.2 1.7,2.2 2.9,2.9 1.2,0.7 2.6,1.1 4.1,1.1 2.1,0 4,-0.7 5.5,-2.1 0.3,-0.3 0.6,-0.4 0.9,-0.4 0.3,0 0.6,0.1 0.9,0.3 0.5,0.4 0.9,0.8 1.3,1.3 0.2,0.2 0.3,0.5 0.3,0.9 0,0.3 -0.1,0.6 -0.3,0.8 -1.1,1.1 -2.4,1.9 -3.9,2.6 -1.5,0.7 -3.1,0.9 -4.7,0.9 -2.2,0 -4.4,-0.5 -6.3,-1.7 z"
+             class="st1"
+             inkscape:connector-curvature="0"
+             style="fill:#0b3a42" />
+          <path
+             id="path4722"
+             d="m 379.8,190.9 c -1.6,-1.7 -2.4,-3.8 -2.4,-6.4 v -19.7 h -3.8 c -0.2,0 -0.4,-0.1 -0.6,-0.2 -0.2,-0.2 -0.2,-0.3 -0.2,-0.6 v -2.6 c 0,-0.2 0.1,-0.4 0.2,-0.6 0.1,-0.2 0.3,-0.2 0.6,-0.2 h 3.8 v -6.1 c 0,-0.2 0.1,-0.4 0.2,-0.6 0.2,-0.2 0.3,-0.2 0.6,-0.2 h 2.9 c 0.2,0 0.4,0.1 0.6,0.2 0.2,0.2 0.2,0.3 0.2,0.6 v 6.1 h 10.2 c 0.2,0 0.4,0.1 0.6,0.2 0.2,0.1 0.2,0.3 0.2,0.6 v 2.7 c 0,0.2 -0.1,0.4 -0.2,0.6 -0.1,0.2 -0.3,0.2 -0.6,0.2 H 381.9 V 184 c 0,1.5 0.5,2.7 1.4,3.6 0.9,0.9 2.1,1.4 3.6,1.4 l 5.3,0.1 c 0.2,0 0.4,0.1 0.6,0.2 0.2,0.1 0.2,0.3 0.2,0.6 v 2.7 c 0,0.2 -0.1,0.4 -0.2,0.6 -0.2,0.2 -0.3,0.2 -0.6,0.2 h -5.8 c -2.9,0.1 -5.1,-0.8 -6.6,-2.5 z"
+             class="st1"
+             inkscape:connector-curvature="0"
+             style="fill:#0b3a42" />
+        </g>
+        <g
+           id="g4750">
+          <path
+             id="path4726"
+             d="m 218.7,131.7 c -5,-2.9 -9,-6.9 -11.9,-11.9 -2.9,-5 -4.4,-10.5 -4.4,-16.5 V 76.8 c 0,-6 1.5,-11.5 4.4,-16.5 2.9,-5 6.9,-9 11.9,-11.9 5,-2.9 10.5,-4.4 16.4,-4.4 5.9,0 11.4,1.5 16.4,4.4 5,2.9 9,6.9 11.9,11.9 2.9,5 4.4,10.5 4.4,16.5 v 26.5 c 0,6 -1.5,11.5 -4.4,16.5 -2.9,5 -6.9,9 -11.9,11.9 -5,2.9 -10.5,4.4 -16.4,4.4 -5.9,0 -11.4,-1.5 -16.4,-4.4 m 25.2,-12.6 c 2.7,-1.7 4.9,-3.9 6.5,-6.7 1.6,-2.8 2.4,-5.8 2.4,-9.1 V 76.8 c 0,-3.2 -0.8,-6.3 -2.4,-9.1 -1.6,-2.8 -3.8,-5.1 -6.5,-6.7 -2.7,-1.6 -5.6,-2.5 -8.8,-2.5 -3.1,0 -6.1,0.8 -8.8,2.5 -2.7,1.7 -4.9,3.9 -6.5,6.7 -1.6,2.8 -2.4,5.8 -2.4,9.1 v 26.5 c 0,3.2 0.8,6.3 2.4,9.1 1.6,2.8 3.8,5.1 6.5,6.7 2.7,1.7 5.6,2.5 8.8,2.5 3.1,-0.1 6.1,-0.9 8.8,-2.5"
+             class="st2"
+             inkscape:connector-curvature="0"
+             style="fill:#4db05b" />
+          <path
+             id="path4728"
+             d="m 291.8,133.8 c -4.3,-1.4 -8.3,-3.5 -12,-6 -0.4,-0.2 -0.7,-0.7 -0.9,-1.3 -0.2,-0.6 -0.1,-1.2 0.1,-1.7 l 4.3,-7.8 c 0.5,-1 1.3,-1.5 2.3,-1.5 0.7,0 1.3,0.2 1.9,0.5 6.2,3.9 11.9,5.8 17.3,5.8 4.4,0 7.8,-1.1 10.3,-3.2 2.5,-2.1 3.8,-4.9 3.8,-8.3 0,-2.2 -0.6,-4.1 -1.9,-5.7 -1.2,-1.5 -2.9,-2.8 -4.9,-3.9 -2.1,-1.1 -5.1,-2.4 -9,-4 l -3.6,-1.5 c -5.6,-2.4 -10.3,-5.5 -14.1,-9.2 -3.8,-3.7 -5.8,-9.2 -5.8,-16.4 0,-5.1 1.1,-9.5 3.4,-13.4 2.3,-3.9 5.4,-6.9 9.5,-9.1 4,-2.2 8.7,-3.2 14,-3.2 4.4,0 8.7,0.7 13,2.2 4.3,1.5 8.2,3.5 11.7,6 0.4,0.2 0.7,0.7 0.9,1.3 0.2,0.6 0.1,1.2 -0.1,1.7 l -4.1,7.8 c -0.5,1 -1.3,1.5 -2.4,1.5 -0.7,0 -1.3,-0.2 -1.9,-0.5 -3.2,-2.1 -6.3,-3.6 -9.2,-4.5 -2.9,-0.9 -5.5,-1.4 -7.8,-1.4 -3.7,0 -6.6,1 -8.8,3 -2.1,2 -3.2,4.6 -3.2,7.8 0,3.2 1.2,5.9 3.5,8 2.4,2.1 6.1,4.2 11.3,6.4 0.7,0.2 3.6,1.4 8.5,3.4 4.9,2 8.8,5 11.7,8.9 2.9,3.9 4.3,8.5 4.3,13.8 0,5.1 -1.2,9.7 -3.6,13.7 -2.4,4 -5.8,7.1 -10.2,9.4 -4.4,2.3 -9.4,3.4 -15.1,3.4 -4.5,0.2 -8.9,-0.6 -13.2,-2"
+             class="st2"
+             inkscape:connector-curvature="0"
+             style="fill:#4db05b" />
+          <path
+             id="path4730"
+             d="m 361.8,131.7 c -5,-2.9 -8.9,-6.9 -11.9,-11.9 -2.9,-5 -4.4,-10.5 -4.4,-16.5 V 76.8 c 0,-6 1.5,-11.5 4.4,-16.5 2.9,-5 6.9,-9 11.9,-11.9 5,-2.9 10.4,-4.4 16.4,-4.4 5.2,0 10,0.9 14.5,2.8 4.4,1.9 8.2,4.6 11.4,8.1 0.5,0.6 0.7,1.3 0.7,2.1 0,0.8 -0.3,1.7 -1,2.5 l -5.4,5.7 c -0.7,0.7 -1.3,1 -2,1 -0.8,0 -1.6,-0.4 -2.2,-1.1 -4.1,-4.4 -9.4,-6.6 -15.8,-6.6 -3.1,0 -6.1,0.8 -8.8,2.5 -2.7,1.7 -4.9,3.9 -6.5,6.7 -1.6,2.8 -2.4,5.8 -2.4,9.1 v 26.5 c 0,3.2 0.8,6.3 2.4,9.1 1.6,2.8 3.8,5.1 6.5,6.7 2.7,1.7 5.6,2.5 8.8,2.5 3.1,0 6.1,-0.8 8.8,-2.4 2.7,-1.6 4.9,-3.7 6.4,-6.5 1.6,-2.7 2.3,-5.7 2.3,-8.9 v -6.1 h -16.6 c -0.7,0 -1.4,-0.2 -1.9,-0.7 -0.5,-0.5 -0.7,-1.1 -0.7,-1.9 v -8.9 c 0,-0.7 0.2,-1.4 0.7,-1.9 0.5,-0.5 1.1,-0.7 1.9,-0.7 h 26.1 c 1.5,0 2.7,0.5 3.8,1.5 1,1 1.5,2.3 1.5,3.8 v 14.4 c 0,6 -1.5,11.5 -4.4,16.5 -2.9,5 -6.9,9 -11.9,11.9 -5,2.9 -10.4,4.4 -16.2,4.4 -6,0 -11.4,-1.5 -16.4,-4.4"
+             class="st3"
+             inkscape:connector-curvature="0"
+             style="fill:#003a40" />
+          <path
+             id="path4732"
+             d="m 438,130.5 c -4.5,-2.6 -8.1,-6.3 -10.7,-10.8 -2.6,-4.5 -4,-9.5 -4,-14.9 V 91.4 c 0,-5.4 1.3,-10.4 4,-14.9 2.6,-4.5 6.2,-8.2 10.7,-10.8 4.5,-2.6 9.4,-4 14.8,-4 5.4,0 10.3,1.3 14.8,4 4.5,2.6 8.1,6.3 10.7,10.8 2.6,4.6 4,9.5 4,14.9 v 8.3 c 0,1.5 -0.5,2.7 -1.5,3.8 -1,1 -2.3,1.5 -3.8,1.5 h -38.7 v 0.6 c 0,4.1 1.4,7.5 4.3,10.4 2.9,2.9 6.3,4.3 10.3,4.3 h 19.6 c 0.7,0 1.4,0.3 1.9,0.8 0.5,0.5 0.7,1.1 0.7,1.9 v 9 c 0,0.7 -0.2,1.4 -0.7,1.9 -0.5,0.5 -1.1,0.7 -1.9,0.7 h -19.6 c -5.5,-0.1 -10.5,-1.5 -14.9,-4.1 m 29.3,-38.9 v -1.1 c 0,-4.1 -1.4,-7.5 -4.3,-10.4 -2.8,-2.9 -6.3,-4.3 -10.3,-4.3 -4,0 -7.5,1.4 -10.3,4.3 -2.8,2.9 -4.3,6.3 -4.3,10.4 v 1.1 z"
+             class="st3"
+             inkscape:connector-curvature="0"
+             style="fill:#003a40" />
+          <path
+             id="path4734"
+             d="m 508,132.2 c -4.5,-2.6 -8.1,-6.1 -10.7,-10.6 -2.6,-4.5 -3.9,-9.3 -3.9,-14.5 V 90.7 c 0,-5.2 1.3,-10.1 3.9,-14.5 2.6,-4.5 6.2,-8 10.7,-10.6 4.5,-2.6 9.4,-3.9 14.8,-3.9 5.4,0 10.3,1.3 14.8,3.9 4.5,2.6 8.1,6.2 10.7,10.6 2.6,4.5 4,9.3 4,14.5 V 107 c 0,5.2 -1.3,10.1 -4,14.5 -2.6,4.5 -6.2,8 -10.7,10.6 -4.5,2.6 -9.4,3.9 -14.8,3.9 -5.4,0.1 -10.4,-1.2 -14.8,-3.8 m 25,-14.8 c 2.8,-2.9 4.3,-6.3 4.3,-10.4 V 90.7 c 0,-4.1 -1.4,-7.5 -4.3,-10.4 -2.8,-2.9 -6.3,-4.3 -10.3,-4.3 -4,0 -7.5,1.4 -10.3,4.3 -2.8,2.9 -4.3,6.3 -4.3,10.4 V 107 c 0,4.1 1.4,7.5 4.3,10.4 2.8,2.9 6.3,4.3 10.3,4.3 4.1,0 7.5,-1.5 10.3,-4.3"
+             class="st3"
+             inkscape:connector-curvature="0"
+             style="fill:#003a40" />
+          <path
+             id="path4736"
+             d="M 85.5,36.2 V 18.2 0 L 74.2,19.8 C 43.4,26.7 20.1,53.2 18.1,85.6 H 36.2 C 38.4,59.3 59.3,38.4 85.5,36.2"
+             class="st2"
+             inkscape:connector-curvature="0"
+             style="fill:#4db05b" />
+          <path
+             id="path4738"
+             d="M 36.2,94.6 H 18.2 0 l 19.8,11.3 C 26.7,136.7 53.2,160 85.6,162 V 143.9 C 59.3,141.7 38.4,120.8 36.2,94.6"
+             class="st3"
+             inkscape:connector-curvature="0"
+             style="fill:#003a40" />
+          <path
+             id="path4740"
+             d="M 143.9,85.5 H 162 180.2 L 160.4,74.2 C 153.5,43.4 127,20.1 94.6,18.1 v 18.1 c 26.2,2.2 47.1,23.1 49.3,49.3"
+             class="st3"
+             inkscape:connector-curvature="0"
+             style="fill:#003a40" />
+          <path
+             id="path4742"
+             d="m 94.5,143.9 v 18.1 18.2 l 11.3,-19.8 c 30.8,-6.9 54.1,-33.4 56.1,-65.8 h -18.1 c -2.1,26.2 -23,47.1 -49.3,49.3"
+             class="st2"
+             inkscape:connector-curvature="0"
+             style="fill:#4db05b" />
+          <path
+             id="path4744"
+             d="M 95.6,84.5 62.2,62.2 84.5,95.6 117.9,117.9 Z M 90,93.9 c -2.2,0 -3.9,-1.8 -3.9,-3.9 0,-2.2 1.8,-3.9 3.9,-3.9 2.2,0 3.9,1.8 3.9,3.9 0,2.1 -1.7,3.9 -3.9,3.9"
+             class="st3"
+             inkscape:connector-curvature="0"
+             style="fill:#003a40" />
+          <polygon
+             id="polygon4746"
+             points="42.8,90.1 77,95.7 62.2,117.9 84.3,103.1 90,137.3 95.7,103.1 84.5,95.6 77,84.4 "
+             class="st2"
+             style="fill:#4db05b" />
+          <polygon
+             id="polygon4748"
+             points="95.7,77 90,42.8 84.4,77 95.6,84.5 103.1,95.7 137.3,90 103.1,84.4 117.9,62.2 "
+             class="st2"
+             style="fill:#4db05b" />
+        </g>
+      </g>
+      <g
+         id="g4729">
+        <g
+           style="fill:#0b3033"
+           transform="translate(57.937,368.96448)"
+           id="Open-Geospatial-Copy">
+          <g
+             id="g159">
+            <text
+               style="font-weight:normal;font-size:8.5px;font-family:Sintony"
+               x="-1.3110001"
+               line-spacing="13"
+               font-weight="bold"
+               font-size="8.5"
+               id="Starting-out-with-an">
+              <tspan
+                 id="tspan124"
+                 y="8"
+                 x="-0.31099999">Mapserver support numerous Open Geospatial</tspan>
+              <tspan
+                 id="tspan126"
+                 y="21"
+                 x="-0.31099999">Consortium (OGC) standards and it is also INSPIRE</tspan>
+              <tspan
+                 id="tspan68"
+                 y="34"
+                 x="-0.31099999">View Service compliant. Supported standards:</tspan>
+            </text>
+          </g>
+        </g>
+        <text
+           y="-84"
+           id="text4783"
+           style="font-weight:bold;font-size:14px;font-family:MiriamLibre-Bold, 'Miriam Libre';letter-spacing:-0.0035;fill:#4ab969"
+           x="0.2150984"
+           letter-spacing="-0.00350000011"
+           font-weight="bold"
+           font-size="14">
+          <tspan
+             id="tspan4785"
+             y="355.96448"
+             x="56.908001">Implemented standards</tspan>
+        </text>
+        <g
+           id="g4697">
+          <polygon
+             transform="translate(57.30754,363)"
+             style="fill:#4ab969"
+             points="0.69246,103.3463 4.91746,100.9033 0.69246,98.4633 "
+             id="Fill-4" />
+          <polygon
+             transform="translate(57.30754,351)"
+             style="fill:#4ab969"
+             points="0.69246,129.3463 4.91746,126.9033 0.69246,124.4633 "
+             id="Fill-5" />
+          <polygon
+             transform="translate(57.30754,325)"
+             style="fill:#4ab969"
+             points="4.91746,165.9033 0.69246,163.4633 0.69246,168.3463 "
+             id="Fill-6" />
+          <text
+             transform="translate(57.937,366.96448)"
+             id="Local-Chapters"
+             font-size="8.5"
+             font-weight="normal"
+             line-spacing="13"
+             style="fill:#0b3033;font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony">
+            <tspan
+               x="15"
+               y="62"
+               id="tspan131">Web Map Service (WMS) <tspan
+   style="font-weight:normal;font-size:8.5px;font-family:Sintony"
+   id="tspan71">(client/server)</tspan>
+</tspan>
+            <tspan
+               x="15"
+               y="75"
+               id="tspan133">Web Feature Service (WFS) <tspan
+   style="font-weight:normal;font-size:8.5px;font-family:Sintony"
+   id="tspan75">(client/server)</tspan>
+</tspan>
+            <tspan
+               x="15"
+               y="88"
+               id="tspan135">Web Coverage Service (WCS)</tspan>
+            <tspan
+               x="15"
+               y="101"
+               id="tspan137">Web Map Context (WMC)</tspan>
+            <tspan
+               x="15"
+               y="114"
+               id="tspan139">Filter Encoding (FE)</tspan>
+            <tspan
+               x="15"
+               y="127"
+               id="tspan141">Style Layer Descriptor (SLD)</tspan>
+            <tspan
+               x="15"
+               y="140"
+               id="tspan143">Geography Markup Language (GML)</tspan>
+            <tspan
+               x="15"
+               y="153"
+               id="tspan145">Sensor Observation Service (SOS)</tspan>
+            <tspan
+               x="15"
+               y="166"
+               id="tspan147">Observations and Measurements (OM)</tspan>
+          </text>
+          <polygon
+             id="Fill-7"
+             points="56.69246,517.4631 56.69246,522.3461 60.91746,519.9031 "
+             transform="translate(1.30754,-94)"
+             style="fill:#4ab969" />
+          <polygon
+             id="Fill-8"
+             points="56.69246,574.3461 60.91746,571.9031 56.69246,569.4631 "
+             transform="translate(1.30754,-134)"
+             style="fill:#4ab969" />
+          <polygon
+             id="Fill-9"
+             points="56.69246,608.4631 56.69246,613.3461 60.91746,610.9031 "
+             transform="translate(1.30754,-160)"
+             style="fill:#4ab969" />
+          <polygon
+             transform="translate(57.30754,337.6537)"
+             style="fill:#4ab969"
+             points="0.69246,168.3463 4.91746,165.9033 0.69246,163.4633 "
+             id="Fill-6-3" />
+          <polygon
+             transform="translate(57.30754,351.0952)"
+             style="fill:#4ab969"
+             points="4.91746,165.9033 0.69246,163.4633 0.69246,168.3463 "
+             id="Fill-6-33" />
+          <polygon
+             transform="translate(57.30754,364.5952)"
+             style="fill:#4ab969"
+             points="4.91746,165.9033 0.69246,163.4633 0.69246,168.3463 "
+             id="Fill-6-4" />
+        </g>
+      </g>
+      <g
+         id="g4849"
+         transform="translate(58,722.35937)">
+        <path
+           style="fill:#ffffff"
+           id="path2836"
+           d="m 45.5,0.03125 -23,13.25 L 0,0.34375 v 84 L 22.5,97.28125 45.5,84.0625 68,97 V 13 Z"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#6bd06b"
+           id="path4260"
+           d="M 22,69.65823 0,57 v 0 27.34177 L 22,97"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#ffff00"
+           id="path4258"
+           d="m 23.00124,0 h -1"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#ffff00"
+           id="path4263"
+           d="m 45.00124,83.99999 h 1"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#ffff00"
+           id="path4256"
+           d="m 23.00124,83.99999 h 22"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#ffff00"
+           id="rect4213"
+           d="m 22.00124,83.99999 h 1"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#33a333"
+           id="path4281"
+           d="M 23,69.65823 45,57 v 0 27.34177 L 23,97"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#6bd06b"
+           id="path4283"
+           d="M 68,69.65823 46,57 v 0 27.34177 L 68,97"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#6bd06b"
+           id="path4285"
+           d="M 22,41.33055 0,28.67232 v 0 27.34177 l 22,12.65823"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#33a333"
+           id="path4287"
+           d="M 23,41.33055 45,28.67232 v 0 27.34177 L 23,68.67232"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#6bd06b"
+           id="path4289"
+           d="M 68,41.33055 46,28.67232 v 0 27.34177 l 22,12.65823"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#6bd06b"
+           id="path4291"
+           d="M 22,12.98855 0,0.33032 v 0 27.34177 l 22,12.65823"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#33a333"
+           id="path4293"
+           d="M 23,12.98855 45,0.33032 v 0 27.34177 L 23,40.33032"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#6bd06b"
+           id="path4295"
+           d="M 68,12.98855 46,0.33032 v 0 27.34177 l 22,12.65823"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#6b6bd1"
+           id="path4154"
+           d="M 10.6875,49.81118 C 6.29757,50.01334 4.49184,53.33109 0,50.02993 v 5.96875 l 12.3125,7.09375 c 0.0456,-0.0373 0.0784,-0.0555 0.125,-0.0937 2.81501,-2.30695 4.41979,-6.43515 9.5625,-3 V 54.52998 C 16.68002,50.64368 13.23956,49.6937 10.6875,49.81123 Z"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#3333a4"
+           id="path4173"
+           d="m 30.09791,8.88881 c -2.60995,5.62121 -3.89336,8.45813 5.05834,10.84578 4.63956,1.23749 6.13536,5.36617 5.59375,10.375 L 45,27.67209 V 14.89084 c -3.85376,-2.94532 -5.64122,-6.51119 -3.95971,-12.298 0,0 -10.94238,6.29597 -10.94238,6.29597 z"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#3333a4"
+           id="path4178"
+           d="m 45,28.67232 -4.375,2.53125 c -1.50952,9.28109 -9.50949,20.99962 -17.625,23.5 v 5.6875 c 2.58175,0.85205 2.91619,3.67858 3.03125,6.53125 l 9.125,-5.28125 C 31.64762,57.64923 34.87512,46.65307 45,36.67232 Z"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#6b6bd1"
+           id="path4183"
+           d="m 46,16.07834 v 11.59375 l 6.5,3.75 C 52.31383,27.05527 48.80434,20.66336 46,16.07834 Z"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#6b6bd1"
+           id="path4188"
+           d="m 46,28.67232 v 7.46875 c 4.47036,0.47366 6.27424,-1.12702 6.5,-3.75 z"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#3333a4"
+           id="path4194"
+           d="m 45.0035,61.59243 c -4.25893,2.00382 -7.32499,2.02717 -9.15625,0.6875 L 26.066,67.93618 c 0.20082,5.78898 0.62595,10.78111 18.9375,-1.28125 z"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#6b6bd1"
+           id="path4199"
+           d="M 46,61.96875 V 66.75 C 53.80168,73.7714 61.6514,80.38829 68,97 V 88.59375 C 59.01957,69.8039 56.05188,72.01184 46,61.96875 Z"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#6b6bd1"
+           id="path4204"
+           d="m 0,57 v 1.9375 c 7.56411,6.595 7.59147,7.85799 11.5625,4.71875 z"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+  </g>
+  <style
+     id="style4708"
+     type="text/css">
+	.st0{enable-background:new    ;}
+	.st1{fill:#0B3A42;}
+	.st2{fill:#4DB05B;}
+	.st3{fill:#003A40;}
+</style>
+</svg>
