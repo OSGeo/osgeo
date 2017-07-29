@@ -8,6 +8,8 @@ Please double check the style guide:
 * Dark: #003A40 Pantone: 330 U RGB: 0 58 64 CMYK: 95 55 55 55
 * Photos: drone photography, or appropriate cartography content for your target audience. Photos are placed behind a 50% transparent black layer to allow text to stand out.
 
+We have included the v1 style guide form the designer, it is being revised based on our initial experience and feedback.
+
 # Logos
 
 Logos are as provided for OSGeo and sub-brands:
