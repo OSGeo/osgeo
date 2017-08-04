@@ -35,17 +35,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="3200"
-     inkscape:window-height="1671"
+     inkscape:window-width="1920"
+     inkscape:window-height="1136"
      id="namedview249"
      showgrid="false"
      inkscape:zoom="2"
-     inkscape:cx="71.371443"
-     inkscape:cy="278"
+     inkscape:cx="269.05498"
+     inkscape:cy="487.03905"
      inkscape:window-x="0"
-     inkscape:window-y="55"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="osgeo_a4" />
+     inkscape:current-layer="g73" />
   <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
   <title
      id="title2">osgeo_a4</title>
@@ -55,20 +55,17 @@
      id="defs6" />
   <g
      id="Page-1"
-     stroke="none"
-     stroke-width="1"
-     fill="none"
-     fill-rule="evenodd">
+     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1">
     <g
        id="osgeo_a4">
       <polygon
          id="Fill-1"
-         fill="#EAEAEA"
-         points="0 841.593814 595.2746 741.5159 595.2746 740.0779 0 640" />
+         points="595.2746,740.0779 0,640 0,841.59381 595.2746,741.5159 "
+         style="fill:#eaeaea" />
       <polygon
          id="Fill-3"
-         fill="#CFD1D0"
-         points="0 841.077914 0 842.409913 595.2746 842.409913 595.2746 741" />
+         points="595.2746,842.40991 595.2746,741 0,841.07791 0,842.40991 "
+         style="fill:#cfd1d0" />
       <text
          id="Title"
          font-size="35"
@@ -110,7 +107,7 @@
           <tspan
              x="0.70946002"
              y="35"
-             id="tspan18">GDAL is a translator library for raster and</tspan>
+             id="tspan18">GDAL/OGR is a translator library for raster and</tspan>
           <tspan
              x="0.70946002"
              y="48"
@@ -159,7 +156,7 @@
       </g>
       <g
          id="Open-Geospatial"
-         transform="translate(304,397)">
+         transform="translate(304,425)">
         <text
            font-size="14"
            font-weight="bold"
@@ -222,7 +219,7 @@
       </g>
       <g
          id="g4689"
-         transform="translate(247,-131)">
+         transform="translate(247,-133)">
         <g
            id="g4596">
           <text
@@ -236,7 +233,7 @@
             <tspan
                x="15"
                y="8"
-               id="tspan124">Command-line utilities for data translation,</tspan>
+               id="tspan124">Several command-line utilities for data translation,</tspan>
             <tspan
                x="15"
                y="21"
@@ -244,7 +241,7 @@
             <tspan
                x="15"
                y="34"
-               id="tspan128">“other common tasks</tspan>
+               id="tspan128">other common tasks</tspan>
           </text>
           <polygon
              id="Fill-7"
@@ -344,6 +341,31 @@
              transform="translate(1.30754,-133.9046)"
              style="fill:#4ab969" />
         </g>
+        <g
+           id="g73"
+           transform="translate(0,36)">
+          <text
+             transform="translate(57.937,316.96448)"
+             id="text69"
+             font-size="8.5"
+             font-weight="normal"
+             line-spacing="13"
+             style="font-weight:normal;font-size:8.5px;font-family:Sintony;fill:#0b3033">
+            <tspan
+               x="15"
+               y="164"
+               id="tspan65">Great documentation for each supported formats</tspan>
+            <tspan
+               x="15"
+               y="177"
+               id="tspan67">and for each command-line utilities</tspan>
+          </text>
+          <polygon
+             id="polygon71"
+             points="56.69246,613.3461 60.91746,610.9031 56.69246,608.4631 "
+             transform="translate(1.30754,-133.2041)"
+             style="fill:#4ab969" />
+        </g>
       </g>
       <text
          style="font-weight:bold;font-size:14px;font-family:MiriamLibre-Bold, 'Miriam Libre';letter-spacing:-0.0035;fill:#4ab969"
@@ -359,7 +381,7 @@
       </text>
       <text
          y="327"
-         style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033"
+         style="font-weight:normal;font-size:8.5px;font-family:Sintony;fill:#0b3033"
          x="57.940498"
          line-spacing="13"
          font-size="8.5"
@@ -367,97 +389,41 @@
         <tspan
            id="tspan168"
            y="362"
-           x="57.940498">OSGeo holds a passionate belief in open source as the</tspan>
+           x="57.940498"
+           style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033">GDAL supports over 140 raster formats,</tspan>
         <tspan
            id="tspan170"
            y="375"
-           x="57.940498">best way to build software.</tspan>
-        <tspan
-           style="font-weight:normal;font-family:Sintony"
-           id="tspan172"
-           font-weight="normal"
-           y="375"
-           x="168.59351" />
+           x="57.940498">some of them are: GeoTIFF, Erdas Imagine,</tspan>
         <tspan
            id="tspan174"
-           y="375"
-           x="171.05849">Open source starts off with</tspan>
+           y="388"
+           x="57.940498">SDTS, ESRI Grids, ECW, MrSID, HDF, NetCDF,</tspan>
         <tspan
            id="tspan176"
-           y="388"
-           x="57.940498">a license that provides royalty free (re)use of software.</tspan>
+           y="401"
+           x="57.940498">JPEG2000, DTED, NITF, GeoPackage and more ...</tspan>
         <tspan
            id="tspan178"
-           y="401"
-           x="57.940498">Next, open source guarantees access to the source</tspan>
+           y="414"
+           x="57.940498"
+           style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033">OGR instead supports over 80 vector formats:</tspan>
         <tspan
            id="tspan180"
-           y="414"
-           x="57.940498">code for audit and modification and the ability to</tspan>
+           y="427"
+           x="57.940498">GeoPackage, ESRI Shapefile, GML, GeoJSON, KML,</tspan>
         <tspan
            id="tspan182"
-           y="427"
-           x="57.940498">redistribute the software with no additional costs.</tspan>
-        <tspan
-           style="font-weight:normal;font-family:Sintony"
-           id="tspan184"
-           font-weight="normal"
-           y="427"
-           x="265.19598" />
-        <tspan
-           style="font-weight:normal;font-family:Sintony"
-           id="tspan186"
-           font-weight="normal"
            y="440"
-           x="57.940498" />
+           x="57.940498">OpenStreetMap, PostGIS, DGN, Oracle Spatial</tspan>
         <tspan
-           style="font-weight:normal;font-family:Sintony"
-           id="tspan188"
-           font-weight="normal"
+           id="tspan85"
            y="453"
-           x="57.940498">This approach provides greater control than</tspan>
+           x="57.940498">ESRI Coverages, ESRI Personal Geodatabase,</tspan>
         <tspan
-           style="font-weight:normal;font-family:Sintony"
-           id="tspan190"
-           font-weight="normal"
+           id="tspan87"
            y="466"
-           x="57.940498">proprietary (closed) software. You are no longer tied to</tspan>
-        <tspan
-           style="font-weight:normal;font-family:Sintony"
-           id="tspan192"
-           font-weight="normal"
-           y="479"
-           x="57.940498">per-seat licensing or to a single software vendor.</tspan>
-        <tspan
-           style="font-weight:normal;font-family:Sintony"
-           id="tspan194"
-           font-weight="normal"
-           y="492"
-           x="57.940498">Support is available from an ecosystem of service</tspan>
-        <tspan
-           style="font-weight:normal;font-family:Sintony"
-           id="tspan196"
-           font-weight="normal"
-           y="505"
-           x="57.940498">providers and through community participation.</tspan>
-        <tspan
-           style="font-weight:normal;font-family:Sintony"
-           id="tspan198"
-           font-weight="normal"
-           y="518"
-           x="57.940498" />
-        <tspan
-           style="font-weight:normal;font-family:Sintony"
-           id="tspan200"
-           font-weight="normal"
-           y="531"
-           x="57.940498">OSGeo projects are freely available under OSI certified</tspan>
-        <tspan
-           style="font-weight:normal;font-family:Sintony"
-           id="tspan202"
-           font-weight="normal"
-           y="544"
-           x="57.940498">open source licenses.</tspan>
+           x="57.940498">MapInfo (tab and mid/mif), and more...</tspan>
       </text>
       <text
          id="text226"
@@ -558,11 +524,11 @@
                inkscape:connector-curvature="0"
                style="fill:#003a40" />
             <polygon
-               points="77,95.7 62.2,117.9 84.3,103.1 90,137.3 95.7,103.1 84.5,95.6 77,84.4 42.8,90.1 "
+               points="84.3,103.1 90,137.3 95.7,103.1 84.5,95.6 77,84.4 42.8,90.1 77,95.7 62.2,117.9 "
                id="polygon5039"
                style="fill:#4db05b" />
             <polygon
-               points="90,42.8 84.4,77 95.6,84.5 103.1,95.7 137.3,90 103.1,84.4 117.9,62.2 95.7,77 "
+               points="95.6,84.5 103.1,95.7 137.3,90 103.1,84.4 117.9,62.2 95.7,77 90,42.8 84.4,77 "
                id="polygon5041"
                style="fill:#4db05b" />
           </g>
