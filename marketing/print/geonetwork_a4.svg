@@ -79,11 +79,7 @@
         <tspan
            x="55.865002"
            y="45"
-           id="tspan10">GeoNetwork</tspan>
-        <tspan
-           x="55.865002"
-           y="85"
-           id="tspan12">opensource</tspan>
+           id="tspan10">GeoNetwork opensource</tspan>
       </text>
       <text
          id="Subtitle"
@@ -111,7 +107,23 @@
           <tspan
              x="0.70946002"
              y="35"
-             id="tspan18">GeoNetwork is a catalog application to manage spatially referenced resources. It provides powerful metadata editing and search functions as well as an interactive web map viewer. It is currently used in numerous Spatial Data Infrastructure initiatives across the world.</tspan>
+             id="tspan18">GeoNetwork is a catalog application to manage </tspan>
+             <tspan
+             x="0.70946002"
+             y="48"
+             id="tspan20">spatially referenced resources. It provides powerful metadata </tspan>
+             <tspan
+             x="0.70946002"
+             y="48"
+             id="tspan20">editing and search functions as well as an interactive web map </tspan>
+             <tspan
+             x="0.70946002"
+             y="48"
+             id="tspan20">viewer. It is currently used in numerous Spatial Data </tspan>
+             <tspan
+             x="0.70946002"
+             y="48"
+             id="tspan20">Infrastructure initiatives across the world.</tspan>
         </text>
         <text
            id="About-Copy"
@@ -123,7 +135,23 @@
           <tspan
              x="0.25046"
              y="204"
-             id="tspan27">GeoNetwork provides an easy to use web interface to search geospatial data across multiple catalogs. The search provides full-text search as well as faceted search on keywords, resource types, organizations, scale, ... Users can easily refine the search and quickly gets to the records of interests. GeoSpatial layers, but also services, maps or even non geographic datasets can be described in the catalog. Easily navigate accross records and find sources or services publishing a dataset.</tspan>
+             id="tspan27">OSGeo is a volunteer driven not-for-profit organization</tspan>
+          <tspan
+             x="0.25046"
+             y="217"
+             id="tspan29">drawing together a wide membership of individuals</tspan>
+          <tspan
+             x="0.25046"
+             y="230"
+             id="tspan31">from around the world. We are pleased to work with our</tspan>
+          <tspan
+             x="0.25046"
+             y="243"
+             id="tspan33">sponsors and partners to foster an open approach to</tspan>
+          <tspan
+             x="0.25046"
+             y="256"
+             id="tspan35">software, standards, data and education.</tspan>
         </text>
         <text
            id="Iniatives"
@@ -134,20 +162,65 @@
           <tspan
              x="15"
              y="103"
-             id="tspan38"></tspan>
+             id="tspan38">OSGeo Projects:</tspan>
           <tspan
              x="82"
              y="103"
              font-weight="normal"
              id="tspan40"
-             style="font-weight:normal;font-family:Sintony"></tspan>
+             style="font-weight:normal;font-family:Sintony">Powerful open source software for</tspan>
           <tspan
              x="15"
              y="116"
              font-weight="normal"
              id="tspan42"
-             style="font-weight:normal;font-family:Sintony"></tspan>
-         
+             style="font-weight:normal;font-family:Sintony">gis professionals and technologist.</tspan>
+          <tspan
+             x="159.3725"
+             y="116"
+             id="tspan44" />
+          <tspan
+             x="15"
+             y="129"
+             id="tspan46">GeoForAll:</tspan>
+          <tspan
+             x="59"
+             y="129"
+             font-weight="normal"
+             id="tspan48"
+             style="font-weight:normal;font-family:Sintony">Over 100 educational labs from around</tspan>
+          <tspan
+             x="15"
+             y="142"
+             font-weight="normal"
+             id="tspan50"
+             style="font-weight:normal;font-family:Sintony">the world who work with partners to make geospatial</tspan>
+          <tspan
+             x="15"
+             y="155"
+             font-weight="normal"
+             id="tspan52"
+             style="font-weight:normal;font-family:Sintony">education and opportunities accessible to all.</tspan>
+          <tspan
+             x="204.38"
+             y="155"
+             id="tspan54" />
+          <tspan
+             x="15"
+             y="168"
+             id="tspan56">FOSS4G:</tspan>
+          <tspan
+             x="52"
+             y="168"
+             font-weight="normal"
+             id="tspan58"
+             style="font-weight:normal;font-family:Sintony">Annual, international conference for Free</tspan>
+          <tspan
+             x="15"
+             y="181"
+             font-weight="normal"
+             id="tspan60"
+             style="font-weight:normal;font-family:Sintony">and Open Source Software for Geospatial.</tspan>
         </text>
         <text
            id="Welcome"
@@ -693,7 +766,7 @@
         <tspan
            x="429.2794"
            y="785.8898"
-           id="tspan242">www.osgeo.org</tspan>
+           id="tspan242">www.geonetwork-opensource.org</tspan>
       </text>
     </g>
   </g>
