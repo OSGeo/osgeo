@@ -8,7 +8,7 @@ Please double check the style guide:
 * Dark: #003A40 Pantone: 330 U RGB: 0 58 64 CMYK: 95 55 55 55
 * Photos: drone photography, or appropriate cartography content for your target audience. Photos are placed behind a 50% transparent black layer to allow text to stand out.
 
-We have included the v1 style guide form the designer, it is being revised based on our initial experience and feedback.
+We have included the v4 style guide form the designer, it has been revised based on our initial experience and feedback. There are still a couple sections being written on sub brands, distinct brands and cartography.
 
 # Logos
 
