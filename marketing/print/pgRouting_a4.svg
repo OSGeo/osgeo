@@ -40,8 +40,8 @@
      id="namedview249"
      showgrid="false"
      inkscape:zoom="1.2520812"
-     inkscape:cx="365.62633"
-     inkscape:cy="258.09693"
+     inkscape:cx="275.37659"
+     inkscape:cy="290.04374"
      inkscape:window-x="-3"
      inkscape:window-y="-3"
      inkscape:window-maximized="1"
@@ -99,7 +99,7 @@
       </text>
       <g
          id="g4665"
-         transform="matrix(1.0093708,0,0,0.96044135,-2.9761723,-34.264272)">
+         transform="matrix(1.0093708,0,0,0.96044135,-2.9761734,-34.264272)">
         <text
            xml:space="preserve"
            style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -135,7 +135,11 @@
              id="flowPara4633"
              style="font-size:9.14074802px" /><flowPara
              style="font-size:9.14074802px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sintony;-inkscape-font-specification:Sintony"
-             id="flowPara4631">pgRouting is implemented in C++, using C++ Boost    Graph library. </flowPara><flowPara
+             id="flowPara3384">pgRouting is implemented in C++, using C++ Boost    Graph library.</flowPara><flowPara
+             style="font-size:9.14074802px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sintony;-inkscape-font-specification:Sintony"
+             id="flowPara3388"></flowPara><flowPara
+             style="font-size:9.14074802px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sintony;-inkscape-font-specification:Sintony"
+             id="flowPara3390">Using it, is with SQL queries.</flowPara><flowPara
              id="flowPara4625" /></flowRoot>      </g>
       <text
          id="url"
@@ -639,7 +643,7 @@
          x="28.123676"
          y="89.004654" />
       <g
-         transform="matrix(1.0257791,0,0,1.0257791,-21.641302,69.575381)"
+         transform="matrix(1.0257791,0,0,1.0257791,-21.641303,69.575381)"
          id="g4551">
         <text
            y="61.825588"
@@ -669,7 +673,7 @@
       </g>
       <g
          id="g4665-3-5"
-         transform="matrix(0.93550907,0,0,1.5804506,12.100278,53.197965)">
+         transform="matrix(0.93550907,0,0,1.3871671,10.502938,148.29205)">
         <text
            xml:space="preserve"
            style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -685,15 +689,15 @@
         <rect
            style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
            id="rect4586-5-9"
-           width="214.85733"
-           height="124.10787"
+           width="175.58585"
+           height="173.11328"
            x="61.782463"
-           y="210.89334" />
+           y="169.9485" />
         <flowRoot
            xml:space="preserve"
            style="font-size:8.57280159px;font-weight:bold;text-align:justify;text-anchor:start;fill:#0b3033;font-family:'Sintony-Bold, Sintony'"
            id="flowRoot4942"
-           transform="matrix(1.6319824,0,0,0.97290855,-35.959943,-0.46912674)"><flowRegion
+           transform="matrix(1.9622069,0,0,1.4677172,-52.961803,-98.010414)"><flowRegion
              id="flowRegion4944"><use
                x="0"
                y="0"
@@ -703,36 +707,28 @@
                height="842" /></flowRegion><flowPara
              style="font-size:9.14074802px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sintony;-inkscape-font-specification:Sintony"
              id="flowPara4948" /><flowPara
-             style="font-size:7.80030966px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:175.99999905%;font-family:Sintony;-inkscape-font-specification:Sintony"
-             id="flowPara4950">Johnson’s Algorithm</flowPara><flowPara
-             style="font-size:7.80030966px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:175.99999905%;font-family:Sintony;-inkscape-font-specification:Sintony"
-             id="flowPara4952">Floyd-Warshall Algorithm</flowPara><flowPara
-             style="font-size:7.80030966px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:175.99999905%;font-family:Sintony;-inkscape-font-specification:Sintony"
-             id="flowPara4954">A* Algorithm</flowPara><flowPara
-             style="font-size:7.80030966px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:175.99999905%;font-family:Sintony;-inkscape-font-specification:Sintony"
-             id="flowPara4980">Dijkstra Algorithm</flowPara><flowPara
-             style="font-size:7.80030966px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:175.99999905%;font-family:Sintony;-inkscape-font-specification:Sintony"
-             id="flowPara4956">Bi-directional Dijkstra</flowPara><flowPara
-             style="font-size:7.80030966px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:175.99999905%;font-family:Sintony;-inkscape-font-specification:Sintony"
-             id="flowPara4958">Bi-directional A*</flowPara><flowPara
-             style="font-size:7.80030966px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:175.99999905%;font-family:Sintony;-inkscape-font-specification:Sintony"
-             id="flowPara4962">Driving Distance</flowPara><flowPara
-             style="font-size:7.80030966px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:175.99999905%;font-family:Sintony;-inkscape-font-specification:Sintony"
-             id="flowPara4964">Traveling Sales Person</flowPara><flowPara
-             style="font-size:7.80030966px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:241.00005627%;font-family:Sintony;-inkscape-font-specification:Sintony"
-             id="flowPara4988">Graph analitics    </flowPara><flowPara
-             style="font-size:5.85023212px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:241.00005627%;font-family:'Sintony-Bold, Sintony';-inkscape-font-specification:'Sintony-Bold, Sintony'"
-             id="flowPara4966" /><flowPara
-             id="flowPara4968"
-             style="font-size:5.85023212px;line-height:241.00005627%" /><flowPara
-             id="flowPara4970"
-             style="font-size:6.55260992px;line-height:241.00005627%" /><flowPara
-             id="flowPara4972"
-             style="font-size:6.55260992px;line-height:241.00005627%" /><flowPara
+             style="font-size:6.20725038px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:177.99999713999997653%;font-family:Sintony;-inkscape-font-specification:Sintony"
+             id="flowPara3187">Dijkstra Algorithm</flowPara><flowPara
+             style="font-size:6.20725038px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:177.99999713999997653%;font-family:Sintony;-inkscape-font-specification:Sintony"
+             id="flowPara3225">Driving Distance</flowPara><flowPara
+             style="font-size:6.20725038px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:177.99999713999997653%;font-family:Sintony;-inkscape-font-specification:Sintony"
+             id="flowPara3229">Johnson’s Algorithm</flowPara><flowPara
+             style="font-size:6.20725038px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:177.99999713999997653%;font-family:Sintony;-inkscape-font-specification:Sintony"
+             id="flowPara3233">Floyd-Warshall Algorithm</flowPara><flowPara
+             style="font-size:6.20725038px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:177.99999713999997653%;font-family:Sintony;-inkscape-font-specification:Sintony"
+             id="flowPara3237">A* Algorithm</flowPara><flowPara
+             style="font-size:6.20725038px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:177.99999713999997653%;font-family:Sintony;-inkscape-font-specification:Sintony"
+             id="flowPara3241">Bi-directional Dijkstra</flowPara><flowPara
+             style="font-size:6.20725038px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:177.99999713999997653%;font-family:Sintony;-inkscape-font-specification:Sintony"
+             id="flowPara3245">Bi-directional A*</flowPara><flowPara
+             style="font-size:6.20725038px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:177.99999713999997653%;font-family:Sintony;-inkscape-font-specification:Sintony"
+             id="flowPara3249">Traveling Sales Person</flowPara><flowPara
+             style="font-size:6.20725038px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:177.99999713999997653%;font-family:Sintony;-inkscape-font-specification:Sintony"
+             id="flowPara3267">Flow Analysis</flowPara><flowPara
              id="flowPara4974"
-             style="font-size:6.55260992px;line-height:241.00005627%" /></flowRoot>      </g>
+             style="font-size:6.20725038px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:177.99999713999997653%;font-family:Sintony;-inkscape-font-specification:Sintony">Graph analitics</flowPara></flowRoot>      </g>
       <g
-         transform="matrix(1.0257791,0,0,1.0257791,-20.413626,227.55497)"
+         transform="matrix(1.0257791,0,0,1.0257791,-20.413627,227.55497)"
          id="g4551-4">
         <text
            y="71.400162"
@@ -760,55 +756,6 @@
              id="tspan4563-4"
              sodipodi:role="line" /></text>
       </g>
-      <g
-         id="g5178"
-         transform="translate(-4.0073778,0)">
-        <polygon
-           id="Fill-4"
-           points="0.69246,98.4633 0.69246,103.3463 4.91746,100.9033 "
-           style="fill:#4ab969"
-           transform="matrix(1.7611383,0,0,0.99293649,59.513015,306.5946)" />
-        <polygon
-           id="Fill-5"
-           points="0.69246,124.4633 0.69246,129.3463 4.91746,126.9033 "
-           style="fill:#4ab969"
-           transform="matrix(1.7611383,0,0,0.99293649,59.513015,299.35017)" />
-        <polygon
-           id="Fill-6"
-           points="0.69246,163.4633 0.69246,168.3463 4.91746,165.9033 "
-           style="fill:#4ab969"
-           transform="matrix(1.7611383,0,0,0.99293649,59.513015,279.19762)" />
-        <polygon
-           style="fill:#4ab969"
-           transform="matrix(1.7611383,0,0,0.99293649,-39.11073,-53.729772)"
-           points="56.69246,522.3461 60.91746,519.9031 56.69246,517.4631 "
-           id="Fill-7" />
-        <polygon
-           id="Fill-4-4"
-           points="0.69246,103.3463 4.91746,100.9033 0.69246,98.4633 "
-           style="fill:#4ab969"
-           transform="matrix(1.7611383,0,0,0.99293649,59.513015,380.88233)" />
-        <polygon
-           id="Fill-5-3"
-           points="0.69246,129.3463 4.91746,126.9033 0.69246,124.4633 "
-           style="fill:#4ab969"
-           transform="matrix(1.7611383,0,0,0.99293649,59.513015,373.63794)" />
-        <polygon
-           id="Fill-6-6"
-           points="0.69246,168.3463 4.91746,165.9033 0.69246,163.4633 "
-           style="fill:#4ab969"
-           transform="matrix(1.7611383,0,0,0.99293649,59.513015,353.48533)" />
-        <polygon
-           style="fill:#4ab969"
-           transform="matrix(1.7611383,0,0,0.99293649,-39.11073,20.557968)"
-           points="56.69246,522.3461 60.91746,519.9031 56.69246,517.4631 "
-           id="Fill-7-4" />
-        <polygon
-           style="fill:#4ab969"
-           transform="matrix(1.7611383,0,0,0.99293649,-39.11073,39.129892)"
-           points="56.69246,517.4631 56.69246,522.3461 60.91746,519.9031 "
-           id="Fill-7-4-3" />
-      </g>
       <image
          y="404.08041"
          x="248.77545"
@@ -818,7 +765,7 @@
          width="303.50583" />
       <g
          id="g4665-1"
-         transform="matrix(1.0093708,0,0,0.96044135,-2.9761723,129.63033)">
+         transform="matrix(0.99494439,0,0,0.3837947,-2.1228935,247.99523)">
         <text
            xml:space="preserve"
            style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -841,7 +788,8 @@
         <flowRoot
            xml:space="preserve"
            style="font-size:8.57280159px;font-weight:bold;text-align:justify;text-anchor:start;fill:#0b3033;font-family:'Sintony-Bold, Sintony'"
-           id="flowRoot4588-1"><flowRegion
+           id="flowRoot4588-1"
+           transform="matrix(1,0,0,2.7629598,0,-366.89741)"><flowRegion
              id="flowRegion4590-19"><use
                x="0"
                y="0"
@@ -850,15 +798,14 @@
                width="595"
                height="842" /></flowRegion><flowPara
              id="flowPara4627-3"
-             style="font-size:9.14074802px">pgRouting implements a variety of graph algorithms.</flowPara><flowPara
+             style="font-size:8.76206207px">pgRouting implements a variety of graph algorithms.</flowPara><flowPara
              id="flowPara4633-8"
-             style="font-size:9.14074802px" /><flowPara
-             style="font-size:9.14074802px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sintony;-inkscape-font-specification:Sintony"
-             id="flowPara4631-7">Some of the most used algorithms are:</flowPara><flowPara
-             id="flowPara4625-4" /></flowRoot>      </g>
+             style="font-size:8.76206207px" /><flowPara
+             id="flowPara4625-4"
+             style="font-size:8.76206207px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sintony;-inkscape-font-specification:Sintony">Some of the most used algorithms are:</flowPara></flowRoot>      </g>
       <g
          id="g4665-9"
-         transform="matrix(1.0093708,0,0,0.96044135,250.40605,21.60477)">
+         transform="matrix(1.0093708,0,0,0.96044135,276.40605,21.60477)">
         <text
            xml:space="preserve"
            style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -909,7 +856,7 @@
              id="flowPara6156" /><flowPara
              id="flowPara4625-0" /></flowRoot>      </g>
       <g
-         transform="matrix(1.0257791,0,0,1.0257791,231.74092,125.44442)"
+         transform="matrix(1.0257791,0,0,1.0257791,257.74092,125.44442)"
          id="g4551-8">
         <text
            y="61.825588"
@@ -937,24 +884,6 @@
              id="tspan4563-8"
              sodipodi:role="line" /></text>
       </g>
-      <g
-         id="g6242">
-        <polygon
-           id="Fill-4-0"
-           points="0.69246,98.4633 0.69246,103.3463 4.91746,100.9033 "
-           style="fill:#4ab969"
-           transform="matrix(1.7611383,0,0,0.99293649,292.89524,126.54491)" />
-        <polygon
-           id="Fill-5-5"
-           points="0.69246,129.3463 4.91746,126.9033 0.69246,124.4633 "
-           style="fill:#4ab969"
-           transform="matrix(1.7611383,0,0,0.99293649,292.89524,132.62952)" />
-        <polygon
-           id="Fill-6-9"
-           points="0.69246,163.4633 0.69246,168.3463 4.91746,165.9033 "
-           style="fill:#4ab969"
-           transform="matrix(1.7611383,0,0,0.99293649,292.89524,137.75619)" />
-      </g>
       <rect
          style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
          id="rect6247"
@@ -963,41 +892,80 @@
          x="241.30164"
          y="399.84348" />
       <image
-         y="659.4292"
-         x="506.68167"
+         y="645.05316"
+         x="492.3056"
          id="image3184"
-         xlink:href="data:image/png;base64,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
-"
-         height="60.848129"
-         width="60.848129" />
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUoAAAFKCAYAAAB7KRYFAAAABHNCSVQICAgIfAhkiAAABitJREFU eJzt3VGOGzcURUEpyP633NnAOIfAEOAzu2oBsqRpH/BDF/w+z/N8APijf06/AYDphBIgCCVAEEqA IJQAQSgBglACBKEECEIJEIQSIAglQBBKgCCUAEEoAYJQAgShBAhCCRCEEiAIJUAQSoAglABBKAGC UAIEoQQIQgkQhBIgCCVAEEqAIJQAQSgBglACBKEECEIJEIQSIAglQBBKgCCUAEEoAYJQAoR/T7+B 8v1+T7+FkZ7nOfLvrv49Vt/f7r/v7u9l+ue9xanneZUTJUAQSoAglABBKAGCUAIEoQQIQgkQhBIg CCVAGL/MWTX9l/2rdi83di9Ldtu9aJm+9Jn+7+52yxLJiRIgCCVAEEqAIJQAQSgBglACBKEECEIJ EIQSIFyzzFl1ailwy8LjljtpTr3ebm97nk9xogQIQgkQhBIgCCVAEEqAIJQAQSgBglACBKEECK9b 5rzNLcuNWz4HfycnSoAglABBKAGCUAIEoQQIQgkQhBIgCCVAEEqAYJlzuel3w9yy4OFuTpQAQSgB glACBKEECEIJEIQSIAglQBBKgCCUAOF1y5y33YFyaqky/Y6b3e/v1HP1tuf5FCdKgCCUAEEoAYJQ AgShBAhCCRCEEiAIJUAQSoBwzTLHXSm/c+punVtebzfP8yxOlABBKAGCUAIEoQQIQgkQhBIgCCVA EEqAIJQA4fu4dIPP/DtuTtm99OHv5EQJEIQSIAglQBBKgCCUAEEoAYJQAgShBAhCCRDG35lzy90h 0+9oWXXqc0xfDt1y98+p15vOiRIgCCVAEEqAIJQAQSgBglACBKEECEIJEIQSIIxf5tyyaDm1jFhl 4fGz6c/VqlsWMqc4UQIEoQQIQgkQhBIgCCVAEEqAIJQAQSgBglAChPHLnOl3paxa/RynFjenTF9e nXoOTr3eqc87/Tl1ogQIQgkQhBIgCCVAEEqAIJQAQSgBglACBKEECN9n+E/ib7lr5pTpy4jpd/Cc +v6m/91W3fI5nCgBglACBKEECEIJEIQSIAglQBBKgCCUAEEoAcL4O3Om/2L/luXQ9MXSqYXH9O9v +vN3CydKgCCUAEEoAYJQAgShBAhCCRCEEiAIJUAQSoAwfpkzffGwavqC4tQCavpi5JY7c6a/3nRO lABBKAGCUAIEoQQIQgkQhBIgCCVAEEqAIJQA4fsM/+n89AXAqcXI9EULP5v+nL5tGbbKiRIgCCVA EEqAIJQAQSgBglACBKEECEIJEIQSIIy/M2c6S4vfOXXXzKrp398pb/tenCgBglACBKEECEIJEIQS IAglQBBKgCCUAEEoAYJlzi/dsmiZvpBZNf1zTP9edi++pt+Fs8qJEiAIJUAQSoAglABBKAGCUAIE oQQIQgkQhBIgfJ9bfjrPj25Zgtzy7+42/e97CydKgCCUAEEoAYJQAgShBAhCCRCEEiAIJUAQSoAw /s6cU8uD6abfmbP73119Dnbf+XLqzpzpy5dblk2rnCgBglACBKEECEIJEIQSIAglQBBKgCCUAEEo AcL4Zc6q6b/sXzV98TB9+TL9Objl/b1tMedECRCEEiAIJUAQSoAglABBKAGCUAIEoQQIQgkQrlnm rDq1KDi1yLhlQTF9MXLL93zL59jNiRIgCCVAEEqAIJQAQSgBglACBKEECEIJEIQSILxumcMsuxdL uxc80xdBq275HKc4UQIEoQQIQgkQhBIgCCVAEEqAIJQAQSgBglACBMscPp/P/oXM7oXHqQXPbqeW Q7u9benjRAkQhBIgCCVAEEqAIJQAQSgBglACBKEECEIJEF63zDm1ZLjF9MXN9Ltwpr+e/x8/c6IE CEIJEIQSIAglQBBKgCCUAEEoAYJQAgShBAjXLHNuuZvjlFu+v1N369zy/d3yOXZzogQIQgkQhBIg CCVAEEqAIJQAQSgBglACBKEECN/HJRkA/8uJEiAIJUAQSoAglABBKAGCUAIEoQQIQgkQhBIgCCVA EEqAIJQAQSgBglACBKEECEIJEIQSIAglQBBKgCCUAEEoAYJQAgShBAhCCRCEEiAIJUAQSoAglABB KAGCUAIEoQQIQgkQhBIgCCVAEEqAIJQAQSgBglACBKEECP8B1SKRrfe2FWgAAAAASUVORK5CYII= "
+         height="75.224197"
+         width="75.224197" />
+      <polygon
+         transform="matrix(2.6694293,0,0,0.99293649,54.876681,295.41322)"
+         style="fill:#4ab969"
+         points="4.91746,100.9033 0.69246,98.4633 0.69246,103.3463 "
+         id="Fill-4" />
+      <polygon
+         transform="matrix(2.6694293,0,0,0.99293649,54.876681,291.8198)"
+         style="fill:#4ab969"
+         points="4.91746,126.9033 0.69246,124.4633 0.69246,129.3463 "
+         id="Fill-5" />
+      <polygon
+         transform="matrix(2.6694293,0,0,0.99293649,54.876681,275.31823)"
+         style="fill:#4ab969"
+         points="4.91746,165.9033 0.69246,163.4633 0.69246,168.3463 "
+         id="Fill-6" />
+      <polygon
+         id="Fill-7"
+         points="60.91746,519.9031 56.69246,517.4631 56.69246,522.3461 "
+         transform="matrix(2.6694293,0,0,0.99293649,-94.61136,-53.958166)"
+         style="fill:#4ab969" />
+      <polygon
+         transform="matrix(2.6694293,0,0,0.99293649,54.876681,384.30494)"
+         style="fill:#4ab969"
+         points="0.69246,98.4633 0.69246,103.3463 4.91746,100.9033 "
+         id="Fill-4-4" />
+      <polygon
+         transform="matrix(2.6694293,0,0,0.99293649,54.876681,380.71152)"
+         style="fill:#4ab969"
+         points="0.69246,124.4633 0.69246,129.3463 4.91746,126.9033 "
+         id="Fill-5-3" />
+      <polygon
+         transform="matrix(2.6694293,0,0,0.99293649,54.876681,364.20995)"
+         style="fill:#4ab969"
+         points="0.69246,163.4633 0.69246,168.3463 4.91746,165.9033 "
+         id="Fill-6-6" />
+      <polygon
+         id="Fill-7-4"
+         points="60.91746,519.9031 56.69246,517.4631 56.69246,522.3461 "
+         transform="matrix(2.6694293,0,0,0.99293649,-94.61136,34.933547)"
+         style="fill:#4ab969" />
+      <polygon
+         id="Fill-7-4-3"
+         points="56.69246,517.4631 56.69246,522.3461 60.91746,519.9031 "
+         transform="matrix(2.6694293,0,0,0.99293649,-94.61136,57.156472)"
+         style="fill:#4ab969" />
+      <polygon
+         id="Fill-7-4-3-7"
+         points="60.91746,519.9031 56.69246,517.4631 56.69246,522.3461 "
+         transform="matrix(2.6694293,0,0,0.99293649,-93.81269,79.379397)"
+         style="fill:#4ab969" />
+      <g
+         id="g3369">
+        <polygon
+           id="Fill-4-3"
+           points="0.69246,103.3463 4.91746,100.9033 0.69246,98.4633 "
+           style="fill:#4ab969"
+           transform="matrix(2.6694293,0,0,0.99293649,320.76583,125.46445)" />
+        <polygon
+           id="Fill-5-5"
+           points="4.91746,126.9033 0.69246,124.4633 0.69246,129.3463 "
+           style="fill:#4ab969"
+           transform="matrix(2.6694293,0,0,0.99293649,320.76583,133.58486)" />
+        <polygon
+           id="Fill-6-62"
+           points="4.91746,165.9033 0.69246,163.4633 0.69246,168.3463 "
+           style="fill:#4ab969"
+           transform="matrix(2.6694293,0,0,0.99293649,320.76583,137.58249)" />
+      </g>
     </g>
   </g>
   <style
