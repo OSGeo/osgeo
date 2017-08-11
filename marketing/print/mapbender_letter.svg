@@ -30,8 +30,8 @@
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="0.82"
-     inkscape:cx="404.49198"
+     inkscape:zoom="1.82"
+     inkscape:cx="451.49623"
      inkscape:cy="688.01597"
      inkscape:window-x="65"
      inkscape:window-y="24"
@@ -956,9 +956,9 @@
     </text>
   </g>
   <polygon
-     transform="matrix(1.25,0,0,1.25,308.81374,-402.21023)"
+     transform="matrix(1.25,0,0,1.25,308.81374,-406.21023)"
      style="fill:#4ab969;fill-rule:evenodd;stroke:none;stroke-width:1"
-     points="56.69246,569.4631 56.69246,574.3461 60.91746,571.9031 "
+     points="60.91746,571.9031 56.69246,569.4631 56.69246,574.3461 "
      id="Fill-8-9-7" />
   <g
      style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
@@ -1996,5 +1996,5 @@
          height="99.450546"
          x="570.32965"
          y="39.724842" /></flowRegion><flowPara
-       id="flowPara5663"></flowPara><flowPara
+       id="flowPara5663" /><flowPara
        id="flowPara5665" /></flowRoot></svg>
