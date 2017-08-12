@@ -35,16 +35,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="853"
+     inkscape:window-width="780"
+     inkscape:window-height="757"
      id="namedview249"
      showgrid="false"
      inkscape:zoom="1.2520812"
      inkscape:cx="275.37659"
-     inkscape:cy="290.04374"
+     inkscape:cy="417.83098"
      inkscape:window-x="-3"
-     inkscape:window-y="-3"
-     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
      inkscape:current-layer="osgeo_a4" />
   <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
   <title
@@ -137,7 +137,7 @@
              style="font-size:9.14074802px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sintony;-inkscape-font-specification:Sintony"
              id="flowPara3384">pgRouting is implemented in C++, using C++ Boost    Graph library.</flowPara><flowPara
              style="font-size:9.14074802px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sintony;-inkscape-font-specification:Sintony"
-             id="flowPara3388"></flowPara><flowPara
+             id="flowPara3388" /><flowPara
              style="font-size:9.14074802px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sintony;-inkscape-font-specification:Sintony"
              id="flowPara3390">Using it, is with SQL queries.</flowPara><flowPara
              id="flowPara4625" /></flowRoot>      </g>
@@ -899,70 +899,71 @@
          height="75.224197"
          width="75.224197" />
       <polygon
-         transform="matrix(2.6694293,0,0,0.99293649,54.876681,295.41322)"
+         transform="matrix(1.4336965,0,0,0.99293649,55.732376,295.41322)"
          style="fill:#4ab969"
-         points="4.91746,100.9033 0.69246,98.4633 0.69246,103.3463 "
+         points="0.69246,98.4633 0.69246,103.3463 4.91746,100.9033 "
          id="Fill-4" />
       <polygon
-         transform="matrix(2.6694293,0,0,0.99293649,54.876681,291.8198)"
+         transform="matrix(1.4336965,0,0,0.99293649,55.732376,291.8198)"
          style="fill:#4ab969"
-         points="4.91746,126.9033 0.69246,124.4633 0.69246,129.3463 "
+         points="0.69246,124.4633 0.69246,129.3463 4.91746,126.9033 "
          id="Fill-5" />
       <polygon
-         transform="matrix(2.6694293,0,0,0.99293649,54.876681,275.31823)"
+         transform="matrix(1.4336965,0,0,0.99293649,55.732376,275.31823)"
          style="fill:#4ab969"
-         points="4.91746,165.9033 0.69246,163.4633 0.69246,168.3463 "
+         points="0.69246,163.4633 0.69246,168.3463 4.91746,165.9033 "
          id="Fill-6" />
       <polygon
          id="Fill-7"
-         points="60.91746,519.9031 56.69246,517.4631 56.69246,522.3461 "
-         transform="matrix(2.6694293,0,0,0.99293649,-94.61136,-53.958166)"
+         points="56.69246,517.4631 56.69246,522.3461 60.91746,519.9031 "
+         transform="matrix(1.4336965,0,0,0.99293649,-24.554626,-53.958166)"
          style="fill:#4ab969" />
       <polygon
-         transform="matrix(2.6694293,0,0,0.99293649,54.876681,384.30494)"
+         transform="matrix(1.4336965,0,0,0.99293649,55.732376,384.30494)"
          style="fill:#4ab969"
-         points="0.69246,98.4633 0.69246,103.3463 4.91746,100.9033 "
+         points="0.69246,103.3463 4.91746,100.9033 0.69246,98.4633 "
          id="Fill-4-4" />
       <polygon
-         transform="matrix(2.6694293,0,0,0.99293649,54.876681,380.71152)"
+         transform="matrix(1.4336965,0,0,0.99293649,55.732376,380.71152)"
          style="fill:#4ab969"
-         points="0.69246,124.4633 0.69246,129.3463 4.91746,126.9033 "
+         points="0.69246,129.3463 4.91746,126.9033 0.69246,124.4633 "
          id="Fill-5-3" />
       <polygon
-         transform="matrix(2.6694293,0,0,0.99293649,54.876681,364.20995)"
+         transform="matrix(1.4336965,0,0,0.99293649,55.732376,364.20995)"
          style="fill:#4ab969"
-         points="0.69246,163.4633 0.69246,168.3463 4.91746,165.9033 "
+         points="0.69246,168.3463 4.91746,165.9033 0.69246,163.4633 "
          id="Fill-6-6" />
       <polygon
          id="Fill-7-4"
-         points="60.91746,519.9031 56.69246,517.4631 56.69246,522.3461 "
-         transform="matrix(2.6694293,0,0,0.99293649,-94.61136,34.933547)"
+         points="56.69246,517.4631 56.69246,522.3461 60.91746,519.9031 "
+         transform="matrix(1.4336965,0,0,0.99293649,-24.554626,34.933547)"
          style="fill:#4ab969" />
       <polygon
          id="Fill-7-4-3"
-         points="56.69246,517.4631 56.69246,522.3461 60.91746,519.9031 "
-         transform="matrix(2.6694293,0,0,0.99293649,-94.61136,57.156472)"
+         points="56.69246,522.3461 60.91746,519.9031 56.69246,517.4631 "
+         transform="matrix(1.4336965,0,0,0.99293649,-24.554626,57.156472)"
          style="fill:#4ab969" />
       <polygon
          id="Fill-7-4-3-7"
-         points="60.91746,519.9031 56.69246,517.4631 56.69246,522.3461 "
-         transform="matrix(2.6694293,0,0,0.99293649,-93.81269,79.379397)"
+         points="56.69246,517.4631 56.69246,522.3461 60.91746,519.9031 "
+         transform="matrix(1.4336965,0,0,0.99293649,-24.125676,79.379397)"
          style="fill:#4ab969" />
       <g
-         id="g3369">
+         id="g3369"
+         transform="matrix(0.57511283,0,0,1,137.07468,0)">
         <polygon
            id="Fill-4-3"
-           points="0.69246,103.3463 4.91746,100.9033 0.69246,98.4633 "
+           points="4.91746,100.9033 0.69246,98.4633 0.69246,103.3463 "
            style="fill:#4ab969"
            transform="matrix(2.6694293,0,0,0.99293649,320.76583,125.46445)" />
         <polygon
            id="Fill-5-5"
-           points="4.91746,126.9033 0.69246,124.4633 0.69246,129.3463 "
+           points="0.69246,124.4633 0.69246,129.3463 4.91746,126.9033 "
            style="fill:#4ab969"
            transform="matrix(2.6694293,0,0,0.99293649,320.76583,133.58486)" />
         <polygon
            id="Fill-6-62"
-           points="4.91746,165.9033 0.69246,163.4633 0.69246,168.3463 "
+           points="0.69246,163.4633 0.69246,168.3463 4.91746,165.9033 "
            style="fill:#4ab969"
            transform="matrix(2.6694293,0,0,0.99293649,320.76583,137.58249)" />
       </g>
