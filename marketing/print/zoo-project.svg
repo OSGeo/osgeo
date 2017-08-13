@@ -14,7 +14,7 @@
    version="1.1"
    id="svg247"
    sodipodi:docname="zoo-project.svg"
-   inkscape:version="0.92.1 r15371">
+   inkscape:version="0.91 r13725">
   <metadata
      id="metadata251">
     <rdf:RDF>
@@ -35,17 +35,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1136"
+     inkscape:window-width="1491"
+     inkscape:window-height="1389"
      id="namedview249"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="-62.5"
-     inkscape:cy="393.33206"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="Open-Source" />
+     inkscape:zoom="1.4574183"
+     inkscape:cx="297.6373"
+     inkscape:cy="411.62004"
+     inkscape:window-x="892"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="osgeo_a4" />
   <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
   <title
      id="title2">osgeo_a4</title>
@@ -175,7 +175,7 @@
           <tspan
              x="0.146"
              y="13.818"
-             id="tspan165">Where is used</tspan>
+             id="tspan165">ZOO Habitat</tspan>
         </text>
         <text
            id="OSGeo-holds-a-passio"
@@ -191,7 +191,7 @@
           <tspan
              x="0.94050002"
              y="46"
-             id="tspan170">webGIS projects where GIS analysis are required</tspan>
+             id="tspan170">web GIS projects where GIS analysis is required</tspan>
           <tspan
              x="0.94050002"
              y="59"
@@ -261,6 +261,7 @@
                    id="tspan131"><tspan
    style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033"
    id="tspan75">ZOO-Kernel</tspan>
+
 : A WPS compliant</tspan>
                 <tspan
                    x="72.936996"
@@ -318,6 +319,7 @@
                    id="tspan141"><tspan
    style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033"
    id="tspan82">ZOO-Services</tspan>
+
 : A growing collection</tspan>
                 <tspan
                    x="72.936996"
@@ -371,6 +373,7 @@
                    id="tspan149"><tspan
    style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033"
    id="tspan88">ZOO-API</tspan>
+
 : A server-side JavaScript</tspan>
                 <tspan
                    x="72.936996"
@@ -415,6 +418,7 @@
                    id="tspan96"><tspan
    style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033"
    id="tspan94">ZOO-Client</tspan>
+
 : A client side JavaScript</tspan>
                 <tspan
                    x="72.936996"
@@ -653,19 +657,19 @@
           <tspan
              x="0.94050002"
              y="48"
-             id="tspan170-7">ZOO-Project and it is composed by the</tspan>
+             id="tspan170-7">ZOO-Project and it is composed of the</tspan>
           <tspan
              x="0.94050002"
              y="61"
-             id="tspan176-2">ZOO Tribal Council (Project Steering Comitee),</tspan>
+             id="tspan176-2">ZOO Tribal Council (Project Steering Comittee),</tspan>
           <tspan
              x="0.94050002"
              y="74"
-             id="tspan178-2">ZOO Keepers (Comiters), ZOO Visitors (Users</tspan>
+             id="tspan178-2">ZOO Keepers (Comitters), ZOO Visitors (Users</tspan>
           <tspan
              x="0.94050002"
              y="87"
-             id="tspan180-6">and Developers) and the ZOO supporter (Knowledge</tspan>
+             id="tspan180-6">and Developers) and the ZOO supporters (Knowledge</tspan>
           <tspan
              x="0.94050002"
              y="100"
