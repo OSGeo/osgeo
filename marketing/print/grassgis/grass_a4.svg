@@ -109,7 +109,7 @@
              x="57.863998"
              y="139.35901"
              id="tspan16"
-             style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033">GRASS GIS powerfull is free and open source software</tspan>
+             style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033">GRASS GIS is a powerful free and open source software</tspan>
           <tspan
              x="57.863998"
              y="152.35901"
@@ -139,7 +139,7 @@
           <tspan
              x="57.863998"
              y="217.35901"
-             id="tspan26">databases, web map services and even other GIS</tspan>
+             id="tspan26">databases, web map services and also other GIS</tspan>
           <tspan
              x="57.863998"
              y="230.35899"
@@ -773,11 +773,11 @@
                id="tspan57"><tspan
    style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033"
    id="tspan140">GRASS GIS</tspan>
- is used in scientific applications, commercial</tspan>
+ is used in scientific applications, business </tspan>
             <tspan
                x="1"
                y="21"
-               id="tspan59">settings and by public authorities all over the world.</tspan>
+               id="tspan59">and by public authorities all over the world.</tspan>
             <tspan
                x="1"
                y="34"
@@ -824,7 +824,7 @@
              x="0"
              y="48.9855"
              id="tspan150"
-             style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033">and the latest commit is probably just few hours old!</tspan>
+             style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033">and the latest change is probably just few hours old!</tspan>
           <tspan
              x="0"
              y="61.9855"
@@ -836,7 +836,7 @@
           <tspan
              x="0"
              y="87.985497"
-             id="tspan156">team and the feedback of a wide contributors</tspan>
+             id="tspan156">team and the feedback of a wide contributor</tspan>
           <tspan
              x="0"
              y="100.9855"
@@ -925,7 +925,7 @@
                        x="14.764"
                        y="58"
                        id="tspan171"
-                       style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033">Interface (GUI) with several powerful tools</tspan>
+                       style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033">Interface (GUI) with numerous powerful tools</tspan>
                     <tspan
                        x="14.764"
                        y="71"
@@ -980,7 +980,7 @@
                        id="tspan188"><tspan
    style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033"
    id="tspan184">R</tspan>
- has also an interface to GRAS GIS, called <tspan
+ has also an interface to GRASS GIS, called <tspan
    style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033"
    id="tspan186">rgrass7</tspan>
 </tspan>
@@ -1063,7 +1063,7 @@
                  x="15"><tspan
    style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033"
    id="tspan197">Raster analysis</tspan>
-: map algebra, interpolation, mask,</tspan>
+: map algebra, interpolation, masking,</tspan>
               <tspan
                  id="tspan207"
                  y="47"
@@ -1096,7 +1096,7 @@
                  x="15"><tspan
    style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033"
    id="tspan209">DTM analysis</tspan>
-: contour/surface generation, cost-path</tspan>
+: contour/surface generation, cost-path and</tspan>
               <tspan
                  id="tspan212"
                  y="125"
@@ -1114,7 +1114,7 @@
                  x="15"><tspan
    style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033"
    id="tspan217">Temporal (4D) framework</tspan>
-: support for time series</tspan>
+: support for time series management and analysis,</tspan>
               <tspan
                  id="tspan220"
                  y="164"
@@ -1132,7 +1132,7 @@
                  x="15"><tspan
    style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033"
    id="tspan223">Spatial statistics</tspan>
-: correlation/covariance analysis, regression..</tspan>
+: correlation/covariance analysis, regression...</tspan>
               <tspan
                  id="tspan196"
                  y="203"
