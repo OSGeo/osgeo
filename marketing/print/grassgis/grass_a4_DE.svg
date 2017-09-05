@@ -109,29 +109,29 @@
              x="57.863998"
              y="139.35901"
              id="tspan16"
-             style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033">GRASS GIS ist eine leistungsfähige freie und Open-Source-Software</tspan>
+             style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033">GRASS GIS ist eine leistungsfähige freie und Open-Source</tspan>
           <tspan
              x="57.863998"
              y="152.35901"
              id="tspan18"
-             style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033">zur Durchführung von räumlichen Analysen. Es besteht aus mehr</tspan>
+             style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033">Software für räumliche Analysen. Sie besteht aus mehr</tspan>
           <tspan
              x="57.863998"
              y="165.35901"
              id="tspan20"
-             style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033">als 500 Modulen (und Hunderte von User Add-Ons erweitern</tspan>
+             style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033">als 500 Modulen (und viele User Add-Ons erweitern die</tspan>
           <tspan
              x="57.863998"
              y="178.35901"
              id="tspan22"
-             style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033">seine Funktionalität) für die Verarbeitung von Vektor-, Raster-,</tspan>
+             style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033">Funktionalität) für die Verarbeitung von Vektor-, Raster-,</tspan>
           <tspan
              x="57.863998"
              y="191.35901"
              id="tspan19"><tspan
    style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033"
    id="tspan67">Voxel- und Zeitreihen-Daten.</tspan>
-. Viele Schnittstellen zu anderen</tspan>
+. Es gibt viele Schnittstellen zu </tspan>
           <tspan
              x="57.863998"
              y="204.35901"
@@ -143,15 +143,15 @@
           <tspan
              x="57.863998"
              y="230.35899"
-             id="tspan28">Software existieren. Es kann als Desktop-GIS genutzt werden mit</tspan>
+             id="tspan28">Software existieren. Es kann als Desktop-GIS genutzt werden </tspan>
           <tspan
              x="57.863998"
              y="243.35899"
-             id="tspan23">einer modernen grafischen Benutzeroberfläche sowie als das</tspan>
+             id="tspan23">über eine moderne grafische Benutzeroberfläche sowie als </tspan>
           <tspan
              x="57.863998"
              y="256.35898"
-             id="tspan25">Rückgrat einer GIS-Infrastruktur dienen.</tspan>
+             id="tspan25">das Rückgrat einer GIS-Infrastruktur dienen.</tspan>
         </text>
         <text
            id="Welcome"
@@ -773,19 +773,19 @@
                id="tspan57"><tspan
    style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033"
    id="tspan140">GRASS GIS</tspan>
- wird in wissenschaftlichen Anwendungen eingesetzt, in Firmen</tspan>
+ wird in wissenschaftlichen Anwendungen, in</tspan>
             <tspan
                x="1"
                y="21"
-               id="tspan59">und Behörden auf der ganzen Welt.</tspan>
+               id="tspan59">Firmen und Behörden auf der ganzen Welt eingesetzt. Die </tspan>
             <tspan
                x="1"
                y="34"
-               id="tspan61">Die Software hat großes Potential, um räumliche Probleme</tspan>
+               id="tspan61">Software bietet großes Potential, um räumliche </tspan>
             <tspan
                x="1"
                y="47"
-               id="tspan63">und Fragestellungen weltweit zu lösen.</tspan>
+               id="tspan63">Probleme und Fragestellungen weltweit zu lösen.</tspan>
           </text>
         </g>
       </g>
@@ -818,33 +818,33 @@
              id="tspan148">
             <tspan
                style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033"
-               id="tspan164">GRASS GIS wurde vor mehr als 30 Jahren gestartet...</tspan>
+               id="tspan164">GRASS GIS wurde vor mehr als 30 Jahren gestartet und</tspan>
           </tspan>
           <tspan
              x="0"
              y="48.9855"
              id="tspan150"
-             style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033">und die letzte Verbesserung ist wahrscheinlich nur wenige Stunden alt!</tspan>
+             style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033">die letzte Verbesserung ist sicher nur wenige Stunden alt!</tspan>
           <tspan
              x="0"
              y="61.9855"
-             id="tspan152">Viele Menschen haben zur Verbesserung der Software beigetragen.</tspan>
+             id="tspan152">Viele Menschen haben zur Software beigetragen.</tspan>
           <tspan
              x="0"
              y="74.985497"
-             id="tspan154">Ihre Stärke und ihr Erfolg basieren auf einem aktiven</tspan>
+             id="tspan154">Ihre Stärke und ihr Erfolg basieren auf einem aktiven Ent-</tspan>
           <tspan
              x="0"
              y="87.985497"
-             id="tspan156">Entwicklungsteam und dem Feedback einer breiten Nutzercommunity.</tspan>
+             id="tspan156">wicklungsteam und dem Feedback der Nutzercommunity.</tspan>
           <tspan
              x="0"
              y="100.9855"
-             id="tspan158">Beides gebündelt macht GRASS GIS</tspan>
+             id="tspan158">Beides gebündelt macht GRASS GIS einfacher, </tspan>
           <tspan
              x="0"
              y="113.9855"
-             id="tspan160">einfacher, nützlicher und leistungsfähiger für jeden.</tspan>
+             id="tspan160">nützlicher und leistungsfähiger für jeden.</tspan>
         </text>
       </g>
       <g
@@ -903,7 +903,7 @@
                     <tspan
                        x="0.169"
                        y="32"
-                       id="tspan168">GRASS GIS kann über verschiedene Schnittstellen genutzt werden:</tspan>
+                       id="tspan168">GRASS GIS kann über verschiedene Schnittstellen genutzt werden</tspan>
                   </text>
                   <text
                      transform="translate(57.202,482)"
@@ -917,7 +917,7 @@
                     <tspan
                        x="14.764"
                        y="45"
-                       id="tspan170">der einfachste Weg für neue Benutzer ist das<tspan
+                       id="tspan170">der einfachste Weg für Einsteiger ist das <tspan
    style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033"
    id="tspan165">Graphical User</tspan>
 </tspan>
@@ -925,31 +925,26 @@
                        x="14.764"
                        y="58"
                        id="tspan171"
-                       style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033">Interface (GUI) mit vielen leistungsfähigen Tools</tspan>
+                       style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033">Interface (GUI) mit vielen leistungsfähigen Werkzeugen</tspan>
                     <tspan
                        x="14.764"
                        y="71"
-                       id="tspan174">Power-User verwenden die<tspan
+                       id="tspan174">Power-User verwenden die <tspan
    style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033"
-   id="tspan173">text-based command</tspan>
+   id="tspan173">textbasierte Kommandozeile</tspan>
 </tspan>
-                    <tspan
-                       x="14.764"
-                       y="84"
-                       id="tspan176"
-                       style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033">textbasierter Kommandozeile</tspan>
                     <tspan
                        x="14.764"
                        y="97"
                        id="tspan195"
-                       style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033">C API</tspan>
+                       style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033">C API für performante Funktionen</tspan>
                     <tspan
                        x="14.764"
                        y="110"
                        id="tspan179">für die Programmiersprache <tspan
    style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033"
    id="tspan178">Python</tspan>
- gibt es eine<tspan
+ liegt eine <tspan
    style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033"
    id="tspan180">Script-Bibliothek</tspan>
 </tspan>
@@ -958,7 +953,7 @@
                        y="123"
                        id="tspan185">und eine <tspan
    style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033"
-   id="tspan183">objektorientierte Python-API</tspan>
+   id="tspan183">objektorientierte Python-API vor</tspan>
 </tspan>
                     <tspan
                        x="14.764"
@@ -973,14 +968,14 @@
                        id="tspan181"><tspan
    style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033"
    id="tspan177">QGIS</tspan>
- hat zwei verschiedene Möglichkeiten, GRASS GIS Module auszuführen</tspan>
+ hat zwei verschiedene Schnittstellen zu GRASS GIS vor</tspan>
                     <tspan
                        x="14.764"
                        y="162"
                        id="tspan188"><tspan
    style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033"
    id="tspan184">R</tspan>
- hat auch eine Schnittstelle zu GRASS GIS, genannt <tspan
+ verfügt über die Schnittstelle <tspan
    style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033"
    id="tspan186">rgrass7</tspan>
 </tspan>
@@ -1056,7 +1051,7 @@
               <tspan
                  id="tspan106"
                  y="21"
-                 x="15">nahezu alle gängigen GIS-Dateiformate</tspan>
+                 x="15">nahezu alle gängigen GIS-Dateiformate.</tspan>
               <tspan
                  id="tspan108"
                  y="34"
@@ -1067,7 +1062,7 @@
               <tspan
                  id="tspan207"
                  y="47"
-                 x="15">Korrelation/Kovarianz-Analyse...</tspan>
+                 x="15">Korrelation/Kovarianz-Analyse, ...</tspan>
               <tspan
                  id="tspan41"
                  y="60"
@@ -1078,7 +1073,7 @@
               <tspan
                  id="tspan43"
                  y="73"
-                 x="15">3D Interpolation, 3D Visualisierung...</tspan>
+                 x="15">3D Interpolation, 3D Visualisierung, ...</tspan>
               <tspan
                  id="tspan192"
                  y="86"
@@ -1089,25 +1084,25 @@
               <tspan
                  id="tspan194"
                  y="99"
-                 x="15">überwachte, unüberwachte und Objektklassifizierung...</tspan>
+                 x="15">überwachte, unüberwachte und Objektklassifizierung, ...</tspan>
               <tspan
                  id="tspan45"
                  y="112"
                  x="15"><tspan
    style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033"
    id="tspan209">DTM-Analyse</tspan>
-: Kontur-/Oberflächenerzeugung, Kostenoberflächen</tspan>
+: Kontur-/Oberflächenerzeugung, Hydrologie,</tspan>
               <tspan
                  id="tspan212"
                  y="125"
-                 x="15">Hang- und Expositionsanalyse, Hydrologie</tspan>
+                 x="15">Kostenoberflächen, Hang- und Expositionsanalyse, ...</tspan>
               <tspan
                  id="tspan191"
                  y="138"
                  x="15"><tspan
    style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033"
    id="tspan214">Vektoranalyse</tspan>
-: Puffer, Überlagerungs-, Netzwerkanalyse...</tspan>
+: Puffer, Überlagerungs-, Netzwerkanalyse, ...</tspan>
               <tspan
                  id="tspan47"
                  y="151"
@@ -1125,14 +1120,14 @@
                  x="15"><tspan
    style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033"
    id="tspan222">Punktwolkenanalyse</tspan>
-: LiDAR, Interpolation...</tspan>
+: LiDAR, Interpolation, ...</tspan>
               <tspan
                  id="tspan225"
                  y="190"
                  x="15"><tspan
    style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033"
    id="tspan223">Räumliche Statistik</tspan>
-: Korrelation/Kovarianz-Analyse, Regression	..</tspan>
+: Korrelationsanalyse, Regression, ...</tspan>
               <tspan
                  id="tspan196"
                  y="203"
@@ -1146,7 +1141,7 @@
                  x="15"><tspan
    style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033"
    id="tspan228">SQL-Unterstützung</tspan>
-: Datenbankschnittstellen</tspan>
+: SQLite, PostgreSQL, etc.</tspan>
             </text>
           </g>
         </g>
