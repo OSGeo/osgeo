@@ -1114,11 +1114,11 @@
                  x="15"><tspan
    style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033"
    id="tspan217">Temporal (4D) framework</tspan>
-: support for time series management and analysis,</tspan>
+: support for time series management</tspan>
               <tspan
                  id="tspan220"
                  y="164"
-                 x="15">big spatio-temporal environmental data</tspan>
+                 x="15">and analysis, big spatio-temporal environmental data</tspan>
               <tspan
                  id="tspan203"
                  y="177"
