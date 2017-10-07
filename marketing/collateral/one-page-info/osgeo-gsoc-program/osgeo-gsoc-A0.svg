@@ -10,7 +10,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="poster-test5.svg"
+   sodipodi:docname="osgeo-gsoc-A0.svg"
    height="100%"
    width="100%"
    inkscape:version="0.92.2 (unknown)"
@@ -22,7 +22,7 @@
    version="1.1"><metadata
      id="metadata25"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
      id="defs23"><inkscape:path-effect
        effect="skeletal"
        id="path-effect6695"
@@ -346,12 +346,12 @@
      inkscape:snap-grids="true"
      inkscape:snap-to-guides="true"
      inkscape:zoom="0.70710678"
-     inkscape:cx="2114.2543"
-     inkscape:cy="564.04847"
+     inkscape:cx="1957.9837"
+     inkscape:cy="2091.3991"
      inkscape:window-x="-3"
      inkscape:window-y="-3"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g2130"
+     inkscape:current-layer="layer10"
      inkscape:guide-bbox="true"><inkscape:grid
        type="xygrid"
        id="grid3074"
@@ -549,10 +549,10 @@
          style="fill:#4daf5c" /></g></g><g
      inkscape:groupmode="layer"
      id="layer10"
-     inkscape:label="project Logos 1"
+     inkscape:label="project Logos"
      style="display:inline"
      sodipodi:insensitive="true"><image
-       sodipodi:absref="/home/vicky/OSGeoLive/marketing/osgeo/GSoc-poster/logos/deegree.png"
+       sodipodi:absref="/home/vicky/OSGeoLive/marketing/osgeo/marketing/collateral/one-page-info/osgeo-gsoc-program/logos/deegree.png"
        xlink:href="logos/deegree.png"
        y="2020.3512"
        x="1880.7358"
@@ -560,7 +560,7 @@
        preserveAspectRatio="none"
        height="68.333237"
        width="284.72183" /><image
-       sodipodi:absref="/home/vicky/OSGeoLive/marketing/osgeo/GSoc-poster/logos/GDAL.png"
+       sodipodi:absref="/home/vicky/OSGeoLive/marketing/osgeo/marketing/collateral/one-page-info/osgeo-gsoc-program/logos/GDAL.png"
        xlink:href="logos/GDAL.png"
        y="2539.1792"
        x="1872.6027"
@@ -568,7 +568,7 @@
        preserveAspectRatio="none"
        height="104.74951"
        width="94.907272" /><image
-       sodipodi:absref="/home/vicky/OSGeoLive/marketing/osgeo/GSoc-poster/logos/geomajas.png"
+       sodipodi:absref="/home/vicky/OSGeoLive/marketing/osgeo/marketing/collateral/one-page-info/osgeo-gsoc-program/logos/geomajas.png"
        xlink:href="logos/geomajas.png"
        y="2483.9407"
        x="1187.493"
@@ -576,7 +576,7 @@
        preserveAspectRatio="none"
        height="94.907272"
        width="97.185036" /><image
-       sodipodi:absref="/home/vicky/OSGeoLive/marketing/osgeo/GSoc-poster/logos/geomoose.png"
+       sodipodi:absref="/home/vicky/OSGeoLive/marketing/osgeo/marketing/collateral/one-page-info/osgeo-gsoc-program/logos/geomoose.png"
        xlink:href="logos/geomoose.png"
        y="2563.8662"
        x="1529.6122"
@@ -584,7 +584,7 @@
        preserveAspectRatio="none"
        height="74.027664"
        width="284.72183" /><image
-       sodipodi:absref="/home/vicky/OSGeoLive/marketing/osgeo/GSoc-poster/logos/GeoNetwork.png"
+       sodipodi:absref="/home/vicky/OSGeoLive/marketing/osgeo/marketing/collateral/one-page-info/osgeo-gsoc-program/logos/GeoNetwork.png"
        xlink:href="logos/GeoNetwork.png"
        y="2624.1306"
        x="1127.7825"
@@ -592,7 +592,7 @@
        preserveAspectRatio="none"
        height="130.36714"
        width="94.907272" /><image
-       sodipodi:absref="/home/vicky/OSGeoLive/marketing/osgeo/GSoc-poster/logos/geonode.png"
+       sodipodi:absref="/home/vicky/OSGeoLive/marketing/osgeo/marketing/collateral/one-page-info/osgeo-gsoc-program/logos/geonode.png"
        xlink:href="logos/geonode.png"
        y="2567.5168"
        x="1350.3361"
@@ -600,7 +600,7 @@
        preserveAspectRatio="none"
        height="94.907272"
        width="94.907272" /><image
-       sodipodi:absref="/home/vicky/OSGeoLive/marketing/osgeo/GSoc-poster/logos/GEOS.png"
+       sodipodi:absref="/home/vicky/OSGeoLive/marketing/osgeo/marketing/collateral/one-page-info/osgeo-gsoc-program/logos/GEOS.png"
        xlink:href="logos/GEOS.png"
        y="1626.5673"
        x="1033.4783"
@@ -608,7 +608,7 @@
        preserveAspectRatio="none"
        height="79.634842"
        width="284.72183" /><image
-       sodipodi:absref="/home/vicky/OSGeoLive/marketing/osgeo/GSoc-poster/logos/GeoServer.png"
+       sodipodi:absref="/home/vicky/OSGeoLive/marketing/osgeo/marketing/collateral/one-page-info/osgeo-gsoc-program/logos/GeoServer.png"
        xlink:href="logos/GeoServer.png"
        y="1589.5662"
        x="1786.5273"
@@ -616,7 +616,7 @@
        preserveAspectRatio="none"
        height="94.907272"
        width="94.907272" /><image
-       sodipodi:absref="/home/vicky/OSGeoLive/marketing/osgeo/GSoc-poster/logos/GeoTools.png"
+       sodipodi:absref="/home/vicky/OSGeoLive/marketing/osgeo/marketing/collateral/one-page-info/osgeo-gsoc-program/logos/GeoTools.png"
        xlink:href="logos/GeoTools.png"
        y="2029.1707"
        x="769.97418"
@@ -624,7 +624,7 @@
        preserveAspectRatio="none"
        height="94.907272"
        width="104.01837" /><image
-       sodipodi:absref="/home/vicky/OSGeoLive/marketing/osgeo/GSoc-poster/logos/geowebcache.png"
+       sodipodi:absref="/home/vicky/OSGeoLive/marketing/osgeo/marketing/collateral/one-page-info/osgeo-gsoc-program/logos/geowebcache.png"
        xlink:href="logos/geowebcache.png"
        y="2291.0649"
        x="1857.3716"
@@ -632,7 +632,7 @@
        preserveAspectRatio="none"
        height="80.690392"
        width="284.72183" /><image
-       sodipodi:absref="/home/vicky/OSGeoLive/marketing/osgeo/GSoc-poster/logos/gvSIG.png"
+       sodipodi:absref="/home/vicky/OSGeoLive/marketing/osgeo/marketing/collateral/one-page-info/osgeo-gsoc-program/logos/gvSIG.png"
        xlink:href="logos/gvSIG.png"
        y="1493.7528"
        x="1231.8693"
@@ -640,7 +640,7 @@
        preserveAspectRatio="none"
        height="95.648735"
        width="94.907272" /><image
-       sodipodi:absref="/home/vicky/OSGeoLive/marketing/osgeo/GSoc-poster/logos/istsos.png"
+       sodipodi:absref="/home/vicky/OSGeoLive/marketing/osgeo/marketing/collateral/one-page-info/osgeo-gsoc-program/logos/istsos.png"
        xlink:href="logos/istsos.png"
        y="2230.8284"
        x="1005.0268"
@@ -648,7 +648,7 @@
        preserveAspectRatio="none"
        height="94.907272"
        width="94.907272" /><image
-       sodipodi:absref="/home/vicky/OSGeoLive/marketing/osgeo/GSoc-poster/logos/Mapbender3.png"
+       sodipodi:absref="/home/vicky/OSGeoLive/marketing/osgeo/marketing/collateral/one-page-info/osgeo-gsoc-program/logos/Mapbender3.png"
        xlink:href="logos/Mapbender3.png"
        y="1750.6333"
        x="1071.0168"
@@ -656,7 +656,7 @@
        preserveAspectRatio="none"
        height="94.907272"
        width="132.04489" /><image
-       sodipodi:absref="/home/vicky/OSGeoLive/marketing/osgeo/GSoc-poster/logos/mapfish.png"
+       sodipodi:absref="/home/vicky/OSGeoLive/marketing/osgeo/marketing/collateral/one-page-info/osgeo-gsoc-program/logos/mapfish.png"
        xlink:href="logos/mapfish.png"
        y="2741.7041"
        x="1257.4014"
@@ -664,7 +664,7 @@
        preserveAspectRatio="none"
        height="94.907272"
        width="177.95114" /><image
-       sodipodi:absref="/home/vicky/OSGeoLive/marketing/osgeo/GSoc-poster/logos/MapGuideOS.png"
+       sodipodi:absref="/home/vicky/OSGeoLive/marketing/osgeo/marketing/collateral/one-page-info/osgeo-gsoc-program/logos/MapGuideOS.png"
        xlink:href="logos/MapGuideOS.png"
        y="2379.0251"
        x="842.81573"
@@ -672,7 +672,7 @@
        preserveAspectRatio="none"
        height="84.154236"
        width="284.72183" /><image
-       sodipodi:absref="/home/vicky/OSGeoLive/marketing/osgeo/GSoc-poster/logos/MapMint.png"
+       sodipodi:absref="/home/vicky/OSGeoLive/marketing/osgeo/marketing/collateral/one-page-info/osgeo-gsoc-program/logos/MapMint.png"
        xlink:href="logos/MapMint.png"
        y="1869.774"
        x="1793.0416"
@@ -680,7 +680,7 @@
        preserveAspectRatio="none"
        height="94.907272"
        width="94.907272" /><image
-       sodipodi:absref="/home/vicky/OSGeoLive/marketing/osgeo/GSoc-poster/logos/MapServer.png"
+       sodipodi:absref="/home/vicky/OSGeoLive/marketing/osgeo/marketing/collateral/one-page-info/osgeo-gsoc-program/logos/MapServer.png"
        xlink:href="logos/MapServer.png"
        y="1911.0254"
        x="826.21857"
@@ -688,7 +688,7 @@
        preserveAspectRatio="none"
        height="75.523033"
        width="284.72183" /><image
-       sodipodi:absref="/home/vicky/OSGeoLive/marketing/osgeo/GSoc-poster/logos/marble.png"
+       sodipodi:absref="/home/vicky/OSGeoLive/marketing/osgeo/marketing/collateral/one-page-info/osgeo-gsoc-program/logos/marble.png"
        xlink:href="logos/marble.png"
        y="2419.4202"
        x="1960.2831"
@@ -696,15 +696,15 @@
        preserveAspectRatio="none"
        height="94.907272"
        width="109.44263" /><image
-       sodipodi:absref="/home/vicky/OSGeoLive/marketing/osgeo/GSoc-poster/logos/NasaWorldWind-horizontal.png"
+       sodipodi:absref="/home/vicky/OSGeoLive/marketing/osgeo/marketing/collateral/one-page-info/osgeo-gsoc-program/logos/NasaWorldWind-horizontal.png"
        xlink:href="logos/NasaWorldWind-horizontal.png"
-       y="2119.3843"
-       x="1951.3741"
+       y="2128.5752"
+       x="1933.0487"
        id="image3106"
        preserveAspectRatio="none"
-       height="94.907272"
-       width="183.03546" /><image
-       sodipodi:absref="/home/vicky/OSGeoLive/marketing/osgeo/GSoc-poster/logos/ossim.png"
+       height="94.90731"
+       width="209.90553" /><image
+       sodipodi:absref="/home/vicky/OSGeoLive/marketing/osgeo/marketing/collateral/one-page-info/osgeo-gsoc-program/logos/ossim.png"
        xlink:href="logos/ossim.png"
        y="1646.5372"
        x="1398.0659"
@@ -712,7 +712,7 @@
        preserveAspectRatio="none"
        height="94.907272"
        width="233.14178" /><image
-       sodipodi:absref="/home/vicky/OSGeoLive/marketing/osgeo/GSoc-poster/logos/otb.png"
+       sodipodi:absref="/home/vicky/OSGeoLive/marketing/osgeo/marketing/collateral/one-page-info/osgeo-gsoc-program/logos/otb.png"
        xlink:href="logos/otb.png"
        y="2179.782"
        x="807.99841"
@@ -720,7 +720,7 @@
        preserveAspectRatio="none"
        height="94.907272"
        width="124.51834" /><image
-       sodipodi:absref="/home/vicky/OSGeoLive/marketing/osgeo/GSoc-poster/logos/pgRouting.png"
+       sodipodi:absref="/home/vicky/OSGeoLive/marketing/osgeo/marketing/collateral/one-page-info/osgeo-gsoc-program/logos/pgRouting.png"
        xlink:href="logos/pgRouting.png"
        y="1460.375"
        x="1433.5875"
@@ -728,7 +728,7 @@
        preserveAspectRatio="none"
        height="96.875"
        width="100" /><image
-       sodipodi:absref="/home/vicky/OSGeoLive/marketing/osgeo/GSoc-poster/logos/PostGIS.png"
+       sodipodi:absref="/home/vicky/OSGeoLive/marketing/osgeo/marketing/collateral/one-page-info/osgeo-gsoc-program/logos/PostGIS.png"
        xlink:href="logos/PostGIS.png"
        y="2706.5332"
        x="1495.8339"
@@ -736,7 +736,7 @@
        preserveAspectRatio="none"
        height="139.63368"
        width="94.907272" /><image
-       sodipodi:absref="/home/vicky/OSGeoLive/marketing/osgeo/GSoc-poster/logos/proj4.png"
+       sodipodi:absref="/home/vicky/OSGeoLive/marketing/osgeo/marketing/collateral/one-page-info/osgeo-gsoc-program/logos/proj4.png"
        xlink:href="logos/proj4.png"
        y="1731.7031"
        x="1751.1045"
@@ -744,7 +744,7 @@
        preserveAspectRatio="none"
        height="86.97554"
        width="284.72183" /><image
-       sodipodi:absref="/home/vicky/OSGeoLive/marketing/osgeo/GSoc-poster/logos/pycsw.png"
+       sodipodi:absref="/home/vicky/OSGeoLive/marketing/osgeo/marketing/collateral/one-page-info/osgeo-gsoc-program/logos/pycsw.png"
        xlink:href="logos/pycsw.png"
        y="2441.2832"
        x="1736.9672"
@@ -752,7 +752,7 @@
        preserveAspectRatio="none"
        height="94.907272"
        width="94.907272" /><image
-       sodipodi:absref="/home/vicky/OSGeoLive/marketing/osgeo/GSoc-poster/logos/pywps.png"
+       sodipodi:absref="/home/vicky/OSGeoLive/marketing/osgeo/marketing/collateral/one-page-info/osgeo-gsoc-program/logos/pywps.png"
        xlink:href="logos/pywps.png"
        y="2045.3362"
        x="908.50439"
@@ -760,7 +760,7 @@
        preserveAspectRatio="none"
        height="94.907272"
        width="178.649" /><image
-       sodipodi:absref="/home/vicky/OSGeoLive/marketing/osgeo/GSoc-poster/logos/TinyOWS.png"
+       sodipodi:absref="/home/vicky/OSGeoLive/marketing/osgeo/marketing/collateral/one-page-info/osgeo-gsoc-program/logos/TinyOWS.png"
        xlink:href="logos/TinyOWS.png"
        y="2516.0691"
        x="973.896"
@@ -768,7 +768,7 @@
        preserveAspectRatio="none"
        height="94.907272"
        width="94.907272" /><image
-       sodipodi:absref="/home/vicky/OSGeoLive/marketing/osgeo/GSoc-poster/logos/zoo-simple.png"
+       sodipodi:absref="/home/vicky/OSGeoLive/marketing/osgeo/marketing/collateral/one-page-info/osgeo-gsoc-program/logos/zoo-simple.png"
        xlink:href="logos/zoo-simple.png"
        y="2700.7551"
        x="1648.9658"
@@ -1371,7 +1371,7 @@
                d="m 53.253,24.265 h -9.285 v 1.788 h 9.285 z"
                style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
                id="path3099-4" /></g></g></g></g><image
-       sodipodi:absref="/home/vicky/OSGeoLive/marketing/osgeo/GSoc-poster/logos/QGIS.jpg"
+       sodipodi:absref="/home/vicky/OSGeoLive/marketing/osgeo/marketing/collateral/one-page-info/osgeo-gsoc-program/logos/QGIS.jpg"
        xlink:href="logos/QGIS.jpg"
        width="100"
        height="100"
