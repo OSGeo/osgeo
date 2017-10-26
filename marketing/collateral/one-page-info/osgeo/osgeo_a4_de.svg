@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="595px"
+   height="842px"
+   viewBox="0 0 595 842"
+   version="1.1"
+   id="svg247"
+   sodipodi:docname="osgeo_a4_de.svg"
+   inkscape:version="0.91 r13725">
+  <metadata
+     id="metadata251">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1301"
+     inkscape:window-height="744"
+     id="namedview249"
+     showgrid="false"
+     inkscape:zoom="2"
+     inkscape:cx="300.6234"
+     inkscape:cy="251.19916"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="osgeo_a4"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="58.5,664"
+       orientation="1,0"
+       id="guide4281" />
+    <sodipodi:guide
+       position="292.5,537.5"
+       orientation="1,0"
+       id="guide4291" />
+    <sodipodi:guide
+       position="73,613.5"
+       orientation="1,0"
+       id="guide4293" />
+    <sodipodi:guide
+       position="28,621"
+       orientation="1,0"
+       id="guide4319" />
+    <sodipodi:guide
+       position="306,391.5"
+       orientation="1,0"
+       id="guide4498" />
+    <sodipodi:guide
+       position="318.5,390"
+       orientation="1,0"
+       id="guide4603" />
+    <sodipodi:guide
+       position="28.5,666"
+       orientation="0,1"
+       id="guide4672" />
+    <sodipodi:guide
+       position="561,162"
+       orientation="1,0"
+       id="guide4707" />
+  </sodipodi:namedview>
+  <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title2">osgeo_a4</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <defs
+     id="defs6" />
+  <g
+     id="Page-1"
+     stroke="none"
+     stroke-width="1"
+     fill="none"
+     fill-rule="evenodd">
+    <g
+       id="osgeo_a4">
+      <polygon
+         id="Fill-1"
+         fill="#EAEAEA"
+         points="0 841.593814 595.2746 741.5159 595.2746 740.0779 0 640" />
+      <polygon
+         id="Fill-3"
+         fill="#CFD1D0"
+         points="0 841.077914 0 842.409913 595.2746 842.409913 595.2746 741" />
+      <text
+         id="Title"
+         font-size="35"
+         font-weight="bold"
+         line-spacing="40"
+         letter-spacing="0.001"
+         x="-0.13500001"
+         style="font-weight:bold;font-size:35px;font-family:MiriamLibre-Bold, 'Miriam Libre';letter-spacing:0.001;fill:#4ab969">
+        <tspan
+           x="55.865002"
+           y="45"
+           id="tspan10">Open Source</tspan>
+        <tspan
+           x="55.865002"
+           y="85"
+           id="tspan12">Geospatial Foundation</tspan>
+      </text>
+      <text
+         id="Subtitle"
+         font-size="14"
+         font-weight="bold"
+         line-spacing="18"
+         letter-spacing="-0.00350000011"
+         x="-0.092"
+         style="font-weight:bold;font-size:14px;font-family:MiriamLibre-Bold, 'Miriam Libre';letter-spacing:-0.0035;fill:#00393f">
+        <tspan
+           x="56.908001"
+           y="123"
+           id="tspan15">Empower everyone with open source geospatial</tspan>
+      </text>
+      <text
+         style="font-weight:bold;font-size:14px;font-family:MiriamLibre-Bold, 'Miriam Libre';letter-spacing:-0.0035;fill:#4ab969"
+         x="56.439999"
+         letter-spacing="-0.00350000011"
+         font-weight="bold"
+         font-size="14"
+         id="Welcome"
+         y="146">
+        <tspan
+           id="tspan63"
+           y="160"
+           x="57.439999">Willkommen</tspan>
+      </text>
+      <polygon
+         transform="translate(57.30754,128)"
+         style="fill:#4ab969"
+         points="4.91746,100.9033 0.69246,98.4633 0.69246,103.3463 "
+         id="Fill-4" />
+      <polygon
+         transform="translate(57.30754,128)"
+         style="fill:#4ab969"
+         points="4.91746,126.9033 0.69246,124.4633 0.69246,129.3463 "
+         id="Fill-5" />
+      <polygon
+         transform="translate(57.30754,140)"
+         style="fill:#4ab969"
+         points="4.91746,165.9033 0.69246,163.4633 0.69246,168.3463 "
+         id="Fill-6" />
+      <flowRoot
+         transform="translate(0,6)"
+         style="font-style:normal;font-weight:normal;font-size:8.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot4283"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4285"><rect
+             style="font-size:8.5px"
+             y="168"
+             x="58.5"
+             height="90.5"
+             width="234"
+             id="rect4287" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.5px;font-family:Sintony;-inkscape-font-specification:'Sintony Bold';fill:#0b3033;fill-opacity:1"
+           id="flowPara4289">Die Open Source Geospatial Foundation (OSGeo) setzt sich weltweit für die Förderung von freier und quelloffener Software zur Verarbeitung von Geodaten ein.</flowPara></flowRoot>      <flowRoot
+         transform="translate(0,12)"
+         style="font-style:normal;font-weight:normal;font-size:8.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot4295"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4297"><rect
+             style="font-size:8.5px"
+             y="210.5"
+             x="73"
+             height="118.5"
+             width="219.5"
+             id="rect4299" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.5px;line-height:150%;font-family:Sintony-Bold, Sintony;-inkscape-font-specification:'Sintony-Bold, Sintony';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0b3033;fill-opacity:1"
+           id="flowPara4301"><flowSpan
+   id="flowSpan4658"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sintony-Bold, Sintony;-inkscape-font-specification:'Sintony-Bold, Sintony Bold'">OSGeo-Projekte:</flowSpan> Leistungsstarke Open-Source-Software für GIS-Experten</flowPara><flowPara
+           id="flowPara4311"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.5px;line-height:150%;font-family:Sintony-Bold, Sintony;-inkscape-font-specification:'Sintony-Bold, Sintony';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0b3033;fill-opacity:1"><flowSpan
+   id="flowSpan4660"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sintony-Bold, Sintony;-inkscape-font-specification:'Sintony-Bold, Sintony Bold'">GeoForAll:</flowSpan> An über 100 Ausbildungseinrichtungen weltweit arbeitet die OSGeo gemeinsam mit Partnern daran, Geodaten und Geoinformation für alle zugänglich zu machen</flowPara><flowPara
+           id="flowPara4315"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.5px;line-height:150%;font-family:Sintony-Bold, Sintony;-inkscape-font-specification:'Sintony-Bold, Sintony';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0b3033;fill-opacity:1"><flowSpan
+   id="flowSpan4662"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sintony-Bold, Sintony;-inkscape-font-specification:'Sintony-Bold, Sintony Bold'">FOSS4G:</flowSpan> Jährliche internationale Konferenz für Freie und Open-Source-Software im Bereich der Geoinformation</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.5px;line-height:150%;font-family:Sintony-Bold, Sintony;-inkscape-font-specification:'Sintony-Bold, Sintony';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0b3033;fill-opacity:1"
+           id="flowPara4303" /><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.5px;line-height:150%;font-family:Sintony-Bold, Sintony;-inkscape-font-specification:'Sintony-Bold, Sintony';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0b3033;fill-opacity:1"
+           id="flowPara4305" /><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.5px;line-height:150%;font-family:Sintony-Bold, Sintony;-inkscape-font-specification:'Sintony-Bold, Sintony';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0b3033;fill-opacity:1"
+           id="flowPara4307" /></flowRoot>      <flowRoot
+         transform="translate(0,10)"
+         style="font-style:normal;font-weight:normal;font-size:8.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot4321"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4323"><rect
+             style="font-size:8.5px"
+             y="335"
+             x="58.5"
+             height="89"
+             width="234"
+             id="rect4325" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.5px;font-family:Sintony;-inkscape-font-specification:Sintony;fill:#0b3033;fill-opacity:1"
+           id="flowPara4327">OSGeo ist eine von Ehrenamtlichen getragene, gemeinnützige Organisation, deren Mitgliedern aus unterschiedlichsten  Bereichen und aus allen Teilen der Welt kommen. Mit den Sponsoren und Partnern setzt sich die OSGeo für einen offenen Zugang zu Software, Standards, Daten und Ausbildung ein.</flowPara></flowRoot>      <text
+         style="font-weight:bold;font-size:14px;font-family:MiriamLibre-Bold, 'Miriam Libre';letter-spacing:-0.0035;fill:#4ab969"
+         x="303.146"
+         id="text72"
+         letter-spacing="-0.00350000011"
+         font-weight="bold"
+         font-size="14"
+         y="365">
+        <tspan
+           id="tspan70"
+           y="379"
+           x="304.146">Open Geospatial</tspan>
+      </text>
+      <polygon
+         style="fill:#4ab969"
+         points="4.9488,6.9032 0.7238,4.4632 0.7238,9.3462 "
+         id="Fill-10"
+         transform="translate(304.2762,419)" />
+      <polygon
+         style="fill:#4ab969"
+         points="0.7238,30.4632 0.7238,35.3462 4.9488,32.9032 "
+         id="Fill-11"
+         transform="translate(304.2762,417)" />
+      <polygon
+         style="fill:#4ab969"
+         points="0.7238,56.4631 0.7238,61.3461 4.9488,58.9031 "
+         id="Fill-12"
+         transform="translate(304.2762,417)" />
+      <polygon
+         style="fill:#4ab969"
+         points="0.7238,82.4631 0.7238,87.3461 4.9488,84.9031 "
+         id="Fill-13"
+         transform="translate(304.2762,417)" />
+      <polygon
+         id="Fill-7"
+         points="56.69246,522.3461 60.91746,519.9031 56.69246,517.4631 "
+         transform="translate(1.30754,-14)"
+         style="fill:#4ab969" />
+      <polygon
+         id="Fill-8"
+         points="60.91746,571.9031 56.69246,569.4631 56.69246,574.3461 "
+         transform="translate(1.30754,-22)"
+         style="fill:#4ab969" />
+      <polygon
+         id="Fill-9"
+         points="56.69246,613.3461 60.91746,610.9031 56.69246,608.4631 "
+         transform="translate(1.30754,-20)"
+         style="fill:#4ab969" />
+      <text
+         style="font-weight:bold;font-size:14px;font-family:MiriamLibre-Bold, 'Miriam Libre';letter-spacing:-0.0035;fill:#4ab969"
+         x="304.146"
+         letter-spacing="-0.00350000011"
+         font-size="14"
+         id="Open-Source-Software"
+         y="146">
+        <tspan
+           id="tspan165"
+           y="160"
+           x="304.146">Open-Source-Software</tspan>
+      </text>
+      <text
+         style="font-weight:bold;font-size:14px;font-family:MiriamLibre-Bold, 'Miriam Libre';letter-spacing:-0.0035;fill:#4ab969"
+         x="304.3252"
+         id="text208"
+         letter-spacing="-0.00350000011"
+         font-weight="bold"
+         font-size="14"
+         y="586">
+        <tspan
+           id="tspan206"
+           y="600"
+           x="304.3252">Software Foundation</tspan>
+      </text>
+      <text
+         id="text226"
+         font-size="14"
+         font-weight="bold"
+         letter-spacing="-0.00350000011"
+         x="0.2150984"
+         style="font-weight:bold;font-size:14px;font-family:MiriamLibre-Bold, 'Miriam Libre';letter-spacing:-0.0035;fill:#4ab969"
+         y="0">
+        <tspan
+           x="56.908001"
+           y="439.96448"
+           id="tspan224">Local Chapters</tspan>
+      </text>
+      <g
+         id="Group-31"
+         transform="translate(57.74794,739.8898)">
+        <g
+           id="Group-30">
+          <path
+             d="m 96.8063,47.94105 c 1.076,-0.656 1.932,-1.539 2.568,-2.655 0.635,-1.116 0.954,-2.31199 0.954,-3.59299 v -10.474 c 0,-1.281 -0.319,-2.47699 -0.954,-3.59199 -0.636,-1.113 -1.492,-2.001 -2.568,-2.656 -1.076,-0.656 -2.235,-0.983 -3.473,-0.983 -1.241,0 -2.398,0.327 -3.474,0.983 -1.076,0.655 -1.932,1.543 -2.57,2.656 -0.635,1.115 -0.953,2.31099 -0.953,3.59199 v 10.474 c 0,1.281 0.318,2.47699 0.953,3.59299 0.638,1.116 1.494,1.999 2.57,2.655 1.076,0.656 2.233,0.984 3.474,0.984 1.238,0 2.397,-0.328 3.473,-0.984 m -9.98,4.994 c -1.99,-1.166 -3.564,-2.739 -4.722,-4.722 -1.157,-1.984 -1.737,-4.159 -1.737,-6.51999 v -10.474 c 0,-2.35999 0.58,-4.53299 1.737,-6.51599 1.158,-1.987 2.732,-3.56 4.722,-4.722 1.988,-1.166 4.157,-1.748 6.507,-1.748 2.347,0 4.516,0.582 6.506,1.748 1.989,1.162 3.563,2.735 4.72,4.722 1.158,1.983 1.737,4.156 1.737,6.51599 v 10.474 c 0,2.36099 -0.579,4.53599 -1.737,6.51999 -1.157,1.983 -2.731,3.556 -4.72,4.722 -1.99,1.162 -4.159,1.744 -6.506,1.744 -2.35,0 -4.519,-0.582 -6.507,-1.744"
+             id="Fill-17"
+             inkscape:connector-curvature="0"
+             style="fill:#4ab969" />
+          <path
+             d="m 115.7808,53.76885 c -1.712,-0.573 -3.303,-1.368 -4.77,-2.384 -0.164,-0.1 -0.278,-0.271 -0.343,-0.516 -0.066,-0.249 -0.048,-0.467 0.05,-0.666 l 1.712,-3.1 c 0.195,-0.39 0.505,-0.589 0.928,-0.589 0.262,0 0.507,0.066 0.736,0.199 2.445,1.54 4.728,2.311 6.849,2.311 1.727,0 3.089,-0.42 4.085,-1.255 0.995,-0.838 1.491,-1.927 1.491,-3.272 0,-0.88399 -0.245,-1.62799 -0.733,-2.23799 -0.49,-0.606 -1.143,-1.122 -1.957,-1.549 -0.816,-0.424 -2.007,-0.951 -3.572,-1.573 l -1.418,-0.59 c -2.219,-0.95 -4.085,-2.165 -5.601,-3.639 -1.518,-1.477 -2.277,-3.642 -2.277,-6.49299 0,-2 0.449,-3.772 1.346,-5.311 0.898,-1.543 2.144,-2.739 3.744,-3.593 1.597,-0.851 3.44,-1.278 5.528,-1.278 1.729,0 3.449,0.288 5.161,0.861 1.711,0.576 3.253,1.371 4.623,2.387 0.162,0.096 0.277,0.268 0.342,0.517 0.066,0.245 0.05,0.467 -0.048,0.662 l -1.615,3.099 c -0.195,0.394 -0.506,0.589 -0.93,0.589 -0.262,0 -0.505,-0.066 -0.734,-0.195 -1.271,-0.821 -2.486,-1.41 -3.643,-1.771 -1.16,-0.361 -2.194,-0.54 -3.108,-0.54 -1.467,0 -2.626,0.401 -3.474,1.202 -0.848,0.805 -1.271,1.831 -1.271,3.076 0,1.278 0.465,2.33499 1.394,3.17199 0.93,0.835 2.422,1.679 4.477,2.534 0.293,0.099 1.41,0.549 3.351,1.35 1.94,0.805 3.482,1.977 4.622,3.517 1.143,1.543 1.714,3.364 1.714,5.45999 0,2.034 -0.482,3.845 -1.444,5.434 -0.962,1.593 -2.308,2.831 -4.036,3.715 -1.729,0.884 -3.719,1.328 -5.969,1.328 -1.761,0 -3.498,-0.288 -5.21,-0.861"
+             id="Fill-19"
+             inkscape:connector-curvature="0"
+             style="fill:#4ab969" />
+          <path
+             d="m 143.4935,52.93465 c -1.975,-1.166 -3.54,-2.738 -4.697,-4.722 -1.159,-1.983 -1.736,-4.159 -1.736,-6.51999 v -10.473 c 0,-2.36099 0.577,-4.53399 1.736,-6.51699 1.157,-1.986 2.722,-3.559 4.697,-4.722 1.972,-1.165 4.132,-1.748 6.482,-1.748 2.054,0 3.962,0.371 5.724,1.106 1.761,0.738 3.261,1.815 4.501,3.222 0.195,0.232 0.2929,0.51 0.2929,0.838 0,0.327 -0.1309,0.655 -0.3909,0.983 l -2.154,2.261 c -0.261,0.265 -0.521,0.395 -0.781,0.395 -0.328,0 -0.621,-0.146 -0.881,-0.444 -1.632,-1.735 -3.718,-2.606 -6.263,-2.606 -1.24,0 -2.398,0.328 -3.474,0.983 -1.076,0.656 -1.932,1.544 -2.568,2.656 -0.635,1.116 -0.953,2.31099 -0.953,3.59299 v 10.473 c 0,1.282 0.318,2.47699 0.953,3.59299 0.636,1.116 1.492,2 2.568,2.655 1.076,0.656 2.234,0.984 3.474,0.984 1.24,0 2.398,-0.311 3.473,-0.934 1.076,-0.622 1.924,-1.477 2.545,-2.559 0.619,-1.08 0.929,-2.26199 0.929,-3.53999 v -2.411 h -6.554 c -0.295,0 -0.539,-0.099 -0.736,-0.295 -0.195,-0.195 -0.293,-0.443 -0.293,-0.738 v -3.54 c 0,-0.294 0.098,-0.542 0.293,-0.738 0.197,-0.199 0.441,-0.295 0.736,-0.295 h 10.3219 c 0.586,0 1.083,0.205 1.492,0.613 0.407,0.411 0.611,0.91 0.611,1.5 v 5.705 c 0,2.36099 -0.58,4.53699 -1.737,6.51999 -1.1569,1.984 -2.7239,3.556 -4.6949,4.722 -1.976,1.162 -4.12,1.745 -6.434,1.745 -2.35,0 -4.51,-0.583 -6.482,-1.745"
+             id="Fill-20"
+             inkscape:connector-curvature="0"
+             style="fill:#00393f" />
+          <path
+             d="m 185.2664,37.07026 v -0.44 c 0,-1.61 -0.563,-2.977 -1.687,-4.11 -1.126,-1.129 -2.489,-1.695 -4.086,-1.695 -1.598,0 -2.959,0.566 -4.085,1.695 -1.125,1.133 -1.688,2.5 -1.688,4.11 v 0.44 z m -11.619,15.39399 c -1.778,-1.046 -3.189,-2.474 -4.232,-4.278 -1.045,-1.801 -1.565,-3.768 -1.565,-5.90099 v -5.311 c 0,-2.132 0.52,-4.099 1.565,-5.904 1.043,-1.80099 2.454,-3.22799 4.232,-4.27799 1.778,-1.05 3.726,-1.576 5.846,-1.576 2.121,0 4.069,0.526 5.846,1.576 1.778,1.05 3.188,2.477 4.232,4.27799 1.044,1.805 1.566,3.772 1.566,5.904 v 3.295 c 0,0.589 -0.204,1.089 -0.611,1.5 -0.409,0.411 -0.906,0.612 -1.494,0.612 h -15.312 v 0.249 c 0,1.60599 0.563,2.97299 1.688,4.10599 1.126,1.132 2.487,1.695 4.085,1.695 h 7.78 c 0.292,0 0.537,0.099 0.733,0.298 0.195,0.195 0.293,0.44 0.293,0.735 v 3.543 c 0,0.295 -0.098,0.54 -0.293,0.739 -0.196,0.195 -0.441,0.294 -0.733,0.294 h -7.78 c -2.12,0 -4.068,-0.526 -5.846,-1.576 z"
+             id="Fill-21"
+             inkscape:connector-curvature="0"
+             style="fill:#00393f" />
+          <path
+             d="m 211.2906,47.27575 c 1.125,-1.129 1.688,-2.5 1.688,-4.10599 v -6.444 c 0,-1.605 -0.563,-2.973 -1.688,-4.106 -1.124,-1.132 -2.487,-1.695 -4.085,-1.695 -1.599,0 -2.96,0.563 -4.086,1.695 -1.124,1.133 -1.687,2.501 -1.687,4.106 v 6.444 c 0,1.60599 0.563,2.97699 1.687,4.10599 1.126,1.132 2.487,1.699 4.086,1.699 1.598,0 2.961,-0.567 4.085,-1.699 m -9.93,5.854 c -1.778,-1.033 -3.189,-2.434 -4.232,-4.205 -1.045,-1.772 -1.566,-3.689 -1.566,-5.75499 v -6.444 c 0,-2.066 0.521,-3.983 1.566,-5.755 1.043,-1.76799 2.454,-3.17199 4.232,-4.20499 1.776,-1.033 3.725,-1.55 5.845,-1.55 2.12,0 4.068,0.517 5.846,1.55 1.777,1.033 3.188,2.437 4.232,4.20499 1.043,1.772 1.567,3.689 1.567,5.755 v 6.444 c 0,2.06599 -0.524,3.98299 -1.567,5.75499 -1.044,1.771 -2.455,3.172 -4.232,4.205 -1.778,1.033 -3.726,1.55 -5.846,1.55 -2.12,0 -4.069,-0.517 -5.845,-1.55"
+             id="Fill-22"
+             inkscape:connector-curvature="0"
+             style="fill:#00393f" />
+          <path
+             d="M 34.12084,15.14508 V 7.99608 0.8051 l -4.472,7.82698 C 17.46885,11.35908 8.23486,21.87007 7.44386,34.67406 h 7.14699 c 0.858,-10.39099 9.139,-18.67099 19.52999,-19.52898"
+             id="Fill-23"
+             inkscape:connector-curvature="0"
+             style="fill:#4ab969" />
+          <path
+             d="m 14.59105,38.23866 h -7.14699 -7.192 l 7.827,4.472 c 2.727,12.17999 13.23899,21.41398 26.04198,22.20498 v -7.149 C 23.73005,56.90865 15.44905,48.62865 14.59105,38.23866"
+             id="Fill-24"
+             inkscape:connector-curvature="0"
+             style="fill:#00393f" />
+          <path
+             d="m 57.2156,34.67346 h 7.148 7.191 l -7.827,-4.472 C 61.0016,18.02147 50.48863,8.78748 37.68564,7.99648 v 7.148 c 10.39099,0.85899 18.67196,9.13899 19.52996,19.52898"
+             id="Fill-25"
+             inkscape:connector-curvature="0"
+             style="fill:#00393f" />
+          <path
+             d="m 37.68584,57.76694 v 7.149 7.19099 l 4.47199,-7.82699 C 54.3378,61.55394 63.5718,51.04195 64.3628,38.23896 h -7.147 c -0.858,10.38999 -9.13897,18.66999 -19.52996,19.52798"
+             id="Fill-26"
+             inkscape:connector-curvature="0"
+             style="fill:#4ab969" />
+          <path
+             d="m 35.88124,37.98306 c -0.861,0 -1.56,-0.698 -1.56,-1.56 0,-0.861 0.699,-1.559 1.56,-1.559 0.861,0 1.56,0.698 1.56,1.559 0,0.862 -0.699,1.56 -1.56,1.56 z m 2.228,-3.733 -13.23499,-8.82299 8.82299,13.23499 13.23499,8.82299 z"
+             id="Fill-27"
+             inkscape:connector-curvature="0"
+             style="fill:#00393f" />
+          <polygon
+             id="Fill-28"
+             points="30.72354,34.19996 17.18655,36.45596 30.72354,38.71196 24.87455,47.48495 33.64754,41.63596 35.90354,55.17295 38.15954,41.63596 33.69754,38.66196 "
+             style="fill:#4ab969" />
+          <polygon
+             id="Fill-29"
+             points="46.93263,25.42697 38.15964,31.27596 35.90364,17.73897 33.64764,31.27596 38.10964,34.24996 41.08364,38.71196 54.6196,36.45596 41.08364,34.19996 "
+             style="fill:#4ab969" />
+        </g>
+      </g>
+      <text
+         id="url"
+         font-family="MiriamLibre-Bold, Miriam Libre"
+         font-size="14"
+         font-weight="bold"
+         letter-spacing="0.42"
+         fill="#00393F">
+        <tspan
+           x="429.2794"
+           y="785.8898"
+           id="tspan242">www.osgeo.org</tspan>
+      </text>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4329"
+         style="font-style:normal;font-weight:normal;font-size:8.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+           id="flowRegion4331"><rect
+             id="rect4333"
+             width="234"
+             height="60.5"
+             x="58.5"
+             y="446.5"
+             style="font-size:8.5px" /></flowRegion><flowPara
+           id="flowPara4337"
+           style="fill:#0b3033;fill-opacity:1;-inkscape-font-specification:'Sintony Bold';font-family:Sintony;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">Jeder Einstieg in neue Technologien kann schwierig sein. Die OSGeo verfügt weltweit über regionale Gruppen (Local Chapters), die Ihnen mit Rat und Tat zur Seite stehen und so den Einstieg erleichtern.</flowPara><flowPara
+           id="flowPara4341"
+           style="fill:#0b3033;fill-opacity:1;-inkscape-font-specification:'Sintony Bold';font-family:Sintony;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal" /></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4384"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(0,2)"><flowRegion
+           id="flowRegion4386"><rect
+             id="rect4388"
+             width="219.5"
+             height="186.5"
+             x="73"
+             y="497" /></flowRegion><flowPara
+           id="flowPara4390"
+           style="font-size:8.5px;fill:#0b3033;fill-opacity:1"><flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.5px;line-height:150%;font-family:Sintony;-inkscape-font-specification:'Sintony, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0b3033;fill-opacity:1"
+   id="flowSpan4396">Local Chapters organisier</flowSpan>en Veranstaltungen, bieten Support, organisieren Workshops und kooperieren mit (Nicht-) Regierungsorganisationen und Bereichen der Industrie </flowPara><flowPara
+           style="font-size:8.5px;fill:#0b3033;fill-opacity:1"
+           id="flowPara4400">Local Chapter vertreten Regionen, Sprachräume oder Wirtschaftsbranchen. Sie bieten die Gelegenheit, Kontakte zu knüpfen, Netzwerke aufzubauen und sich auszutauschen</flowPara><flowPara
+           style="font-size:8.5px;fill:#0b3033;fill-opacity:1"
+           id="flowPara4402">In jedem Local Chapter gibt es GIS-Profis, Experten aus der Forschung, Softwareentwickler und Dienstleister, die Sie gerne mit ihrer umfangreichen Erfahrung beim Start in die Open-Source-Welt unterstützen</flowPara><flowPara
+           id="flowPara4392"
+           style="font-size:8.5px;fill:#0b3033;fill-opacity:1" /><flowPara
+           id="flowPara4394"
+           style="font-size:8.5px;fill:#0b3033;fill-opacity:1" /></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4404"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.5px;line-height:150%;font-family:Sintony;-inkscape-font-specification:'Sintony, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+           id="flowRegion4406"><rect
+             id="rect4408"
+             width="234"
+             height="58.5"
+             x="58.5"
+             y="652" /></flowRegion><flowPara
+           id="flowPara4410"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.5px;line-height:125%;font-family:Sintony;-inkscape-font-specification:'Sintony, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0b3033;fill-opacity:1">Um eine Gruppe in Ihrer Nähe zu finden, besuchen Sie unsere Webseite. <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sintony;-inkscape-font-specification:'Sintony Bold';fill:#0b3033;fill-opacity:1"
+   id="flowSpan4414">Wir freuen uns auf Sie.</flowSpan></flowPara><flowPara
+           id="flowPara4412"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.5px;line-height:125%;font-family:Sintony;-inkscape-font-specification:'Sintony Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0b3033;fill-opacity:1" /></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4508"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.5px;line-height:125%;font-family:Sintony;-inkscape-font-specification:'Sintony, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0b3033;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(0,38)"><flowRegion
+           id="flowRegion4510"><rect
+             id="rect4512"
+             width="256"
+             height="88.5"
+             x="305"
+             y="136"
+             style="fill:#0b3033;fill-opacity:1" /></flowRegion><flowPara
+           id="flowPara4514"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sintony;-inkscape-font-specification:'Sintony Bold';fill:#0b3033;fill-opacity:1">Die OSGeo ist der Überzeugung, dass Open Source der beste Weg ist, Software zu entwickeln. Open Source beginnt mit einer Lizenz, die die gebührenfreie (Weiter-)Verwendung von Sofware gestattet. Außerdem garantiert Open Source den Zugriff auf den Quellcode zur Überprüfung und Modifikation und bietet die Möglichkeit, die Software ohne zusätzliche Kosten weiterzugeben.</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4516"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.5px;line-height:125%;font-family:Sintony;-inkscape-font-specification:'Sintony, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0b3033;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(0,-6)"><flowRegion
+           id="flowRegion4518"><rect
+             id="rect4520"
+             width="256"
+             height="100"
+             x="305"
+             y="263.5"
+             style="fill:#0b3033;fill-opacity:1" /></flowRegion><flowPara
+           id="flowPara4522">Dieser Ansatz bietet bessere Kontrolle als proprietäre (Closed-Source-)Software. Keine Abhängigkeiten mehr von Einzelplatzlizenzen oder einzelnen Softwareanbietern. Support erhalten Sie durch ein Ökosystem von spezialisierten Dienstleistern oder direkt aus der Entwicklercommunity.</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4524"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.5px;line-height:125%;font-family:Sintony;-inkscape-font-specification:'Sintony, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0b3033;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(0,-6)"><flowRegion
+           id="flowRegion4526"><rect
+             id="rect4528"
+             width="256"
+             height="48"
+             x="305"
+             y="335"
+             style="fill:#0b3033;fill-opacity:1" /></flowRegion><flowPara
+           id="flowPara4530">OSGeo-Projekte sind frei verfügbar unter OSI-zertifizierten Open-Source-Lizenzen.</flowPara><flowPara
+           id="flowPara4532" /></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4534"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.5px;line-height:125%;font-family:Sintony;-inkscape-font-specification:'Sintony, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0b3033;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(0,-18)"><flowRegion
+           id="flowRegion4536"><rect
+             id="rect4538"
+             width="243.5"
+             height="37.5"
+             x="305"
+             y="408"
+             style="fill:#0b3033;fill-opacity:1" /></flowRegion><flowPara
+           id="flowPara4540"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sintony;-inkscape-font-specification:'Sintony Bold';fill:#0b3033;fill-opacity:1">OSGeo freut sich darüber, Vorkämpfer für eine offene Geoinformation zu sein.</flowPara><flowPara
+           id="flowPara4542"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sintony;-inkscape-font-specification:'Sintony Bold';fill:#0b3033;fill-opacity:1" /></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4605"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.5px;line-height:125%;font-family:Sintony;-inkscape-font-specification:'Sintony, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0b3033;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(0,-14)"><flowRegion
+           id="flowRegion4607"><rect
+             id="rect4609"
+             width="242.5"
+             height="119.5"
+             x="318.5"
+             y="432.5"
+             style="fill:#0b3033;fill-opacity:1" /></flowRegion><flowPara
+           id="flowPara4611"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.5px;line-height:150%;font-family:Sintony;-inkscape-font-specification:'Sintony, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0b3033;fill-opacity:1"><flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sintony;-inkscape-font-specification:'Sintony Bold'"
+   id="flowSpan4621">Open Source:</flowSpan> Sicherstellung der gemeinschaftlichen Softwareentwicklung in der Community</flowPara><flowPara
+           id="flowPara4613"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.5px;line-height:150%;font-family:Sintony;-inkscape-font-specification:'Sintony, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0b3033;fill-opacity:1"><flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sintony;-inkscape-font-specification:'Sintony Bold'"
+   id="flowSpan4623">Open Data: </flowSpan>Bereitstellung frei verfügbarer Daten zur beliebigen Nutzung</flowPara><flowPara
+           id="flowPara4615"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.5px;line-height:150%;font-family:Sintony;-inkscape-font-specification:'Sintony, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0b3033;fill-opacity:1"><flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sintony;-inkscape-font-specification:'Sintony Bold'"
+   id="flowSpan4625">Offene Standards:</flowSpan> ermöglichen interoperable Software und vermeiden Abhängigkeiten</flowPara><flowPara
+           id="flowPara4617"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.5px;line-height:150%;font-family:Sintony;-inkscape-font-specification:'Sintony, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0b3033;fill-opacity:1"><flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sintony;-inkscape-font-specification:'Sintony Bold'"
+   id="flowSpan4627">Offene Ausbildung:</flowSpan> beseitigt die Schwellen zum Lernen und Lehren</flowPara><flowPara
+           id="flowPara4619"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.5px;line-height:150%;font-family:Sintony;-inkscape-font-specification:'Sintony, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0b3033;fill-opacity:1" /></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4633"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.5px;line-height:125%;font-family:Sintony;-inkscape-font-specification:'Sintony, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0b3033;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(0,-18)"><flowRegion
+           id="flowRegion4635"><rect
+             id="rect4637"
+             width="255"
+             height="64"
+             x="306"
+             y="547"
+             style="fill:#0b3033;fill-opacity:1" /></flowRegion><flowPara
+           id="flowPara4639">Diese Konzepte definieren einen neuen Weg, die Herausforderungen der Zukunft zu meistern. OSGeo freut sich diesen Weg gemeinsam mit Partnern und Freunden zu gehen.</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4650"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.5px;line-height:125%;font-family:Sintony;-inkscape-font-specification:'Sintony, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(0,-26)"><flowRegion
+           id="flowRegion4652"><rect
+             id="rect4654"
+             width="255"
+             height="127"
+             x="306"
+             y="636.5" /></flowRegion><flowPara
+           id="flowPara4656"
+           style="fill:#0b3033;fill-opacity:1">OSGeo ist verantwortlich für die Unterstützung vielfältiger Projekte. OSGeo fördert neue Talente und Innovationen. OSGeo unterstützt Projekte technisch durch eine Community von Spezialisten, sozial durch den Aufbau einer Gemeinschaft und stellt sicher, dass die Projeke fair und nachhaltig geführt werden.</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4664"
+         style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sintony;font-style:normal;font-weight:normal;font-size:8.50000024px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'Sintony, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"><flowRegion
+           id="flowRegion4666"><rect
+             id="rect4668"
+             width="10"
+             height="39"
+             x="159"
+             y="-78" /></flowRegion><flowPara
+           id="flowPara4670"></flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4699"
+         style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sintony;font-style:normal;font-weight:normal;font-size:8.50000024px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'Sintony, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"><flowRegion
+           id="flowRegion4701"><rect
+             id="rect4703"
+             width="73"
+             height="10"
+             x="28"
+             y="706" /></flowRegion><flowPara
+           id="flowPara4705"></flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4709"
+         style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sintony;font-style:normal;font-weight:normal;font-size:8.50000024px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'Sintony, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"><flowRegion
+           id="flowRegion4711"><rect
+             id="rect4713"
+             width="41.5"
+             height="115"
+             x="292.5"
+             y="402" /></flowRegion><flowPara
+           id="flowPara4715"></flowPara></flowRoot>    </g>
+  </g>
+</svg>
