@@ -15,6 +15,9 @@ To use the template you will need to:
 1. Install the correct fonts on your system
 2. Open up the adobe illustrator or SVG template in your graphics program
 3. Fill in the appropriate text
+   * Right aligned with "O" of "OSGeo"
+   * You may need to use multiple lines, or reduce font size, see style guide for examples
+   * Alternate layout available for local chapters, see style guide for details
 4. Convert the text into a series of shapes
 5. Correct color the shapes with the "dark" #003A40 branding color
 6. Save out to SVG and PNG
