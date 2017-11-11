@@ -1,6 +1,6 @@
 # Branding
 
-Please double check the style guide:
+Please double check the [style guide:
 
 * for headers: Miriam Libre Bold
 * for body text: Sintony Regular
@@ -12,6 +12,6 @@ We have included the v4 style guide form the designer, it has been revised based
 
 # Logos
 
-Logos are as provided for OSGeo and sub-brands:
+Logos are as provided for OSGeo and sub-brands.
 
 Text has been reduced to outlines for use on systems that do not have the correct fonts available. A template has been provided for the generation of additional sub-brand logos.
