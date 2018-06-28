@@ -39,8 +39,8 @@
      id="namedview249"
      showgrid="false"
      inkscape:zoom="2"
-     inkscape:cx="300.6234"
-     inkscape:cy="251.19916"
+     inkscape:cx="291.8734"
+     inkscape:cy="209.01203"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -407,9 +407,9 @@
            id="flowPara4390"
            style="font-size:8.5px;fill:#0b3033;fill-opacity:1"><flowSpan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.5px;line-height:150%;font-family:Sintony;-inkscape-font-specification:'Sintony, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0b3033;fill-opacity:1"
-   id="flowSpan4396">Local Chapters organisier</flowSpan>en Veranstaltungen, bieten Support, organisieren Workshops und kooperieren mit (Nicht-) Regierungsorganisationen und Bereichen der Industrie </flowPara><flowPara
+   id="flowSpan4396">Local Chapters organisier</flowSpan>en Veranstaltungen, bieten Support, organisieren Workshops und kooperieren mit (Nicht-)Regierungsorganisationen und Bereichen der Industrie </flowPara><flowPara
            style="font-size:8.5px;fill:#0b3033;fill-opacity:1"
-           id="flowPara4400">Local Chapter vertreten Regionen, Sprachräume oder Wirtschaftsbranchen. Sie bieten die Gelegenheit, Kontakte zu knüpfen, Netzwerke aufzubauen und sich auszutauschen</flowPara><flowPara
+           id="flowPara4400">Local Chapters vertreten Regionen, Sprachräume oder Wirtschaftsbranchen. Sie bieten die Gelegenheit, Kontakte zu knüpfen, Netzwerke aufzubauen und sich auszutauschen</flowPara><flowPara
            style="font-size:8.5px;fill:#0b3033;fill-opacity:1"
            id="flowPara4402">In jedem Local Chapter gibt es GIS-Profis, Experten aus der Forschung, Softwareentwickler und Dienstleister, die Sie gerne mit ihrer umfangreichen Erfahrung beim Start in die Open-Source-Welt unterstützen</flowPara><flowPara
            id="flowPara4392"
@@ -426,9 +426,9 @@
              x="58.5"
              y="652" /></flowRegion><flowPara
            id="flowPara4410"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.5px;line-height:125%;font-family:Sintony;-inkscape-font-specification:'Sintony, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0b3033;fill-opacity:1">Um eine Gruppe in Ihrer Nähe zu finden, besuchen Sie unsere Webseite. <flowSpan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.5px;line-height:125%;font-family:Sintony;-inkscape-font-specification:'Sintony, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0b3033;fill-opacity:1">Um eine Gruppe in Ihrer Nähe zu finden, besuchen Sie unsere Webseite. Wir freuen uns auf Sie.<flowSpan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sintony;-inkscape-font-specification:'Sintony Bold';fill:#0b3033;fill-opacity:1"
-   id="flowSpan4414">Wir freuen uns auf Sie.</flowSpan></flowPara><flowPara
+   id="flowSpan4414" /></flowPara><flowPara
            id="flowPara4412"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.5px;line-height:125%;font-family:Sintony;-inkscape-font-specification:'Sintony Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0b3033;fill-opacity:1" /></flowRoot>      <flowRoot
          xml:space="preserve"
@@ -443,7 +443,7 @@
              y="136"
              style="fill:#0b3033;fill-opacity:1" /></flowRegion><flowPara
            id="flowPara4514"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sintony;-inkscape-font-specification:'Sintony Bold';fill:#0b3033;fill-opacity:1">Die OSGeo ist der Überzeugung, dass Open Source der beste Weg ist, Software zu entwickeln. Open Source beginnt mit einer Lizenz, die die gebührenfreie (Weiter-)Verwendung von Sofware gestattet. Außerdem garantiert Open Source den Zugriff auf den Quellcode zur Überprüfung und Modifikation und bietet die Möglichkeit, die Software ohne zusätzliche Kosten weiterzugeben.</flowPara></flowRoot>      <flowRoot
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sintony;-inkscape-font-specification:'Sintony Bold';fill:#0b3033;fill-opacity:1">Die OSGeo ist überzeugt, dass Open-Source der beste Weg ist, Software zu entwickeln. OpenSource beginnt mit einer Lizenz, die die gebührenfreie (Weiter-)Verwendung von Sofware gestattet. Außerdem garantiert Open-Source den Zugriff auf den Quellcode zur Überprüfung und Anpassung und bietet die Möglichkeit, die Software ohne zusätzliche Kosten weiterzugeben.</flowPara></flowRoot>      <flowRoot
          xml:space="preserve"
          id="flowRoot4516"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.5px;line-height:125%;font-family:Sintony;-inkscape-font-specification:'Sintony, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0b3033;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -455,7 +455,7 @@
              x="305"
              y="263.5"
              style="fill:#0b3033;fill-opacity:1" /></flowRegion><flowPara
-           id="flowPara4522">Dieser Ansatz bietet bessere Kontrolle als proprietäre (Closed-Source-)Software. Keine Abhängigkeiten mehr von Einzelplatzlizenzen oder einzelnen Softwareanbietern. Support erhalten Sie durch ein Ökosystem von spezialisierten Dienstleistern oder direkt aus der Entwicklercommunity.</flowPara></flowRoot>      <flowRoot
+           id="flowPara4522">Dieser Ansatz ermöglicht eine bessere Kontrolle als proprietäre (Closed-Source-)Software. Keine Abhängigkeiten mehr von Einzelplatzlizenzen oder einzelnen Softwareanbietern. Support erhalten Sie durch ein Ökosystem von spezialisierten Dienstleistern oder direkt aus der Entwicklercommunity.</flowPara></flowRoot>      <flowRoot
          xml:space="preserve"
          id="flowRoot4524"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.5px;line-height:125%;font-family:Sintony;-inkscape-font-specification:'Sintony, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0b3033;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -536,7 +536,7 @@
              x="306"
              y="636.5" /></flowRegion><flowPara
            id="flowPara4656"
-           style="fill:#0b3033;fill-opacity:1">OSGeo ist verantwortlich für die Unterstützung vielfältiger Projekte. OSGeo fördert neue Talente und Innovationen. OSGeo unterstützt Projekte technisch durch eine Community von Spezialisten, sozial durch den Aufbau einer Gemeinschaft und stellt sicher, dass die Projeke fair und nachhaltig geführt werden.</flowPara></flowRoot>      <flowRoot
+           style="fill:#0b3033;fill-opacity:1">OSGeo unterstützt vielfältige Projekte. OSGeo fördert neue Talente und Innovationen. OSGeo unterstützt Projekte technisch durch eine Community von Spezialisten, sozial durch den Aufbau einer Gemeinschaft und stellt sicher, dass die Projeke fair und nachhaltig geführt werden.</flowPara></flowRoot>      <flowRoot
          xml:space="preserve"
          id="flowRoot4664"
          style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sintony;font-style:normal;font-weight:normal;font-size:8.50000024px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'Sintony, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"><flowRegion
@@ -546,7 +546,7 @@
              height="39"
              x="159"
              y="-78" /></flowRegion><flowPara
-           id="flowPara4670"></flowPara></flowRoot>      <flowRoot
+           id="flowPara4670" /></flowRoot>      <flowRoot
          xml:space="preserve"
          id="flowRoot4699"
          style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sintony;font-style:normal;font-weight:normal;font-size:8.50000024px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'Sintony, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"><flowRegion
@@ -556,7 +556,7 @@
              height="10"
              x="28"
              y="706" /></flowRegion><flowPara
-           id="flowPara4705"></flowPara></flowRoot>      <flowRoot
+           id="flowPara4705" /></flowRoot>      <flowRoot
          xml:space="preserve"
          id="flowRoot4709"
          style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sintony;font-style:normal;font-weight:normal;font-size:8.50000024px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'Sintony, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"><flowRegion
@@ -566,6 +566,6 @@
              height="115"
              x="292.5"
              y="402" /></flowRegion><flowPara
-           id="flowPara4715"></flowPara></flowRoot>    </g>
+           id="flowPara4715" /></flowRoot>    </g>
   </g>
 </svg>
