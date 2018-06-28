@@ -31,12 +31,14 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="1.55"
-     inkscape:cx="270.74899"
-     inkscape:cy="973.21793"
+     inkscape:cx="349.35373"
+     inkscape:cy="863.463"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
+     inkscape:current-layer="svg2"
+     inkscape:snap-nodes="false"
+     inkscape:snap-others="false">
     <sodipodi:guide
        position="298.9011,1041.7583"
        orientation="-0.70710678,0.70710678"
@@ -73,6 +75,10 @@
        position="23.870968,568.38711"
        orientation="1,0"
        id="guide4961" />
+    <sodipodi:guide
+       position="233.54839,985.80647"
+       orientation="0,1"
+       id="guide4541" />
   </sodipodi:namedview>
   <metadata
      id="metadata271">
@@ -440,7 +446,7 @@
        x="314.19763" />
   </text>
   <g
-     transform="matrix(0.23310709,0,0,0.23310709,557.70812,45.559515)"
+     transform="matrix(0.23310709,0,0,0.23310709,557.70812,25.559515)"
      id="g4875"
      style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1">
     <g
@@ -555,12 +561,12 @@
       <polygon
          style="fill:#4db05b"
          class="st2"
-         points="77,95.7 62.2,117.9 84.3,103.1 90,137.3 95.7,103.1 84.5,95.6 77,84.4 42.8,90.1 "
+         points="95.7,103.1 84.5,95.6 77,84.4 42.8,90.1 77,95.7 62.2,117.9 84.3,103.1 90,137.3 "
          id="polygon4840" />
       <polygon
          style="fill:#4db05b"
          class="st2"
-         points="90,42.8 84.4,77 95.6,84.5 103.1,95.7 137.3,90 103.1,84.4 117.9,62.2 95.7,77 "
+         points="137.3,90 103.1,84.4 117.9,62.2 95.7,77 90,42.8 84.4,77 95.6,84.5 103.1,95.7 "
          id="polygon4842" />
     </g>
   </g>
@@ -659,68 +665,52 @@
         <g
            id="g40">
           <g
-             clip-path="url(#clipPath28)"
-             id="g42">
+             id="g44">
             <g
-               id="g44">
-              <g
-                 id="g46" />
-              <g
-                 id="g48">
-                <g
-                   clip-path="url(#clipPath32)"
-                   id="g50">
-                  <text
-                     transform="matrix(1,0,0,-1,45.3535,775.2554)"
-                     style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28px;font-family:'Miriam Libre';-inkscape-font-specification:MiriamLibre-Bold;writing-mode:lr-tb;fill:#4ab969;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                     id="text52">
-                    <tspan
-                       x="0 18.256001 34.776001 51.352001 66.751999 82.991997 97.972 113.484 129.724"
-                       y="0"
-                       sodipodi:role="line"
-                       id="tspan54">GeoServer</tspan>
-                  </text>
-                </g>
-              </g>
-            </g>
+               id="g46" />
             <g
-               id="g56">
+               id="g48">
               <g
-                 id="g58" />
-              <g
-                 id="g60">
-                <g
-                   clip-path="url(#clipPath36)"
-                   id="g62">
-                  <text
-                     transform="matrix(1,0,0,-1,45.3535,756.0557)"
-                     style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.19999981px;font-family:'Miriam Libre';-inkscape-font-specification:MiriamLibre-Bold;writing-mode:lr-tb;fill:#0b3033;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                     id="text64">
-                    <tspan
-                       sodipodi:role="line"
-                       id="tspan66"
-                       x="0"
-                       y="0"
-                       style="fill:#0b3033;fill-opacity:1">Der Open-Source-Server für die Verbreitung</tspan>
-                    <tspan
-                       sodipodi:role="line"
-                       x="0"
-                       y="14"
-                       id="tspan18456"
-                       style="fill:#0b3033;fill-opacity:1">von raumbezogenen Daten</tspan>
-                    <tspan
-                       sodipodi:role="line"
-                       x="0"
-                       y="28"
-                       id="tspan18452"
-                       style="fill:#0b3033;fill-opacity:1" />
-                  </text>
-                </g>
+                 id="g50"
+                 clip-path="url(#clipPath32)">
+                <text
+                   id="text52"
+                   style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28px;font-family:'Miriam Libre';-inkscape-font-specification:MiriamLibre-Bold;writing-mode:lr-tb;fill:#4ab969;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                   transform="matrix(1,0,0,-1,45.3535,775.2554)">
+                  <tspan
+                     id="tspan54"
+                     sodipodi:role="line"
+                     y="0"
+                     x="0 18.256001 34.776001 51.352001 66.751999 82.991997 97.972 113.484 129.724">GeoServer</tspan>
+                </text>
               </g>
             </g>
           </g>
         </g>
       </g>
+      <text
+         id="Subtitle"
+         font-size="14"
+         font-weight="bold"
+         line-spacing="18"
+         letter-spacing="-0.00350000011"
+         y="-851.8255"
+         style="font-weight:bold;font-size:11.19999981px;font-family:MiriamLibre-Bold, 'Miriam Libre';letter-spacing:-0.0028;fill:#00393f"
+         x="0.43649998"
+         transform="scale(1,-1)">
+        <tspan
+           x="46.036484"
+           y="-753.42554"
+           id="tspan13">Der Open-Source-Server für die Verbreitungvon raumbezogenen Daten</tspan>
+        <tspan
+           x="46.036484"
+           y="-753.42554"
+           id="tspan4523" />
+        <tspan
+           x="46.036484"
+           y="-753.42554"
+           id="tspan4525" />
+      </text>
     </g>
   </g>
   <flowRoot
@@ -1525,7 +1515,7 @@
          height="203.87097"
          x="45.80645"
          y="658.16864" /></flowRegion><flowPara
-       id="flowPara4568"></flowPara></flowRoot>  <flowRoot
+       id="flowPara4568" /></flowRoot>  <flowRoot
      xml:space="preserve"
      id="flowRoot4572"
      style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
@@ -1535,7 +1525,7 @@
          height="149.67741"
          x="47.096775"
          y="685.26544" /></flowRegion><flowPara
-       id="flowPara4578"></flowPara></flowRoot>  <text
+       id="flowPara4578" /></flowRoot>  <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="434.19354"
@@ -1545,5 +1535,5 @@
        sodipodi:role="line"
        id="tspan4582"
        x="434.19354"
-       y="320.7493"></tspan></text>
+       y="320.7493" /></text>
 </svg>
