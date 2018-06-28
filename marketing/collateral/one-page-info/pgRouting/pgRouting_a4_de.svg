@@ -35,17 +35,36 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1855"
-     inkscape:window-height="1056"
+     inkscape:window-width="1301"
+     inkscape:window-height="744"
      id="namedview249"
      showgrid="false"
-     inkscape:zoom="2.39"
-     inkscape:cx="232.8143"
-     inkscape:cy="693.61422"
+     inkscape:zoom="1.29"
+     inkscape:cx="351.47631"
+     inkscape:cy="124.59395"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="osgeo_a4" />
+     inkscape:current-layer="osgeo_a4"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="57.364341,587.5969"
+       orientation="1,0"
+       id="guide4317" />
+    <sodipodi:guide
+       position="543.41085,474.4186"
+       orientation="1,0"
+       id="guide4319" />
+    <sodipodi:guide
+       position="272.86822,555.81395"
+       orientation="1,0"
+       id="guide4321" />
+    <sodipodi:guide
+       position="321.70543,504.65116"
+       orientation="1,0"
+       id="guide4323" />
+  </sodipodi:namedview>
   <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
   <title
      id="title2">osgeo_a4</title>
@@ -113,10 +132,10 @@
              y="127"
              style="font-size:40px;line-height:1.25;font-family:sans-serif"> </tspan></text>
         <rect
-           style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="rect4586"
-           width="221.44043"
-           height="119.11218"
+           width="214.13643"
+           height="126.99982"
            x="59.147072"
            y="206.6492" />
         <flowRoot
@@ -139,7 +158,7 @@
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.14074802px;line-height:1.25;font-family:Sintony;-inkscape-font-specification:Sintony"
              id="flowPara3388"> </flowPara><flowPara
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.14074802px;line-height:1.25;font-family:Sintony;-inkscape-font-specification:Sintony"
-             id="flowPara3390">Einfache Bedienung mit SQL-Abfragen.</flowPara><flowPara
+             id="flowPara3390">pgRouting wird über SQL-Abfragen angesprochen.</flowPara><flowPara
              id="flowPara4625"
              style="font-size:9.14074802px;line-height:1.25"> </flowPara></flowRoot>      </g>
       <text
@@ -657,7 +676,8 @@
           <tspan
              id="tspan4559"
              y="75.825592"
-             x="75.699745">Übersicht</tspan>
+             x="75.699745"
+             style="font-size:13.64816265px">Übersicht</tspan>
         </text>
         <text
            transform="translate(0,-26)"
@@ -709,19 +729,19 @@
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.14074802px;line-height:1.25;font-family:Sintony;-inkscape-font-specification:Sintony"
              id="flowPara4948"> </flowPara><flowPara
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.2072506px;line-height:177.99999714%;font-family:Sintony;-inkscape-font-specification:Sintony"
-             id="flowPara3187">Dijkstra Algorithmus</flowPara><flowPara
+             id="flowPara3187">Dijkstra-Algorithmus</flowPara><flowPara
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.2072506px;line-height:177.99999714%;font-family:Sintony;-inkscape-font-specification:Sintony"
              id="flowPara3225">Einzugsbereiche</flowPara><flowPara
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.2072506px;line-height:177.99999714%;font-family:Sintony;-inkscape-font-specification:Sintony"
-             id="flowPara3229">Johnson’s Algorithmus</flowPara><flowPara
+             id="flowPara3229">Johnsons-Algorithmus</flowPara><flowPara
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.2072506px;line-height:177.99999714%;font-family:Sintony;-inkscape-font-specification:Sintony"
-             id="flowPara3233">Floyd-Warshall Algorithmus</flowPara><flowPara
+             id="flowPara3233">Floyd-Warshall-Algorithmus</flowPara><flowPara
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.2072506px;line-height:177.99999714%;font-family:Sintony;-inkscape-font-specification:Sintony"
-             id="flowPara3237">A* Algorithmus</flowPara><flowPara
+             id="flowPara3237">A*-Algorithmus</flowPara><flowPara
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.2072506px;line-height:177.99999714%;font-family:Sintony;-inkscape-font-specification:Sintony"
-             id="flowPara3241">Bi-directional Dijkstra</flowPara><flowPara
+             id="flowPara3241">Bidirektionaler Dijkstra</flowPara><flowPara
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.2072506px;line-height:177.99999714%;font-family:Sintony;-inkscape-font-specification:Sintony"
-             id="flowPara3245">Bi-directional A*</flowPara><flowPara
+             id="flowPara3245">Bidirectionaler A*</flowPara><flowPara
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.2072506px;line-height:177.99999714%;font-family:Sintony;-inkscape-font-specification:Sintony"
              id="flowPara3249">Traveling Sales Person</flowPara><flowPara
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.2072506px;line-height:177.99999714%;font-family:Sintony;-inkscape-font-specification:Sintony"
@@ -742,7 +762,8 @@
           <tspan
              id="tspan4559-0"
              y="85.400169"
-             x="74.502922">Kernfunktionen</tspan>
+             x="74.502922"
+             style="font-size:13.64816265px">Kernfunktionen</tspan>
         </text>
         <text
            transform="translate(0,-26)"
@@ -799,7 +820,7 @@
                width="595"
                height="842" /></flowRegion><flowPara
              id="flowPara4627-3"
-             style="font-size:8.76206207px;line-height:1.25">pgRouting implementiert eine Vielzahl von Graphenalgorithmen</flowPara><flowPara
+             style="font-size:8.76206207px;line-height:1.25">pgRouting implementiert eine Vielzahl von Graphen-Algorithmen</flowPara><flowPara
              id="flowPara4633-8"
              style="font-size:8.76206207px;line-height:1.25"> </flowPara><flowPara
              id="flowPara4625-4"
@@ -820,10 +841,10 @@
              y="127"
              style="font-size:40px;line-height:1.25;font-family:sans-serif"> </tspan></text>
         <rect
-           style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="rect4586-3"
-           width="221.44043"
-           height="119.11218"
+           width="205.37891"
+           height="121.53355"
            x="59.147072"
            y="206.6492" />
         <flowRoot
@@ -871,7 +892,8 @@
           <tspan
              id="tspan4559-2"
              y="75.825592"
-             x="75.699745">Software</tspan>
+             x="75.699745"
+             style="font-size:13.64816265px">Software</tspan>
         </text>
         <text
            transform="translate(0,-26)"

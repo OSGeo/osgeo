@@ -36,13 +36,13 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1855"
-     inkscape:window-height="1056"
+     inkscape:window-width="1301"
+     inkscape:window-height="744"
      id="namedview269"
      showgrid="false"
      inkscape:zoom="2.76"
-     inkscape:cx="144.3528"
-     inkscape:cy="921.67848"
+     inkscape:cx="549.91784"
+     inkscape:cy="223.9121"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -219,132 +219,129 @@
          id="Open-Geospatial-Copy"
          transform="matrix(1.25,0,0,1.25,52.155041,139.42023)"
          style="fill:#0b3033">
-        <g
-           id="g129">
-          <text
-             id="Starting-out-with-an"
-             font-size="8.5"
-             font-weight="bold"
-             line-spacing="13"
-             style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony"
-             y="145.59996">
-            <tspan
-               sodipodi:role="line"
-               id="tspan3606"
-               x="0"
-               y="145.59996" />
-          </text>
-          <text
-             id="Local-Chapters"
-             font-size="8.5"
-             font-weight="normal"
-             line-spacing="13"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.5px;line-height:125%;font-family:Sintony;-inkscape-font-specification:'Sintony, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0b3033;fill-opacity:1"
+        <text
+           y="145.59996"
+           style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony"
+           line-spacing="13"
+           font-weight="bold"
+           font-size="8.5"
+           id="Starting-out-with-an">
+          <tspan
+             y="145.59996"
+             x="0"
+             id="tspan3606"
+             sodipodi:role="line" />
+        </text>
+        <text
+           x="7.676271"
+           sodipodi:linespacing="125%"
+           y="161.99319"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.5px;line-height:125%;font-family:Sintony;-inkscape-font-specification:'Sintony, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0b3033;fill-opacity:1"
+           line-spacing="13"
+           font-weight="normal"
+           font-size="8.5"
+           id="Local-Chapters">
+          <tspan
              y="161.99319"
-             sodipodi:linespacing="125%"
-             x="7.676271">
-            <tspan
-               sodipodi:role="line"
-               id="tspan3829"
-               x="7.676271"
-               y="161.99319">Moderne Oberflächen für Benutzer und</tspan>
-            <tspan
-               sodipodi:role="line"
-               x="7.676271"
-               y="172.61819"
-               id="tspan3743">Administratoren</tspan>
-            <tspan
-               sodipodi:role="line"
-               x="7.676271"
-               y="183.24319"
-               id="tspan3741" />
-            <tspan
-               sodipodi:role="line"
-               x="7.676271"
-               y="193.86819"
-               id="tspan3735">Einfacher Einstieg dank vorkonfigurierter Anwendungen</tspan>
-            <tspan
-               sodipodi:role="line"
-               id="tspan3837"
-               x="7.676271"
-               y="204.49319">zur Anzeige, Navigation und Informationsabfrage</tspan>
-            <tspan
-               sodipodi:role="line"
-               x="7.676271"
-               y="215.11819"
-               id="tspan4595" />
-            <tspan
-               sodipodi:role="line"
-               x="7.676271"
-               y="225.74319"
-               id="tspan4597">Anpassung der Anwendungen über die Weboberfläche</tspan>
-            <tspan
-               sodipodi:role="line"
-               id="tspan3839"
-               x="7.676271"
-               y="236.36819">an individuelle Bedürfnisse. Dazu steht eine</tspan>
-            <tspan
-               sodipodi:role="line"
-               id="tspan3841"
-               x="7.676271"
-               y="246.99319">Sammlung an gestaltbaren Elementen zu Verfügung</tspan>
-            <tspan
-               sodipodi:role="line"
-               id="tspan3843"
-               x="7.676271"
-               y="257.61819" />
-            <tspan
-               sodipodi:role="line"
-               id="tspan3847"
-               x="7.676271"
-               y="268.24319">Die Gestaltung erfolgt über anpassbare Templates und</tspan>
-            <tspan
-               sodipodi:role="line"
-               x="7.676271"
-               y="278.86819"
-               id="tspan4605">über CSS</tspan>
-            <tspan
-               sodipodi:role="line"
-               id="tspan3849"
-               x="7.676271"
-               y="289.49319" />
-            <tspan
-               sodipodi:role="line"
-               id="tspan3851"
-               x="7.676271"
-               y="300.11819">Aufbauend auf eine integrierte Benutzerverwaltung</tspan>
-            <tspan
-               sodipodi:role="line"
-               id="tspan3853"
-               x="7.676271"
-               y="310.74319">können die einzelnen Anwendungen oder auch nur</tspan>
-            <tspan
-               sodipodi:role="line"
-               x="7.676271"
-               y="321.36819"
-               id="tspan4617">einzelne Funktionen sowie Kartendienste gezielt für</tspan>
-            <tspan
-               sodipodi:role="line"
-               x="7.676271"
-               y="331.99319"
-               id="tspan4587">Nutzer freigegeben werden</tspan>
-            <tspan
-               sodipodi:role="line"
-               x="7.676271"
-               y="342.61819"
-               id="tspan4581" />
-            <tspan
-               sodipodi:role="line"
-               x="7.676271"
-               y="353.24319"
-               id="tspan4583">Erzeugen, Kopieren, Importieren und Exportieren von</tspan>
-            <tspan
-               sodipodi:role="line"
-               x="7.676271"
-               y="363.86819"
-               id="tspan4585">beliebig vielen Anwendungen</tspan>
-          </text>
-        </g>
+             x="7.676271"
+             id="tspan3829"
+             sodipodi:role="line">Moderne Oberflächen für Benutzer und</tspan>
+          <tspan
+             id="tspan3743"
+             y="172.61819"
+             x="7.676271"
+             sodipodi:role="line">Administratoren</tspan>
+          <tspan
+             id="tspan3741"
+             y="183.24319"
+             x="7.676271"
+             sodipodi:role="line" />
+          <tspan
+             id="tspan3735"
+             y="193.86819"
+             x="7.676271"
+             sodipodi:role="line">Einfacher Einstieg dank vorkonfigurierter Anwendungen</tspan>
+          <tspan
+             y="204.49319"
+             x="7.676271"
+             id="tspan3837"
+             sodipodi:role="line">zur Anzeige, Navigation und Informationsabfrage</tspan>
+          <tspan
+             id="tspan4595"
+             y="215.11819"
+             x="7.676271"
+             sodipodi:role="line" />
+          <tspan
+             id="tspan4597"
+             y="225.74319"
+             x="7.676271"
+             sodipodi:role="line">Anpassung der Anwendungen über die Weboberfläche</tspan>
+          <tspan
+             y="236.36819"
+             x="7.676271"
+             id="tspan3839"
+             sodipodi:role="line">an individuelle Bedürfnisse. Dazu steht eine</tspan>
+          <tspan
+             y="246.99319"
+             x="7.676271"
+             id="tspan3841"
+             sodipodi:role="line">Sammlung an gestaltbaren Elementen zu Verfügung</tspan>
+          <tspan
+             y="257.61819"
+             x="7.676271"
+             id="tspan3843"
+             sodipodi:role="line" />
+          <tspan
+             y="268.24319"
+             x="7.676271"
+             id="tspan3847"
+             sodipodi:role="line">Die Gestaltung erfolgt über anpassbare Templates und</tspan>
+          <tspan
+             id="tspan4605"
+             y="278.86819"
+             x="7.676271"
+             sodipodi:role="line">über CSS</tspan>
+          <tspan
+             y="289.49319"
+             x="7.676271"
+             id="tspan3849"
+             sodipodi:role="line" />
+          <tspan
+             y="300.11819"
+             x="7.676271"
+             id="tspan3851"
+             sodipodi:role="line">Aufbauend auf eine integrierte Benutzerverwaltung</tspan>
+          <tspan
+             y="310.74319"
+             x="7.676271"
+             id="tspan3853"
+             sodipodi:role="line">können die einzelnen Anwendungen oder auch nur</tspan>
+          <tspan
+             id="tspan4617"
+             y="321.36819"
+             x="7.676271"
+             sodipodi:role="line">einzelne Funktionen sowie Kartendienste gezielt für</tspan>
+          <tspan
+             id="tspan4587"
+             y="331.99319"
+             x="7.676271"
+             sodipodi:role="line">Nutzer freigegeben werden</tspan>
+          <tspan
+             id="tspan4581"
+             y="342.61819"
+             x="7.676271"
+             sodipodi:role="line" />
+          <tspan
+             id="tspan4583"
+             y="353.24319"
+             x="7.676271"
+             sodipodi:role="line">Ermöglicht das Erzeugen, Kopieren, Importieren und</tspan>
+          <tspan
+             id="tspan4585"
+             y="363.86819"
+             x="7.676271"
+             sodipodi:role="line">Exportieren von beliebig vielen Anwendungen</tspan>
+        </text>
       </g>
       <g
          id="Open-Source"
@@ -414,7 +411,7 @@
                sodipodi:role="line"
                x="7.676271"
                y="198.66821"
-               id="tspan4556">Mapbender wird unter der MIT Lizenz veröffentlicht</tspan>
+               id="tspan4556">Mapbender wird unter der MIT-Lizenz veröffentlicht</tspan>
           </text>
         </g>
       </g>
@@ -919,23 +916,23 @@
       </text>
       <polygon
          id="Fill-8-9-9-3"
-         points="56.69246,574.3461 60.91746,571.9031 56.69246,569.4631 "
+         points="60.91746,571.9031 56.69246,569.4631 56.69246,574.3461 "
          style="fill:#4ab969;fill-rule:evenodd;stroke:none;stroke-width:1"
-         transform="matrix(1.25,0,0,1.25,310.15848,-189.98663)" />
+         transform="matrix(1.25,0,0,1.25,310.15848,-187.98663)" />
       <polygon
          transform="matrix(1.25,0,0,1.25,310.15849,-335.27563)"
          style="fill:#4ab969;fill-rule:evenodd;stroke:none;stroke-width:1"
          points="56.69246,574.3461 60.91746,571.9031 56.69246,569.4631 "
          id="Fill-8-9-9" />
       <polygon
-         transform="matrix(1.25,0,0,1.25,310.15849,-257.73463)"
+         transform="matrix(1.25,0,0,1.25,310.15849,-255.73463)"
          style="fill:#4ab969;fill-rule:evenodd;stroke:none;stroke-width:1"
-         points="60.91746,571.9031 56.69246,569.4631 56.69246,574.3461 "
+         points="56.69246,569.4631 56.69246,574.3461 60.91746,571.9031 "
          id="Fill-8-9-9-7" />
       <polygon
          transform="matrix(1.25,0,0,1.25,310.15849,-227.89563)"
          style="fill:#4ab969;fill-rule:evenodd;stroke:none;stroke-width:1"
-         points="60.91746,571.9031 56.69246,569.4631 56.69246,574.3461 "
+         points="56.69246,574.3461 60.91746,571.9031 56.69246,569.4631 "
          id="Fill-8-9-9-71" />
       <polygon
          transform="matrix(1.25,0,0,1.25,310.15849,-161.51863)"
@@ -945,7 +942,7 @@
       <polygon
          transform="matrix(1.25,0,0,1.25,310.15849,-135.24963)"
          style="fill:#4ab969;fill-rule:evenodd;stroke:none;stroke-width:1"
-         points="60.91746,571.9031 56.69246,569.4631 56.69246,574.3461 "
+         points="56.69246,574.3461 60.91746,571.9031 56.69246,569.4631 "
          id="Fill-8-9-9-71-3" />
       <text
          sodipodi:linespacing="1000%"
@@ -1106,8 +1103,8 @@
          transform="translate(0,-210.36221)"><flowRegion
            id="flowRegion3858"><rect
              id="rect3860"
-             width="291.328"
-             height="341.40973"
+             width="299.91483"
+             height="283.80103"
              x="391.03006"
              y="583.55042"
              style="font-size:5px;fill:#0b3033;fill-opacity:1" /></flowRegion><flowPara
@@ -1116,7 +1113,7 @@
            style="font-size:10.625px;fill:#0b3033;fill-opacity:1"
            id="flowPara3944" /><flowPara
            style="font-size:10.625px;fill:#0b3033;fill-opacity:1"
-           id="flowPara3924">Konfigurierbare Suchmodule über SQL oder Solr</flowPara><flowPara
+           id="flowPara3924">Konfigurierbare Suchmodule über SQL oder Apache Solr</flowPara><flowPara
            style="font-size:10.625px;fill:#0b3033;fill-opacity:1"
            id="flowPara3942" /><flowPara
            style="font-size:10.625px;fill:#0b3033;fill-opacity:1"
@@ -1153,9 +1150,9 @@
            style="font-size:10.625px;fill:#0b3033;fill-opacity:1" /><flowPara
            id="flowPara3920"
            style="font-size:10.625px;fill:#0b3033;fill-opacity:1" /></flowRoot>      <polygon
-         transform="matrix(1.25,0,0,1.25,310.07778,-108.03063)"
+         transform="matrix(1.25,0,0,1.25,310.07778,-110.03063)"
          style="fill:#4ab969;fill-rule:evenodd;stroke:none;stroke-width:1"
-         points="60.91746,571.9031 56.69246,569.4631 56.69246,574.3461 "
+         points="56.69246,569.4631 56.69246,574.3461 60.91746,571.9031 "
          id="Fill-8-9-9-46" />
       <text
          id="text228-8-3"
@@ -1170,7 +1167,7 @@
            sodipodi:role="line"
            id="tspan3602-6"
            x="381.655"
-           y="365.72089">Weitere Funktionalität</tspan>
+           y="365.72089">Weitere Funktionalitäten</tspan>
       </text>
       <text
          id="text228-8-7"
