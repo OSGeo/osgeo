@@ -1,16 +1,16 @@
 # The Open Source Geospatial Foundation
 
-The Open Source Geospatial Foundation is not-for-profit organization to empower everyone with open source geospatial. The software foundation directly supports projects serving as an outreach and advocacy organization providing financial, organizational and legal support for the open source geospatial community. OSGeo works with our sponsors and partners to foster an open approach to software, standards, data and education.
+The Open Source Geospatial Foundation is a not-for-profit organization to empower everyone with open source geospatial. The software foundation directly supports projects serving as an outreach and advocacy organization providing financial, organizational and legal support for the open source geospatial community. OSGeo works with our sponsors and partners to foster an open approach to software, standards, data, and education.
 
 > OSGeo has US 501(c)(4) legal status as a not-for-profit organization
 
-This repository contains official branding, documents and correspondence. Access is limited to volunteers working with our foundation committees.
+This repository contains official branding, documents, and correspondence. Access is limited to volunteers working with our foundation committees.
 
 ![OSGeo](osgeo-logo.png)
 
 ## License
 
-All work here is copyright The Open Source Geospatial Foundation, unless otherwise stated it is made available to you under an appropriate [Creative Commons](https://creativecommons.org) license.
+All work here is copyright The Open Source Geospatial Foundation unless otherwise stated it is made available to you under an appropriate [Creative Commons](https://creativecommons.org) license.
 
 Document licenses for software developers:
 
@@ -26,6 +26,6 @@ Not all of our content is licensed for modification:
 
 ## Copyright
 
-The Open Source Geospatial Foundation maintains copyright on all materials in the repository (except otherwise noted). This material was produced by our volunteers on behalf of our organization, or donated via pull request to our foundation in accordance with our contributor license agreement.
+The Open Source Geospatial Foundation maintains copyright on all materials in the repository (except otherwise noted). This material was produced by our volunteers on behalf of our organization or donated via a pull request to our foundation in accordance with our contributor license agreement.
 
-> What does "except otherwise noted" mean? Some CCBYSA photos are used in our presentation templates and branding guide. We have included these photos in our repository, appropriately crediting the original authors in the initial commit message and in the directory README.md file.
+What does "except otherwise noted" mean? Some CCBYSA photos are used in our presentation templates and branding guide. We have included these photos in our repository, appropriately crediting the original authors in the initial commit message and in the directory README.md file.
