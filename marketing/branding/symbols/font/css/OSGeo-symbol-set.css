@@ -33,13 +33,13 @@
 .osgeo-committee:before {
   content: "\e003";
 }
-.osgeo-charter-member:before {
+.osgeo-officer:before {
   content: "\e004";
 }
-.osgeo-officer:before {
+.osgeo-sponsor:before {
   content: "\e005";
 }
-.osgeo-sponsor:before {
+.osgeo-charter-member:before {
   content: "\e006";
 }
 .osgeo-code-of-conduct:before {
@@ -48,10 +48,10 @@
 .osgeo-live:before {
   content: "\e008";
 }
-.osgeo-gsoc:before {
+.osgeo-code-sprint:before {
   content: "\e009";
 }
-.osgeo-code-sprint:before {
+.osgeo-gsoc:before {
   content: "\e010";
 }
 .osgeo-travelgrant:before {
@@ -108,60 +108,58 @@
 .osgeo-openlayers:before {
   content: "\e028";
 }
-.osgeo-geoext:before {
+.osgeo-mapbender:before {
   content: "\e029";
 }
 .osgeo-mapfish:before {
   content: "\e030";
 }
-.osgeo-mapbender:before {
+.osgeo-pywps:before {
   content: "\e031";
 }
-.osgeo-pywps:before {
+.osgeo-mapguide:before {
   content: "\e032";
 }
-.osgeo-mapguide:before {
+.osgeo-marble:before {
   content: "\e033";
 }
-.osgeo-marble:before {
+.osgeo-geomoose:before {
   content: "\e034";
 }
-.osgeo-geomoose:before {
+.osgeo-geomajas:before {
   content: "\e035";
 }
-.osgeo-geomajas:before {
+.osgeo-zoo-project:before {
   content: "\e036";
 }
-.osgeo-zoo-project:before {
+.osgeo-osgeo4w:before {
   content: "\e037";
 }
-.osgeo-osgeo4w:before {
+.osgeo-teamengine:before {
   content: "\e038";
 }
-.osgeo-teamengine:before {
+.osgeo-istsos:before {
   content: "\e039";
 }
-.osgeo-istsos:before {
+.osgeo-opticks:before {
   content: "\e040";
 }
-.osgeo-opticks:before {
+.osgeo-geowebcache:before {
   content: "\e041";
 }
-.osgeo-geowebcache:before {
+.osgeo-pgrouting:before {
   content: "\e042";
 }
-.osgeo-pgrouting:before {
+.osgeo-getit:before {
   content: "\e043";
 }
-.osgeo-getit:before {
+.osgeo-prontoraster:before {
   content: "\e044";
 }
-.osgeo-prontoraster:before {
+.osgeo-portablegis:before {
   content: "\e045";
 }
-.osgeo-portablegis:before {
+.osgeo-mapcentia:before {
   content: "\e046";
 }
-.osgeo-mapcentia:before {
-  content: "\e047";
-}
+
