@@ -24,142 +24,104 @@
 .osgeo-compass:before {
   content: "\e000";
 }
-.osgeo-local-chapter:before {
+.osgeo-osgeolive:before {
   content: "\e001";
 }
-.osgeo-board:before {
+.osgeo-geoforall:before {
   content: "\e002";
 }
-.osgeo-committee:before {
+.osgeo-foss4g:before {
   content: "\e003";
 }
-.osgeo-officer:before {
+.osgeo-gdal:before {
   content: "\e004";
 }
-.osgeo-sponsor:before {
+.osgeo-grass-gis:before {
   content: "\e005";
 }
-.osgeo-charter-member:before {
+.osgeo-mapserver:before {
   content: "\e006";
 }
-.osgeo-code-of-conduct:before {
+.osgeo-postgis:before {
   content: "\e007";
 }
-.osgeo-live:before {
+.osgeo-qgis:before {
   content: "\e008";
 }
-.osgeo-code-sprint:before {
+.osgeo-geonetwork:before {
   content: "\e009";
 }
-.osgeo-gsoc:before {
+.osgeo-pycsw:before {
   content: "\e010";
 }
-.osgeo-travelgrant:before {
+.osgeo-geonode:before {
   content: "\e011";
 }
-.osgeo-un-opengis:before {
+.osgeo-geotools:before {
   content: "\e012";
 }
-.osgeo-open-geoscience:before {
+.osgeo-geoserver:before {
   content: "\e013";
 }
-.osgeo-geoforall:before {
+.osgeo-orfeotoolbox:before {
   content: "\e014";
 }
-.osgeo-foss4g:before {
+.osgeo-gvsig:before {
   content: "\e015";
 }
-.osgeo-gdal:before {
+.osgeo-openlayers:before {
   content: "\e016";
 }
-.osgeo-grass-gis:before {
+.osgeo-mapbender:before {
   content: "\e017";
 }
-.osgeo-mapserver:before {
+.osgeo-mapfish:before {
   content: "\e018";
 }
-.osgeo-postgis:before {
+.osgeo-pywps:before {
   content: "\e019";
 }
-.osgeo-qgis:before {
+.osgeo-mapguide:before {
   content: "\e020";
 }
-.osgeo-geonetwork:before {
+.osgeo-marble:before {
   content: "\e021";
 }
-.osgeo-pycsw:before {
+.osgeo-geomoose:before {
   content: "\e022";
 }
-.osgeo-geonode:before {
+.osgeo-geomajas:before {
   content: "\e023";
 }
-.osgeo-geotools:before {
+.osgeo-zoo-project:before {
   content: "\e024";
 }
-.osgeo-geoserver:before {
+.osgeo-osgeo4w:before {
   content: "\e025";
 }
-.osgeo-orfeotoolbox:before {
+.osgeo-teamengine:before {
   content: "\e026";
 }
-.osgeo-gvsig:before {
+.osgeo-istsos:before {
   content: "\e027";
 }
-.osgeo-openlayers:before {
+.osgeo-opticks:before {
   content: "\e028";
 }
-.osgeo-mapbender:before {
+.osgeo-geowebcache:before {
   content: "\e029";
 }
-.osgeo-mapfish:before {
+.osgeo-pgrouting:before {
   content: "\e030";
 }
-.osgeo-pywps:before {
+.osgeo-prontoraster:before {
   content: "\e031";
 }
-.osgeo-mapguide:before {
+.osgeo-portablegis:before {
   content: "\e032";
 }
-.osgeo-marble:before {
+.osgeo-mapcentia:before {
   content: "\e033";
 }
-.osgeo-geomoose:before {
-  content: "\e034";
-}
-.osgeo-geomajas:before {
-  content: "\e035";
-}
-.osgeo-zoo-project:before {
-  content: "\e036";
-}
-.osgeo-osgeo4w:before {
-  content: "\e037";
-}
-.osgeo-teamengine:before {
-  content: "\e038";
-}
-.osgeo-istsos:before {
-  content: "\e039";
-}
-.osgeo-opticks:before {
-  content: "\e040";
-}
-.osgeo-geowebcache:before {
-  content: "\e041";
-}
-.osgeo-pgrouting:before {
-  content: "\e042";
-}
-.osgeo-getit:before {
-  content: "\e043";
-}
-.osgeo-prontoraster:before {
-  content: "\e044";
-}
-.osgeo-portablegis:before {
-  content: "\e045";
-}
-.osgeo-mapcentia:before {
-  content: "\e046";
-}
+
 
