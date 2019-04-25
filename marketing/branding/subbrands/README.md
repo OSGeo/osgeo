@@ -1,6 +1,6 @@
 # Subbrands
 
-Please check the [style guide](styleguide-osgeo.pdf) for examples of subbrands use.
+Please check the [style guide](https://github.com/OSGeo/osgeo/blob/master/marketing/branding/styleguide-osgeo.pdf) for examples of subbrands use.
 
 Subbrands make use of the OSGeo mark, combined with text denoting the OSGeo community, initiative, award or recognition.
 
