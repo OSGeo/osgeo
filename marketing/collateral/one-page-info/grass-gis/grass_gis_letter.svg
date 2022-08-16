@@ -881,7 +881,7 @@
    id="flowSpan8920"
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.19999981px;font-family:Sintony, Sintony;-inkscape-font-specification:'Sintony, Sintony, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">R</flowSpan> provides a statistical interface to GRASS GIS called <flowSpan
    id="flowSpan8922"
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.19999981px;font-family:Sintony, Sintony;-inkscape-font-specification:'Sintony, Sintony, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">rgrass7</flowSpan></flowPara><flowPara
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.19999981px;font-family:Sintony, Sintony;-inkscape-font-specification:'Sintony, Sintony, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">rgrass</flowSpan></flowPara><flowPara
            id="flowPara8587"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.19999981px;line-height:16px;font-family:Sintony, Sintony;-inkscape-font-specification:'Sintony, Sintony, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#12343a;fill-opacity:1;stroke-width:14.28482914px" /><flowPara
            id="flowPara8589"
@@ -1180,7 +1180,7 @@
              width="341.40463"
              id="rect5513" /></flowRegion><flowPara
            style="line-height:16px;text-align:start;text-anchor:start;fill:#12343a;fill-opacity:1;stroke-width:14.28482914px"
-           id="flowPara5519">GRASS GIS was born more than 30 years ago... and the</flowPara><flowPara
+           id="flowPara5519">GRASS GIS was born almost 40 years ago... and the</flowPara><flowPara
            style="line-height:16px;text-align:start;text-anchor:start;fill:#12343a;fill-opacity:1;stroke-width:14.28482914px"
            id="flowPara5523">latest change is probably just few hours old! <flowSpan
    id="flowSpan5517"
