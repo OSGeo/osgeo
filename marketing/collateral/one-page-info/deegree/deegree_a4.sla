@@ -115,21 +115,19 @@
                 <DefaultStyle/>
                 <ITEXT CH="Many supported backends"/>
                 <para PARENT="Column heading"/>
-                <ITEXT CH="deegree supports numerous backends, such as PostgreSQL/PostGIS, Oracle Spatial, MS SQL Server, Shapefiles or GML instance documents as well as most common raster data formats such as GeoTIFF. The built-in bridge to gdal provides access to more than 100 other formats."/>
+                <ITEXT FONT="Sintony Regular" FCOLOR="FromSVG#003a40" CH="deegree supports numerous backends, such as PostgreSQL/PostGIS, Oracle Spatial, MS SQL Server, Shapefiles or GML instance documents as well as most common raster data formats such as GeoTIFF. The built-in bridge to gdal provides access to more than 100 other formats."/>
                 <para PARENT="Bold" LINESP="12"/>
                 <ITEXT CH="Access to complex data"/>
                 <para PARENT="Column heading"/>
-                <ITEXT FONT="Sintony Bold" FONTSIZE="8" FCOLOR="FromSVG#00393f" CH="The deegree WFS provides access to your data in standard format as GML, Json/GeoJson and CSV formats. It can handle data structures derived even from complex GML application schemas. It also offers WFS-Transactional support for online editing and data manipulation."/>
+                <ITEXT FONT="Sintony Regular" FONTSIZE="8" FCOLOR="FromSVG#003a40" CH="The deegree WFS provides access to your data in standard format as GML, Json/GeoJson and CSV formats. It can handle data structures derived even from complex GML application schemas. It also offers WFS-Transactional support for online editing and data manipulation."/>
                 <para PARENT="Bold" LINESP="12"/>
                 <ITEXT CH="Easy to Customize and Extend"/>
                 <para PARENT="Column heading"/>
-                <ITEXT CH="deegree can be easily integrated into common workflows and environments. It is easy to customize by configuration and code. The API provides many extension points to add additional functionality."/>
+                <ITEXT FONT="Sintony Regular" FCOLOR="FromSVG#003a40" CH="deegree can be easily integrated into common workflows and environments. It is easy to customize by configuration and code. The API provides many extension points to add additional functionality."/>
                 <para PARENT="Bold" LINESP="12"/>
                 <ITEXT CH="Where it is used"/>
                 <para PARENT="Column heading"/>
-                <ITEXT CH="deegree is used a"/>
-                <ITEXT FCOLOR="FromSVG#00393f" CH="c"/>
-                <ITEXT CH="ross all sectors (including commercial companies, research institutes and public administrations) to publish and share geospatial data, with a strong focus on OGC standards. deegree is also used in education to explain the principles of Open Standards and interoperability."/>
+                <ITEXT FCOLOR="FromSVG#003a40" CH="deegree is used across all sectors (including commercial companies, research institutes and public administrations) to publish and share geospatial data, with a strong focus on OGC standards. deegree is also used in education to explain the principles of Open Standards and interoperability."/>
                 <trail LINESP="12"/>
             </StoryText>
         </PAGEOBJECT>
@@ -137,7 +135,7 @@
         <PAGEOBJECT XPOS="534.48031496063" YPOS="788.433070866142" OwnPage="0" ItemID="1124949750" PTYPE="4" WIDTH="130.393700787402" HEIGHT="22.6771653543308" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L130.394 0 L130.394 22.6772 L0 22.6772 L0 0 Z" copath="M0 0 L130.394 0 L130.394 22.6772 L0 22.6772 L0 0 Z" gXpos="90.8612949606299" gYpos="146.433070866142" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <ITEXT FONTSIZE="20" CH="deegree.org"/>
+                <ITEXT FONTSIZE="20" FCOLOR="FromSVG#003a40" CH="deegree.org"/>
                 <trail PARENT="Subtitle"/>
             </StoryText>
         </PAGEOBJECT>
@@ -146,58 +144,58 @@
                 <DefaultStyle/>
                 <ITEXT FONTSIZE="11.2" CH="Overview"/>
                 <para PARENT="Column heading"/>
-                <ITEXT FONTSIZE="8" CH="deegree offers components for geospatial data management, including data access, visualization, and discovery. Open standards are at the heart of deegree. It is completely free, Open Source Software, released under the GNU Lesser General Public License, Version 2.1 License (LGPL 2.1)."/>
+                <ITEXT FONTSIZE="8" FCOLOR="FromSVG#003a40" CH="deegree offers components for geospatial data management, including data access, visualization, and discovery. Open standards are at the heart of deegree. It is completely free, Open Source Software, released under the GNU Lesser General Public License, Version 2.1 License (LGPL 2.1)."/>
                 <para PARENT="Bold" LINESP="12"/>
                 <para PARENT="Bold" LINESP="12"/>
-                <ITEXT FONT="Sintony Regular" CH="The deegree software is built on the standards of the Open Geospatial Consortium (OGC) and the ISO Technical Committee 211. It includes the OGC Web Map Service (WMS), a fully compliant Web Feature Service (WFS) as well as packages for Catalogue Service (CSW), Web Processing Service (WPS) and Web Map Tile Service (WMTS). Since 2000 deegree has been developed with the strong intention to make it a community-driven project. A major step to this effect was the acceptance to be an OSGeo project in 2010."/>
+                <ITEXT FONT="Sintony Regular" FCOLOR="FromSVG#003a40" CH="The deegree software is built on the standards of the Open Geospatial Consortium (OGC) and the ISO Technical Committee 211. It includes the OGC Web Map Service (WMS), a fully compliant Web Feature Service (WFS) as well as packages for Catalogue Service (CSW), Web Processing Service (WPS) and Web Map Tile Service (WMTS). Since 2000 deegree has been developed with the strong intention to make it a community-driven project. A major step to this effect was the acceptance to be an OSGeo project in 2010."/>
                 <para PARENT="Bold" LINESP="12"/>
                 <ITEXT CH="Focus on standards"/>
                 <para PARENT="Column heading"/>
-                <ITEXT CH="deegree implements numerous Open Geospatial Consortium (OGC) standards and most of these implementations are OGC Reference Implementations (RI). It is also INSPIRE Discovery, View Service and Download Service compliant.  Supported standards are:"/>
+                <ITEXT FONT="Sintony Regular" FCOLOR="FromSVG#003a40" CH="deegree implements numerous Open Geospatial Consortium (OGC) standards and most of these implementations are OGC Reference Implementations (RI). It is also INSPIRE Discovery, View Service and Download Service compliant.  Supported standards are:"/>
                 <para PARENT="Bold" LINESP="12"/>
                 <para PARENT="Bold" LINESP="12"/>
-                <ITEXT CH=" "/>
-                <ITEXT Unicode="25" COBJ="1125737506"/>
-                <ITEXT CH=" "/>
-                <ITEXT FONT="Sintony Regular" CH="OGC API - Features, Core 1 and 2 (OGC RI)"/>
+                <ITEXT FCOLOR="FromSVG#003a40" CH=" "/>
+                <ITEXT FCOLOR="FromSVG#003a40" Unicode="25" COBJ="1125737506"/>
+                <ITEXT FCOLOR="FromSVG#003a40" CH=" "/>
+                <ITEXT FONT="Sintony Regular" FCOLOR="FromSVG#003a40" CH="OGC API - Features, Core 1 and 2 (OGC RI)"/>
                 <para PARENT="Bold" LINESP="12"/>
-                <ITEXT FONT="Sintony Regular" CH=" "/>
-                <ITEXT FONT="Sintony Regular" Unicode="25" COBJ="1125737506"/>
-                <ITEXT FONT="Sintony Regular" CH=" Web Feature Service (1.1.0/2.0.0) (OGC RI)"/>
+                <ITEXT FONT="Sintony Regular" FCOLOR="FromSVG#003a40" CH=" "/>
+                <ITEXT FONT="Sintony Regular" FCOLOR="FromSVG#003a40" Unicode="25" COBJ="1125737506"/>
+                <ITEXT FONT="Sintony Regular" FCOLOR="FromSVG#003a40" CH=" Web Feature Service (1.1.0/2.0.0) (OGC RI)"/>
                 <para PARENT="Bold" LINESP="12"/>
-                <ITEXT FONT="Sintony Regular" CH=" "/>
-                <ITEXT FONT="Sintony Regular" Unicode="25" COBJ="1125737506"/>
-                <ITEXT FONT="Sintony Regular" CH=" Web Map Service (1.1.1/1.3.0) (OGC RI)"/>
+                <ITEXT FONT="Sintony Regular" FCOLOR="FromSVG#003a40" CH=" "/>
+                <ITEXT FONT="Sintony Regular" FCOLOR="FromSVG#003a40" Unicode="25" COBJ="1125737506"/>
+                <ITEXT FONT="Sintony Regular" FCOLOR="FromSVG#003a40" CH=" Web Map Service (1.1.1/1.3.0) (OGC RI)"/>
                 <para PARENT="Bold" LINESP="12"/>
-                <ITEXT FONT="Sintony Regular" CH=" "/>
-                <ITEXT FONT="Sintony Regular" Unicode="25" COBJ="1125737506"/>
-                <ITEXT FONT="Sintony Regular" CH=" Web Map Tile Services (WMTS 1.0.0) (OGC RI)"/>
+                <ITEXT FONT="Sintony Regular" FCOLOR="FromSVG#003a40" CH=" "/>
+                <ITEXT FONT="Sintony Regular" FCOLOR="FromSVG#003a40" Unicode="25" COBJ="1125737506"/>
+                <ITEXT FONT="Sintony Regular" FCOLOR="FromSVG#003a40" CH=" Web Map Tile Services (WMTS 1.0.0) (OGC RI)"/>
                 <para PARENT="Bold" LINESP="12"/>
-                <ITEXT FONT="Sintony Regular" CH=" "/>
-                <ITEXT FONT="Sintony Regular" Unicode="25" COBJ="1125737506"/>
-                <ITEXT FONT="Sintony Regular" CH=" Geography Markup Language (GML 2/3.0/3.1/3.2) (OGC RI)"/>
+                <ITEXT FONT="Sintony Regular" FCOLOR="FromSVG#003a40" CH=" "/>
+                <ITEXT FONT="Sintony Regular" FCOLOR="FromSVG#003a40" Unicode="25" COBJ="1125737506"/>
+                <ITEXT FONT="Sintony Regular" FCOLOR="FromSVG#003a40" CH=" Geography Markup Language (GML 2/3.0/3.1/3.2) (OGC RI)"/>
                 <para PARENT="Bold" LINESP="12"/>
-                <ITEXT FONT="Sintony Regular" CH=" "/>
-                <ITEXT FONT="Sintony Regular" Unicode="25" COBJ="1125737506"/>
-                <ITEXT FONT="Sintony Regular" CH=" Style Layer Descriptor/Symbology Encoding "/>
+                <ITEXT FONT="Sintony Regular" FCOLOR="FromSVG#003a40" CH=" "/>
+                <ITEXT FONT="Sintony Regular" FCOLOR="FromSVG#003a40" Unicode="25" COBJ="1125737506"/>
+                <ITEXT FONT="Sintony Regular" FCOLOR="FromSVG#003a40" CH=" Style Layer Descriptor/Symbology Encoding "/>
                 <breakline/>
-                <ITEXT FONT="Sintony Regular" CH="    (SLD/SE 1.0.0/1.1.0) "/>
+                <ITEXT FONT="Sintony Regular" FCOLOR="FromSVG#003a40" CH="    (SLD/SE 1.0.0/1.1.0) "/>
                 <para PARENT="Bold" LINESP="12"/>
-                <ITEXT FONT="Sintony Regular" CH=" "/>
-                <ITEXT FONT="Sintony Regular" Unicode="25" COBJ="1125737506"/>
-                <ITEXT FONT="Sintony Regular" CH=" Filter Encoding (FE 1.0/1.1)"/>
+                <ITEXT FONT="Sintony Regular" FCOLOR="FromSVG#003a40" CH=" "/>
+                <ITEXT FONT="Sintony Regular" FCOLOR="FromSVG#003a40" Unicode="25" COBJ="1125737506"/>
+                <ITEXT FONT="Sintony Regular" FCOLOR="FromSVG#003a40" CH=" Filter Encoding (FE 1.0/1.1)"/>
                 <para PARENT="Bold" LINESP="12"/>
-                <ITEXT FONT="Sintony Regular" CH=" "/>
-                <ITEXT FONT="Sintony Regular" Unicode="25" COBJ="1125737506"/>
-                <ITEXT FONT="Sintony Regular" CH=" Catalogue Services for the Web (CSW 2.0.2)"/>
+                <ITEXT FONT="Sintony Regular" FCOLOR="FromSVG#003a40" CH=" "/>
+                <ITEXT FONT="Sintony Regular" FCOLOR="FromSVG#003a40" Unicode="25" COBJ="1125737506"/>
+                <ITEXT FONT="Sintony Regular" FCOLOR="FromSVG#003a40" CH=" Catalogue Services for the Web (CSW 2.0.2)"/>
                 <para PARENT="Bold" LINESP="12"/>
-                <ITEXT FONT="Sintony Regular" CH=" "/>
-                <ITEXT FONT="Sintony Regular" Unicode="25" COBJ="1125737506"/>
-                <ITEXT FONT="Sintony Regular" CH=" Web Processing Service (WPS 1.0.0)"/>
+                <ITEXT FONT="Sintony Regular" FCOLOR="FromSVG#003a40" CH=" "/>
+                <ITEXT FONT="Sintony Regular" FCOLOR="FromSVG#003a40" Unicode="25" COBJ="1125737506"/>
+                <ITEXT FONT="Sintony Regular" FCOLOR="FromSVG#003a40" CH=" Web Processing Service (WPS 1.0.0)"/>
                 <para PARENT="Bold" LINESP="12"/>
-                <ITEXT FONT="Sintony Regular" CH=" "/>
-                <ITEXT FONT="Sintony Regular" Unicode="25" COBJ="1125737506"/>
-                <ITEXT FONT="Sintony Regular" CH=" Web Coverage Service (WCS 1.0.0)"/>
+                <ITEXT FONT="Sintony Regular" FCOLOR="FromSVG#003a40" CH=" "/>
+                <ITEXT FONT="Sintony Regular" FCOLOR="FromSVG#003a40" Unicode="25" COBJ="1125737506"/>
+                <ITEXT FONT="Sintony Regular" FCOLOR="FromSVG#003a40" CH=" Web Coverage Service (WCS 1.0.0)"/>
                 <para PARENT="Bold" LINESP="12"/>
                 <para PARENT="Bold"/>
                 <para/>
