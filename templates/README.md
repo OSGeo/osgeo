@@ -16,4 +16,14 @@ Website template for [projects](https://www.osgeo.org/projects/), [service provi
 
 Website project page templates:
 
-* [laptop-mockup.psd](../marketing/photos/laptop-mockup.psd) | [png](../marketing/photos/laptop-mockup.png) | [jpg](../marketing/photos/laptop-mockup.jpg)
+* [laptop-mockup.psd](../marketing/photos/laptop-mockup.psd) | [png](../marketing/photos/laptop-mockup.png) | [jpg](../marketing/photos/laptop-mockup.jpg) (original)
+* Screenshot-frames for laptop, browser, tablet, and phone:
+  
+  * [frame-laptop.png](frame-laptop.png)
+  * [frame-browser.png](frame-browser.png)
+  * [frame-tablet.png](frame-tablet.png)
+  * [frame-mobile.png](frame-mobile.png)
+  
+  Designs for laptop, phone and browser sourced from [Luke Emmerson-Finch](https://www.lukeemmerson.co.uk).
+  Designs for tablet sourced from Fedza Miralem.
+  Jody Garnett made modifications made for website scale and clarity (removing round corners).
