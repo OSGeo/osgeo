@@ -1,24 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="595px" height="842px" viewBox="0 0 595 842" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>osgeo_a4</title>
-    <g id="osgeo_a4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect fill="#FFFFFF" x="0" y="0" width="595" height="842"></rect>
-        <polygon id="Fill2" fill="#EAEAEA" points="0 841.593814 595.2746 741.5159 595.2746 740.0779 0 640"></polygon>
-        <polygon id="Fill1" fill="#CFD1D0" points="0 841.077914 0 842.409913 595.2746 842.409913 595.2746 741"></polygon>
-        <text id="url" font-family="MiriamLibre-Bold, Miriam Libre" font-size="14" font-weight="bold" letter-spacing="0.42" fill="#00393F">
-            <tspan x="442.2794" y="789">ww</tspan>
-            <tspan x="468.9914" y="789" letter-spacing="-1.26">w</tspan>
-            <tspan x="478.9874" y="789">.</tspan>
-            <tspan x="482.7954" y="789" letter-spacing="-0.14">o</tspan>
-            <tspan x="490.8034" y="789" letter-spacing="-0.07">sg</tspan>
-            <tspan x="505.8954" y="789" letter-spacing="0.0686">e</tspan>
-            <tspan x="514.224" y="789" letter-spacing="-0.14">o</tspan>
-            <tspan x="522.232" y="789">.</tspan>
-            <tspan x="526.04" y="789" letter-spacing="-0.21">o</tspan>
-            <tspan x="533.908" y="789" letter-spacing="-0.14">r</tspan>
-            <tspan x="540.628" y="789">g</tspan>
+<svg width="612px" height="792px" viewBox="0 0 612 792" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>osgeo_letter</title>
+    <g id="osgeo_letter" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="612" height="792"></rect>
+        <polygon id="Fill-1" fill="#EAEAE6" points="0 784.834034 611.994155 683.366375 611.994155 680.467659 0 579"></polygon>
+        <polygon id="Fill-3" fill="#CACBC6" points="0 784.586759 0 792.2668 611.994155 792.2668 611.994155 683.1191"></polygon>
+        <text id="Title" font-family="MiriamLibre-Bold, Miriam Libre" font-size="35" font-weight="bold" line-spacing="40" letter-spacing="0.001" fill="#4AB969">
+            <tspan x="44" y="45">Open Source</tspan>
+            <tspan x="44" y="85">Geospatial Foundation</tspan>
         </text>
-        <g id="logo" transform="translate(49.2521, 735.6949)">
+        <text id="Subtitle" font-family="MiriamLibre-Bold, Miriam Libre" font-size="14" font-weight="bold" line-spacing="18" letter-spacing="-0.0035" fill="#00393F">
+            <tspan x="44" y="120">Empower everyone with open source geospatial</tspan>
+        </text>
+        <text id="url" font-family="MiriamLibre-Bold, Miriam Libre" font-size="14" font-weight="bold" letter-spacing="0.42" fill="#00393F">
+            <tspan x="442.2794" y="733">ww</tspan>
+            <tspan x="468.9914" y="733" letter-spacing="-1.26">w</tspan>
+            <tspan x="478.9874" y="733">.</tspan>
+            <tspan x="482.7954" y="733" letter-spacing="-0.14">o</tspan>
+            <tspan x="490.8034" y="733" letter-spacing="-0.07">sg</tspan>
+            <tspan x="505.8954" y="733" letter-spacing="0.0686">e</tspan>
+            <tspan x="514.224" y="733" letter-spacing="-0.14">o</tspan>
+            <tspan x="522.232" y="733">.</tspan>
+            <tspan x="526.04" y="733" letter-spacing="-0.21">o</tspan>
+            <tspan x="533.908" y="733" letter-spacing="-0.14">r</tspan>
+            <tspan x="540.628" y="733">g</tspan>
+        </text>
+        <g id="logo" transform="translate(49.2521, 679.6949)">
             <path d="M96.55424,47.13595 C97.63024,46.47995 98.48624,45.59695 99.12224,44.48095 C99.75724,43.36495 100.07624,42.16896 100.07624,40.88796 L100.07624,30.41396 C100.07624,29.13296 99.75724,27.93697 99.12224,26.82197 C98.48624,25.70897 97.63024,24.82097 96.55424,24.16597 C95.47824,23.50997 94.31924,23.18297 93.08124,23.18297 C91.84024,23.18297 90.68324,23.50997 89.60724,24.16597 C88.53124,24.82097 87.67524,25.70897 87.03724,26.82197 C86.40224,27.93697 86.08424,29.13296 86.08424,30.41396 L86.08424,40.88796 C86.08424,42.16896 86.40224,43.36495 87.03724,44.48095 C87.67524,45.59695 88.53124,46.47995 89.60724,47.13595 C90.68324,47.79195 91.84024,48.11995 93.08124,48.11995 C94.31924,48.11995 95.47824,47.79195 96.55424,47.13595 M86.57424,52.12995 C84.58424,50.96395 83.01024,49.39095 81.85224,47.40795 C80.69524,45.42395 80.11524,43.24895 80.11524,40.88796 L80.11524,30.41396 C80.11524,28.05397 80.69524,25.88097 81.85224,23.89797 C83.01024,21.91097 84.58424,20.33797 86.57424,19.17597 C88.56224,18.00997 90.73124,17.42797 93.08124,17.42797 C95.42824,17.42797 97.59724,18.00997 99.58724,19.17597 C101.57624,20.33797 103.15024,21.91097 104.30724,23.89797 C105.46524,25.88097 106.04424,28.05397 106.04424,30.41396 L106.04424,40.88796 C106.04424,43.24895 105.46524,45.42395 104.30724,47.40795 C103.15024,49.39095 101.57624,50.96395 99.58724,52.12995 C97.59724,53.29195 95.42824,53.87395 93.08124,53.87395 C90.73124,53.87395 88.56224,53.29195 86.57424,52.12995" id="Fill-17" fill="#4AB969"></path>
             <path d="M115.900079,52.73088 C114.188079,52.15788 112.597079,51.36288 111.130079,50.34688 C110.966079,50.24688 110.852079,50.07588 110.787079,49.83088 C110.721079,49.58188 110.739079,49.36388 110.837079,49.16488 L112.549079,46.06488 C112.744079,45.67488 113.054079,45.47588 113.477079,45.47588 C113.739079,45.47588 113.984079,45.54188 114.213079,45.67488 C116.658079,47.21488 118.941079,47.98588 121.062079,47.98588 C122.789079,47.98588 124.151079,47.56588 125.147079,46.73088 C126.142079,45.89288 126.638079,44.80388 126.638079,43.45888 C126.638079,42.57489 126.393079,41.83089 125.905079,41.22089 C125.415079,40.61489 124.762079,40.09889 123.948079,39.67189 C123.132079,39.24789 121.941079,38.72089 120.376079,38.09889 L118.958079,37.50889 C116.739079,36.55889 114.873079,35.34389 113.357079,33.86989 C111.839079,32.39289 111.080079,30.22789 111.080079,27.3769 C111.080079,25.3769 111.529079,23.6049 112.426079,22.0659 C113.324079,20.5229 114.570079,19.3269 116.170079,18.4729 C117.767079,17.6219 119.610079,17.1949 121.698079,17.1949 C123.427079,17.1949 125.147079,17.4829 126.859079,18.0559 C128.570079,18.6319 130.112079,19.4269 131.482079,20.4429 C131.644079,20.5389 131.759079,20.7109 131.824079,20.9599 C131.890079,21.2049 131.874079,21.4269 131.776079,21.6219 L130.161079,24.7209 C129.966079,25.1149 129.655079,25.3099 129.231079,25.3099 C128.969079,25.3099 128.726079,25.2439 128.497079,25.1149 C127.226079,24.2939 126.011079,23.7049 124.854079,23.3439 C123.694079,22.9829 122.660079,22.8039 121.746079,22.8039 C120.279079,22.8039 119.120079,23.2049 118.272079,24.0059 C117.424079,24.8109 117.001079,25.8369 117.001079,27.0819 C117.001079,28.3599 117.466079,29.41689 118.395079,30.25389 C119.325079,31.08889 120.817079,31.93289 122.872079,32.78789 C123.165079,32.88689 124.282079,33.33689 126.223079,34.13789 C128.163079,34.94289 129.705079,36.11489 130.845079,37.65489 C131.988079,39.19789 132.559079,41.01889 132.559079,43.11488 C132.559079,45.14888 132.077079,46.95988 131.115079,48.54888 C130.153079,50.14188 128.807079,51.37988 127.079079,52.26388 C125.350079,53.14788 123.360079,53.59188 121.110079,53.59188 C119.349079,53.59188 117.612079,53.30388 115.900079,52.73088" id="Fill-19" fill="#4AB969"></path>
             <path d="M143.24144,52.12955 C141.26644,50.96355 139.70144,49.39155 138.54444,47.40755 C137.38544,45.42455 136.80844,43.24855 136.80844,40.88756 L136.80844,30.41456 C136.80844,28.05357 137.38544,25.88057 138.54444,23.89757 C139.70144,21.91157 141.26644,20.33857 143.24144,19.17557 C145.21344,18.01057 147.37344,17.42757 149.72344,17.42757 C151.77744,17.42757 153.68544,17.79857 155.44744,18.53357 C157.20844,19.27157 158.70844,20.34857 159.94844,21.75557 C160.14344,21.98757 160.24134,22.26557 160.24134,22.59357 C160.24134,22.92057 160.11044,23.24857 159.85044,23.57657 L157.69644,25.83757 C157.43544,26.10257 157.17544,26.23257 156.91544,26.23257 C156.58744,26.23257 156.29444,26.08657 156.03444,25.78857 C154.40244,24.05357 152.31644,23.18257 149.77144,23.18257 C148.53144,23.18257 147.37344,23.51057 146.29744,24.16557 C145.22144,24.82157 144.36544,25.70957 143.72944,26.82157 C143.09444,27.93757 142.77644,29.13256 142.77644,30.41456 L142.77644,40.88756 C142.77644,42.16956 143.09444,43.36455 143.72944,44.48055 C144.36544,45.59655 145.22144,46.48055 146.29744,47.13555 C147.37344,47.79155 148.53144,48.11955 149.77144,48.11955 C151.01144,48.11955 152.16944,47.80855 153.24444,47.18555 C154.32044,46.56355 155.16844,45.70855 155.78944,44.62655 C156.40844,43.54655 156.71844,42.36456 156.71844,41.08656 L156.71844,38.67556 L150.16444,38.67556 C149.86944,38.67556 149.62544,38.57656 149.42844,38.38056 C149.23344,38.18556 149.13544,37.93756 149.13544,37.64256 L149.13544,34.10256 C149.13544,33.80856 149.23344,33.56056 149.42844,33.36456 C149.62544,33.16556 149.86944,33.06956 150.16444,33.06956 L160.48634,33.06956 C161.07234,33.06956 161.56934,33.27456 161.97834,33.68256 C162.38534,34.09356 162.58934,34.59256 162.58934,35.18256 L162.58934,40.88756 C162.58934,43.24855 162.00934,45.42455 160.85234,47.40755 C159.69544,49.39155 158.12844,50.96355 156.15744,52.12955 C154.18144,53.29155 152.03744,53.87455 149.72344,53.87455 C147.37344,53.87455 145.21344,53.29155 143.24144,52.12955" id="Fill-20" fill="#00393F"></path>
@@ -32,20 +39,20 @@
             <polygon id="Fill-28" fill="#4AB969" points="33.44548 37.85686 30.47148 33.39486 16.93449 35.65086 30.47148 37.90686 24.62249 46.67985 33.39548 40.83086 35.65148 54.36785 37.90748 40.83086"></polygon>
             <polygon id="Fill-29" fill="#4AB969" points="40.83158 33.39486 46.68057 24.62187 37.90758 30.47086 35.65158 16.93387 33.39558 30.47086 37.85758 33.44486 40.83158 37.90686 54.36754 35.65086"></polygon>
         </g>
-        <g id="Software-Foundation" transform="translate(304, 578)">
+        <g id="Software-Foundation" transform="translate(313, 550)">
             <text id="body" font-family="Sintony" font-size="8.5" font-weight="normal" line-spacing="13" fill="#0B3033">
                 <tspan x="0" y="40">OSGeo is responsible for supporting our great collection of </tspan>
                 <tspan x="0" y="53">projects, and fostering new talent and innovation. OSGeo </tspan>
-                <tspan x="0" y="66">assists projects technically with a community of their </tspan>
-                <tspan x="0" y="79">peers, socially with community building, and </tspan>
-                <tspan x="0" y="92">professionally ensuring projects are managed in a fair and </tspan>
-                <tspan x="0" y="105">sustainable manner.</tspan>
+                <tspan x="0" y="66">assists projects technically with a community of their peers, </tspan>
+                <tspan x="0" y="79">socially with community building, and professionally </tspan>
+                <tspan x="0" y="92">ensuring projects are managed in a fair and sustainable </tspan>
+                <tspan x="0" y="105">manner.</tspan>
             </text>
             <text id="title" font-family="MiriamLibre-Bold, Miriam Libre" font-size="14" font-weight="bold" letter-spacing="-0.0035" fill="#4AB969">
                 <tspan x="0" y="14">Software Foundation</tspan>
             </text>
         </g>
-        <g id="Open-Geospatial" transform="translate(303.7238, 341)">
+        <g id="Open-Geospatial" transform="translate(312.7238, 330)">
             <text id="close" font-family="Sintony" font-size="8.5" font-weight="normal" line-spacing="13" fill="#0B3033">
                 <tspan x="0" y="174">Open Geospaital applies the community spirit of opens-</tspan>
                 <tspan x="0" y="187">source across geospatial disciplines. OSGeo is pleased to </tspan>
@@ -58,16 +65,16 @@
                     <tspan x="20" y="21" font-family="Sintony" font-weight="normal">software development.</tspan>
                     <tspan x="113.959" y="21"></tspan>
                     <tspan x="20" y="34">Open Data:</tspan>
-                    <tspan x="65.254" y="34" font-family="Sintony" font-weight="normal"> providing freely available information to </tspan>
-                    <tspan x="20" y="47" font-family="Sintony" font-weight="normal">use as you wish.</tspan>
-                    <tspan x="88.187" y="47"></tspan>
+                    <tspan x="65.254" y="34" font-family="Sintony" font-weight="normal"> providing freely available information to use </tspan>
+                    <tspan x="20" y="47" font-family="Sintony" font-weight="normal">as you wish.</tspan>
+                    <tspan x="70.677" y="47"></tspan>
                     <tspan x="20" y="60">Open Standards:</tspan>
                     <tspan x="88.8585" y="60" font-family="Sintony" font-weight="normal"> enabling interoperable software to </tspan>
                     <tspan x="20" y="73" font-family="Sintony" font-weight="normal">avoid lock-in.</tspan>
                     <tspan x="76.1" y="73"></tspan>
                     <tspan x="20" y="86">Open Education:</tspan>
-                    <tspan x="87.949" y="86" font-family="Sintony" font-weight="normal"> removing the barriers to learning </tspan>
-                    <tspan x="20" y="99" font-family="Sintony" font-weight="normal">and teaching.</tspan>
+                    <tspan x="87.949" y="86" font-family="Sintony" font-weight="normal"> removing the barriers to learning and </tspan>
+                    <tspan x="20" y="99" font-family="Sintony" font-weight="normal">teaching.</tspan>
                 </text>
                 <polygon id="Fill-10" fill="#4AB969" points="4.13025202 6.44 0 4 0 8.883"></polygon>
                 <polygon id="Fill-11" fill="#4AB969" points="4.13025202 32.44 0 30 0 34.883"></polygon>
@@ -82,58 +89,58 @@
                 <tspan x="0" y="14">Open Geospatial</tspan>
             </text>
         </g>
-        <g id="Open-Source" transform="translate(304, 146)">
+        <g id="Open-Source" transform="translate(313, 139)">
             <text id="Open-Source-Software" font-family="MiriamLibre-Bold, Miriam Libre" font-size="14" font-weight="bold" letter-spacing="-0.0035" fill="#4AB969">
                 <tspan x="0" y="14">Open Source Software</tspan>
             </text>
             <text id="OSGeo-holds-a-passio" font-family="Sintony-Bold, Sintony" font-size="8.5" font-weight="bold" line-spacing="13" fill="#0B3033">
-                <tspan x="0" y="35">OSGeo holds a passionate belief in open source as the </tspan>
-                <tspan x="0" y="48">best way to build software.</tspan>
+                <tspan x="0" y="35">OSGeo holds a passionate belief in open source as the best </tspan>
+                <tspan x="0" y="48">way to build software.</tspan>
             </text>
             <text id="Open-source-starts-o" font-family="Sintony" font-size="8.5" font-weight="normal" line-spacing="13" fill="#0B3033">
                 <tspan x="0" y="72">Open source starts off with a license that provides royalty </tspan>
-                <tspan x="0" y="85">free use of software. Next, open source guarantees access </tspan>
-                <tspan x="0" y="98">to the source code for audit and modification and the </tspan>
-                <tspan x="0" y="111">ability to redistribute the software with no additional costs. </tspan>
-                <tspan x="0" y="124">Finally support is available from an ecosystem of service </tspan>
-                <tspan x="0" y="137">providers and through community participation.</tspan>
+                <tspan x="0" y="85">free use of software. Next, open source guarantees access to </tspan>
+                <tspan x="0" y="98">the source code for audit and modification and the ability to </tspan>
+                <tspan x="0" y="111">redistribute the software with no additional costs. Finally </tspan>
+                <tspan x="0" y="124">support is available from an ecosystem of service providers </tspan>
+                <tspan x="0" y="137">and through community participation.</tspan>
             </text>
             <text id="OSGeo-projects-are-f" font-family="Sintony" font-size="8.5" font-weight="normal" line-spacing="13" fill="#0B3033">
-                <tspan x="0" y="158">OSGeo projects are freely available under OSI certified </tspan>
-                <tspan x="0" y="171">open source licenses.</tspan>
+                <tspan x="0" y="158">OSGeo projects are freely available under OSI certified open </tspan>
+                <tspan x="0" y="171">source licenses.</tspan>
             </text>
         </g>
-        <g id="Local-Chapters" transform="translate(56.6925, 463.9645)">
+        <g id="Local-Chapters" transform="translate(44, 453)">
             <text id="To-discover-a-group" font-family="Sintony" font-size="9" font-weight="normal" fill="#0B3033">
-                <tspan x="0" y="201">To discover a group near you please visit our website, </tspan>
-                <tspan x="0" y="213">we cannot wait to meet you.</tspan>
+                <tspan x="0" y="201">To discover a group near you please visit our website, we </tspan>
+                <tspan x="0" y="213">cannot wait to meet you.</tspan>
             </text>
             <g id="bullets" transform="translate(0, 67)">
                 <polygon id="Fill-7" fill="#4AB969" points="4.225 6.44 0 4 0 8.883"></polygon>
                 <polygon id="Fill-8" fill="#4AB969" points="4.225 46.44 0 44 0 48.883"></polygon>
                 <polygon id="Fill-9" fill="#4AB969" points="4.225 70.44 0 68 0 72.883"></polygon>
                 <text id="Local-Chapters" font-family="Sintony" font-size="8.5" font-weight="normal" line-spacing="13" fill="#0B3033">
-                    <tspan x="15" y="8">Local Chapters for a region hold events, offer </tspan>
-                    <tspan x="15" y="21">support, provide training, and explore advocacy with </tspan>
+                    <tspan x="15" y="8">Local Chapters for a region hold events, offer support, </tspan>
+                    <tspan x="15" y="21">provide training, and explore advocacy with </tspan>
                     <tspan x="15" y="34">(non-)governmental agencies and industry sectors.</tspan>
                     <tspan x="15" y="47">Local Chapters for a language or industry provide an </tspan>
                     <tspan x="15" y="60">opportunity to connect, network and share.</tspan>
                     <tspan x="15" y="73">Each local chapter has a mix of GIS professionals, </tspan>
-                    <tspan x="15" y="86">academic champions, software developers and </tspan>
-                    <tspan x="15" y="99">service providers eager to share their stories and </tspan>
-                    <tspan x="15" y="112">help you start your open source journey.</tspan>
+                    <tspan x="15" y="86">academic champions, software developers and service </tspan>
+                    <tspan x="15" y="99">providers eager to share their stories and help you start </tspan>
+                    <tspan x="15" y="112">your open source journey.</tspan>
                 </text>
             </g>
             <text id="Starting-out-with-ne" font-family="Sintony-Bold, Sintony" font-size="8.5" font-weight="bold" line-spacing="13" fill="#0B3033">
-                <tspan x="0" y="41">Starting out with new technology can be intimidating. </tspan>
-                <tspan x="0" y="54">OSGeo offers “local chapter” to help you get started:</tspan>
+                <tspan x="0" y="41">Starting out with new technology can be intimidating. OSGeo </tspan>
+                <tspan x="0" y="54">offers “local chapter” to help you get started:</tspan>
             </text>
             <text font-family="MiriamLibre-Bold, Miriam Libre" font-size="14" font-weight="bold" letter-spacing="-0.0035" fill="#4AB969">
                 <tspan x="0" y="14">Local Chapters</tspan>
             </text>
         </g>
-        <g id="Welcome" transform="translate(55.6925, 146)">
-            <g id="Sponsors" transform="translate(10.3075, 267)">
+        <g id="Welcome" transform="translate(44, 139)">
+            <g id="Sponsors" transform="translate(20, 267)">
                 <g id="Wherebots">
                     <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="52" height="26"></rect>
                     <g id="wherobots_logo" transform="translate(0, 7.0417)">
@@ -245,25 +252,25 @@
             </g>
             <text id="About-Close" font-family="Sintony" font-size="8.5" font-weight="normal" line-spacing="13" fill="#0B3033">
                 <tspan x="0" y="202">OSGeo is a volunteer driven not-for-profit organization </tspan>
-                <tspan x="0" y="215">drawing together a wide membership of individuals </tspan>
-                <tspan x="0" y="228">from around the world. We are pleased to work with our </tspan>
-                <tspan x="0" y="241">sponsors and partners to foster an open approach to </tspan>
-                <tspan x="0" y="254">software, standards, data and education.</tspan>
+                <tspan x="0" y="215">drawing together a wide membership of individuals from </tspan>
+                <tspan x="0" y="228">around the world. We are pleased to work with our sponsors </tspan>
+                <tspan x="0" y="241">and partners to foster an open approach to software, </tspan>
+                <tspan x="0" y="254">standards, data and education.</tspan>
             </text>
-            <g id="Bullets" transform="translate(1, 95)">
+            <g id="Bullets" transform="translate(0, 95)">
                 <text font-family="Sintony-Bold, Sintony" font-size="8.5" font-weight="bold" line-spacing="13" fill="#0B3033">
-                    <tspan x="15.30754" y="8">OSGeo Projects:</tspan>
-                    <tspan x="79.85654" y="8" font-family="Sintony" font-weight="normal"> Powerful open source software for </tspan>
-                    <tspan x="15.30754" y="21" font-family="Sintony" font-weight="normal">GIS professionals and technologist.</tspan>
-                    <tspan x="161.28654" y="21"></tspan>
-                    <tspan x="15.30754" y="34">GeoForAll:</tspan>
-                    <tspan x="56.45604" y="34" font-family="Sintony" font-weight="normal"> Over 100 educational labs from around </tspan>
-                    <tspan x="15.30754" y="47" font-family="Sintony" font-weight="normal">the world who work with partners to make geospatial </tspan>
-                    <tspan x="15.30754" y="60" font-family="Sintony" font-weight="normal">education and opportunities accessible to all.</tspan>
-                    <tspan x="204.68754" y="60"></tspan>
-                    <tspan x="15.30754" y="73">FOSS4G:</tspan>
-                    <tspan x="49.32454" y="73" font-family="Sintony" font-weight="normal"> Annual, international conference for Free </tspan>
-                    <tspan x="15.30754" y="86" font-family="Sintony" font-weight="normal">and Open Source Software for Geospatial.</tspan>
+                    <tspan x="15" y="8">OSGeo Projects:</tspan>
+                    <tspan x="79.549" y="8" font-family="Sintony" font-weight="normal"> Powerful open source software for GIS </tspan>
+                    <tspan x="15" y="21" font-family="Sintony" font-weight="normal">professionals and technologist.</tspan>
+                    <tspan x="144.9905" y="21"></tspan>
+                    <tspan x="15" y="34">GeoForAll:</tspan>
+                    <tspan x="56.1485" y="34" font-family="Sintony" font-weight="normal"> Over 100 educational labs from around the </tspan>
+                    <tspan x="15" y="47" font-family="Sintony" font-weight="normal">world who work with partners to make geospatial </tspan>
+                    <tspan x="15" y="60" font-family="Sintony" font-weight="normal">education and opportunities accessible to all.</tspan>
+                    <tspan x="204.38" y="60"></tspan>
+                    <tspan x="15" y="73">FOSS4G:</tspan>
+                    <tspan x="49.017" y="73" font-family="Sintony" font-weight="normal"> Annual, international conference for Free and </tspan>
+                    <tspan x="15" y="86" font-family="Sintony" font-weight="normal">Open Source Software for Geospatial.</tspan>
                 </text>
                 <polygon id="Fill-4" fill="#4AB969" points="4.225 5.9033 0 3.4633 0 8.3463"></polygon>
                 <polygon id="Fill-5" fill="#4AB969" points="4.225 31.9033 0 29.4633 0 34.3463"></polygon>
@@ -274,19 +281,12 @@
             </text>
             <text id="About" font-family="Sintony-Bold, Sintony" font-size="8.5" font-weight="bold" line-spacing="13" fill="#0B3033">
                 <tspan x="0" y="35">The Open Source Geospatial Foundation is a software </tspan>
-                <tspan x="0" y="48">foundation promoting the global adoption of open </tspan>
-                <tspan x="0" y="61">source geospatial technology.</tspan>
+                <tspan x="0" y="48">foundation promoting the global adoption of open source </tspan>
+                <tspan x="0" y="61">geospatial technology.</tspan>
             </text>
             <text id="Title" font-family="MiriamLibre-Bold, Miriam Libre" font-size="14" font-weight="bold" letter-spacing="-0.0035" fill="#4AB969">
                 <tspan x="0" y="14">Welcome</tspan>
             </text>
         </g>
-        <text id="Title" font-family="MiriamLibre-Bold, Miriam Libre" font-size="35" font-weight="bold" line-spacing="40" letter-spacing="0.001" fill="#4AB969">
-            <tspan x="56" y="45">Open Source</tspan>
-            <tspan x="56" y="85">Geospatial Foundation</tspan>
-        </text>
-        <text id="Subtitle" font-family="MiriamLibre-Bold, Miriam Libre" font-size="14" font-weight="bold" line-spacing="18" letter-spacing="-0.0035" fill="#00393F">
-            <tspan x="57" y="123">Empower everyone with open source geospatial</tspan>
-        </text>
     </g>
 </svg>
