@@ -9,10 +9,10 @@ Please double check the style guide:
 * Branding Elements: compass points extending to edge of frame
 * Photos: drone photography, or appropriate cartography content for your target audience. Photos are placed behind a 50% transparent black layer to allow text to stand out.
 
-The style guide is now complete, revised based our initial experience and feedback. It includes sections on fonts, colors, sub-brands, distinct brands, color use and cartography, and application of OSGeo branding elements to evertyhing from banners to buisness cards.
+The style guide is now complete, revised based our initial experience and feedback. It includes sections on fonts, colors, sub-brands, distinct brands, color use and cartography, and application of OSGeo branding elements to everything from banners to business cards.
 
 # Logos
 
-Logos are as provided for OSGeo and sub-brands (all of which include the unalterned OSGeo mark). Distinct brands (such as GeoForAll and OSGeo Live) maintain their own mark.
+Logos are as provided for OSGeo and sub-brands (all of which include the unaltered OSGeo mark). Distinct brands (such as GeoForAll and OSGeo Live) maintain their own mark.
 
 While logos have been produced with Miriam Libre Bold and Sintony Regular the resulting shapes have been reduced to outlines for use on systems that do not have the correct fonts available. A template has been provided for the generation of additional sub-brand logos.
