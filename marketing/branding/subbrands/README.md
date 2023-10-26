@@ -8,7 +8,7 @@ Text has been reduced to outlines for use on systems that do not have the correc
 
 ## Instructions for Template Use
 
-Am adobe illustrator template has been provided for the generation of additional sub-brand logos, this has been converted to SVG for use in a wider range of applications.
+An Adobe illustrator template has been provided for the generation of additional sub-brand logos, this has been converted to SVG for use in a wider range of applications.
 
 To use the template you will need to:
 
