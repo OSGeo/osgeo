@@ -10,7 +10,7 @@ This repository contains official branding, documents, and correspondence. Acces
 
 ## License
 
-All work here is copyrighted. The Open Source Geospatial Foundation unless otherwise stated is made available to you under an appropriate [Creative Commons](https://creativecommons.org) license.
+All work here is copyright. The Open Source Geospatial Foundation unless otherwise stated is made available to you under an appropriate [Creative Commons](https://creativecommons.org) license.
 
 Document licenses for software developers:
 
