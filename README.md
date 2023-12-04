@@ -1,6 +1,6 @@
 # The Open Source Geospatial Foundation
 
-The Open Source Geospatial Foundation is a not-for-profit organization to empower everyone with open source geospatial. The software foundation directly supports projects serving as an outreach and advocacy organization providing financial, organizational and legal support for the open source geospatial community. OSGeo works with our sponsors and partners to foster an open approach to software, standards, data, and education.
+The Open Source Geospatial Foundation is a not-for-profit organization to empower everyone with open source geospatial. The software foundation directly supports projects serving as an outreach and advocacy organization providing financial, organizational and legal support for the open-source geospatial community. OSGeo works with our sponsors and partners to foster an open approach to software, standards, data, and education.
 
 > OSGeo has US 501(c)(4) legal status as a not-for-profit organization
 
@@ -10,7 +10,7 @@ This repository contains official branding, documents, and correspondence. Acces
 
 ## License
 
-All work here is copyright The Open Source Geospatial Foundation unless otherwise stated it is made available to you under an appropriate [Creative Commons](https://creativecommons.org) license.
+All work here is copyright The Open Source Geospatial Foundation. Unless otherwise stated this content is made available to you under an appropriate [Creative Commons](https://creativecommons.org) license.
 
 Document licenses for software developers:
 
@@ -18,11 +18,11 @@ Document licenses for software developers:
 
 * [CCBYSA](https://creativecommons.org/licenses/by-sa/4.0/) - protective license similar to GPL allows content to be remixed by other authors, as long as what they are writing is also using a share-alike license.
 
-* [CC0](https://creativecommons.org/publicdomain/) - creative commons public domain tools are used for outreach where we want the information to have as far a reach as possible. When using this approach we do not even ask for attribution! We have to be careful using this license to avoid including any content or photos that we did not create ourselves.
+* [CC0](https://creativecommons.org/publicdomain/) - Creative Commons public domain tools are used for outreach where we want the information to have as far a reach as possible. When using this approach we do not even ask for attribution! We have to be careful using this license to avoid including any content or photos that we did not create ourselves.
 
 Not all of our content is licensed for modification:
 
-* [CCBYND](https://creativecommons.org/licenses/by-nd/4.0/) - some documents are not useful to share in modified form: our organization charter, memorandums of understanding with partners, official legal documents, letters of recommendation, letters of support. In these cases we allow free distribution, but not modification, of said content. Authors may still quote or cite these materials, and this GitHub repository provides a stable URL. Be sure to include the revision when citing as these documents change over time.
+* [CCBYND](https://creativecommons.org/licenses/by-nd/4.0/) - some documents are not useful to share in a modified form: our organization charter, memorandums of understanding with partners, official legal documents, letters of recommendation, letters of support. In these cases we allow free distribution, but not modification, of said content. Authors may still quote or cite these materials, and this GitHub repository provides a stable URL. Be sure to include the revision when citing as these documents change over time.
 
 ## Copyright
 
