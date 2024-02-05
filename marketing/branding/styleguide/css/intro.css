@@ -1,0 +1,24 @@
+html {
+  height: 100%;
+}
+body {
+  min-height: 100%;
+}
+body{background:url(../img/bg-intro.jpg); -webkit-background-size: cover;   background-size: cover;}
+#md-all > hr{border:0;}
+h1{font-family: miriam_librebold !important;font-size:5em !important;color:#FFFFFF !important;left:.5em !important;max-width:40%;margin:1em 0 0 0 !important;}
+h2{font-family: miriam_librebold !important;font-size:2em !important;color:#4CAF5B !important;left:.5em !important;z-index:10;}
+h2 > span > a{display:none !important;}
+
+#md-all > div.scontainer {
+position:absolute !important;
+bottom:0 !important;
+left:0;
+width:100%;
+margin-top:0 !important;
+}
+
+
+#md-all .md-copyright-footer p {
+    color:#FFFFFF !important;
+}
